@@ -49,7 +49,7 @@ export function calculateScore(answers: Record<number, number>): ScoreResult {
 
   return {
     total,
-    maxTotal: 20,
+    maxTotal: questions.length * 2,
     stufe,
     stufenLabel,
     stufenFarbe,

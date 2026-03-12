@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useRef } from "react";
+import { useState, useCallback, useRef, useEffect } from "react";
 import Link from "next/link";
 import { AnimatePresence, motion } from "motion/react";
 import { Button } from "@/components/ui/button";
@@ -63,6 +63,13 @@ export default function AssessmentPage() {
   }, []);
 
   const autoAdvanceTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // Cleanup timer on unmount to prevent state updates after navigation
+  useEffect(() => {
+    return () => {
+      if (autoAdvanceTimer.current) clearTimeout(autoAdvanceTimer.current);
+    };
+  }, []);
 
   const handleAnswer = useCallback(
     (questionId: number, value: number) => {
@@ -134,6 +141,7 @@ export default function AssessmentPage() {
   };
 
   const restart = () => {
+    if (autoAdvanceTimer.current) clearTimeout(autoAdvanceTimer.current);
     setAnswers({});
     setSelectedRegion("");
     setRegion(null);

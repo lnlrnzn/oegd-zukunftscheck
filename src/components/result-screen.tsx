@@ -6,6 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
 import { calculateScore } from "@/lib/scoring";
+import { questions } from "@/lib/questions";
 import {
   AlertTriangle,
   CheckCircle2,
@@ -53,7 +54,7 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
         : { from: "#dc2626", to: "#f87171" };
 
   // Count by category
-  const digitalCount = Object.values(answers).filter((v) => v === 0).length;
+  const digitalCount = questions.filter((q) => answers[q.id] === 0).length;
   const teilweiseCount = result.teilweiseDigitaleProzesse.length;
   const analogCount = result.analogeProzesse.length;
 
