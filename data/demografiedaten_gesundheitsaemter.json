@@ -1,0 +1,99 @@
+{
+  "beschreibung": "Regionales Gesundheitspersonalmonitoring - Örtliche Gesundheitsämter Deutschland (Personen)",
+  "quelle": "ÖGD Excel.xlsx - Tabelle2 (Statistisches Bundesamt)",
+  "region": "Deutschland",
+  "behoerdentyp": "Örtliche Gesundheitsämter",
+  "darstellung": "Anzahl Personen",
+  "nach_alter": {
+    "2023": {
+      "insgesamt": {"gesamt": 26320, "maennlich": 4795, "weiblich": 21525},
+      "unter_25": {"gesamt": 360, "maennlich": 85, "weiblich": 275},
+      "25_bis_35": {"gesamt": 3660, "maennlich": 740, "weiblich": 2920},
+      "35_bis_45": {"gesamt": 6370, "maennlich": 1095, "weiblich": 5275},
+      "45_bis_55": {"gesamt": 6400, "maennlich": 1080, "weiblich": 5320},
+      "55_bis_65": {"gesamt": 8230, "maennlich": 1425, "weiblich": 6805},
+      "65_plus": {"gesamt": 655, "maennlich": 250, "weiblich": 405}
+    },
+    "2024": {
+      "insgesamt": {"gesamt": 26655, "maennlich": 4800, "weiblich": 21850},
+      "unter_25": {"gesamt": 325, "maennlich": 80, "weiblich": 245},
+      "25_bis_35": {"gesamt": 3670, "maennlich": 720, "weiblich": 2950},
+      "35_bis_45": {"gesamt": 6870, "maennlich": 1185, "weiblich": 5685},
+      "45_bis_55": {"gesamt": 6690, "maennlich": 1115, "weiblich": 5575},
+      "55_bis_65": {"gesamt": 8360, "maennlich": 1445, "weiblich": 6910},
+      "65_plus": {"gesamt": 740, "maennlich": 255, "weiblich": 485}
+    }
+  },
+  "nach_personengruppe": {
+    "2023": {
+      "beamte": {"gesamt": 2710, "maennlich": 865, "weiblich": 1845},
+      "tarifbeschaeftigte": {"gesamt": 23355, "maennlich": 3835, "weiblich": 19520},
+      "externe": {"gesamt": 250, "maennlich": 95, "weiblich": 155}
+    },
+    "2024": {
+      "beamte": {"gesamt": 2735, "maennlich": 870, "weiblich": 1865},
+      "tarifbeschaeftigte": {"gesamt": 23740, "maennlich": 3855, "weiblich": 19885},
+      "externe": {"gesamt": 180, "maennlich": 75, "weiblich": 105}
+    }
+  },
+  "nach_beschaeftigungsverhaeltnis": {
+    "2023": {
+      "befristet": {"gesamt": 2195, "maennlich": 560, "weiblich": 1635},
+      "unbefristet": {"gesamt": 24120, "maennlich": 4235, "weiblich": 19890}
+    },
+    "2024": {
+      "befristet": {"gesamt": 1735, "maennlich": 420, "weiblich": 1310},
+      "unbefristet": {"gesamt": 24920, "maennlich": 4380, "weiblich": 20540}
+    }
+  },
+  "nach_beschaeftigungsart": {
+    "2023": {
+      "vollzeit": {"gesamt": 12585, "maennlich": 3705, "weiblich": 8880},
+      "teilzeit": {"gesamt": 13620, "maennlich": 1055, "weiblich": 12565},
+      "geringfuegig": {"gesamt": 115, "maennlich": 40, "weiblich": 75}
+    },
+    "2024": {
+      "vollzeit": {"gesamt": 12485, "maennlich": 3715, "weiblich": 8770},
+      "teilzeit": {"gesamt": 14055, "maennlich": 1040, "weiblich": 13015},
+      "geringfuegig": {"gesamt": 115, "maennlich": 50, "weiblich": 65}
+    }
+  },
+  "nach_beruf": {
+    "2023": {
+      "aerzte_zahnaerzte": {"gesamt": 5210, "maennlich": 1025, "weiblich": 4185},
+      "fachpersonal": {"gesamt": 14080, "maennlich": 2100, "weiblich": 11980},
+      "verwaltungspersonal": {"gesamt": 7030, "maennlich": 1670, "weiblich": 5360}
+    },
+    "2024": {
+      "aerzte_zahnaerzte": {"gesamt": 5340, "maennlich": 1015, "weiblich": 4320},
+      "fachpersonal": {"gesamt": 14490, "maennlich": 2150, "weiblich": 12340},
+      "verwaltungspersonal": {"gesamt": 6825, "maennlich": 1635, "weiblich": 5190}
+    }
+  },
+  "nach_abschluss": {
+    "2023": {
+      "unterhalb_sekundarbereich_II": {"gesamt": 575, "maennlich": 130, "weiblich": 445},
+      "sekundarbereich_II_post": {"gesamt": 12370, "maennlich": 1650, "weiblich": 10720},
+      "tertiaerbereich": {"gesamt": 13370, "maennlich": 3015, "weiblich": 10360}
+    },
+    "2024": {
+      "unterhalb_sekundarbereich_II": {"gesamt": 535, "maennlich": 125, "weiblich": 410},
+      "sekundarbereich_II_post": {"gesamt": 12415, "maennlich": 1645, "weiblich": 10770},
+      "tertiaerbereich": {"gesamt": 13705, "maennlich": 3035, "weiblich": 10670}
+    }
+  },
+  "nach_taetigkeitsbereich": {
+    "2023": {
+      "gesundheitsschutz_krisenmanagement": {"gesamt": 7555, "maennlich": 1945, "weiblich": 5610},
+      "beratung_begutachtung_praevention": {"gesamt": 15065, "maennlich": 1910, "weiblich": 13155},
+      "koordination_kommunikation_qs": {"gesamt": 2145, "maennlich": 525, "weiblich": 1620},
+      "sonstige_bereiche": {"gesamt": 6915, "maennlich": 1565, "weiblich": 5350}
+    },
+    "2024": {
+      "gesundheitsschutz_krisenmanagement": {"gesamt": 7500, "maennlich": 1865, "weiblich": 5635},
+      "beratung_begutachtung_praevention": {"gesamt": 15495, "maennlich": 1915, "weiblich": 13580},
+      "koordination_kommunikation_qs": {"gesamt": 2205, "maennlich": 530, "weiblich": 1675},
+      "sonstige_bereiche": {"gesamt": 6860, "maennlich": 1610, "weiblich": 5250}
+    }
+  }
+}

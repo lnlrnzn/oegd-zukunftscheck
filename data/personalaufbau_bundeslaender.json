@@ -1,0 +1,534 @@
+{
+  "beschreibung": "Personalaufbau ÖGD nach Bundesländern - Pakt-Vorgaben vs. Ist-Besetzung (VZÄ 2024)",
+  "quelle": "ÖGD Excel.xlsx - Tabelle1",
+  "hinweis": "VZÄ = Vollzeitäquivalente. Übererfüllung = Ist minus Vorgaben (Pakt für den ÖGD). Förderung durch Bund läuft aus, Personal ist überwiegend unbefristet eingestellt.",
+  "laender": [
+    {
+      "region": "BW",
+      "vorgaben_vzae": 574,
+      "ist_besetzt_vzae_2024": 647,
+      "uebererfuellung_vzae": 73,
+      "uebererfuellung_pct": 12.7,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 581,
+        "landesstellen_vzae": 67
+      },
+      "befristung": {
+        "unbefristet_vzae": 639,
+        "unbefristet_anteil_pct": 99,
+        "befristet_vzae": 9,
+        "befristet_anteil_pct": 1
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 277,
+        "beratung_begutachtung_praevention_vzae": 163,
+        "koordination_kommunikation_qs_vzae": 56,
+        "sonstige_landespezifisch_vzae": 151
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 182,
+        "aerzte_anteil_pct": 28,
+        "fachpersonal_vzae": 289,
+        "fachpersonal_anteil_pct": 44,
+        "verwaltung_vzae": 176,
+        "verwaltung_anteil_pct": 27
+      }
+    },
+    {
+      "region": "BY",
+      "vorgaben_vzae": 680,
+      "ist_besetzt_vzae_2024": 728,
+      "uebererfuellung_vzae": 48,
+      "uebererfuellung_pct": 7.1,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 547,
+        "landesstellen_vzae": 180
+      },
+      "befristung": {
+        "unbefristet_vzae": 673,
+        "unbefristet_anteil_pct": 92,
+        "befristet_vzae": 55,
+        "befristet_anteil_pct": 8
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 387,
+        "beratung_begutachtung_praevention_vzae": 216,
+        "koordination_kommunikation_qs_vzae": 67,
+        "sonstige_landespezifisch_vzae": 58
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 183,
+        "aerzte_anteil_pct": 25,
+        "fachpersonal_vzae": 428,
+        "fachpersonal_anteil_pct": 58,
+        "verwaltung_vzae": 117,
+        "verwaltung_anteil_pct": 16
+      }
+    },
+    {
+      "region": "BE",
+      "vorgaben_vzae": 189,
+      "ist_besetzt_vzae_2024": 198,
+      "uebererfuellung_vzae": 9,
+      "uebererfuellung_pct": 4.8,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 176,
+        "landesstellen_vzae": 22
+      },
+      "befristung": {
+        "unbefristet_vzae": 194,
+        "unbefristet_anteil_pct": 97,
+        "befristet_vzae": 5,
+        "befristet_anteil_pct": 3
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 45,
+        "beratung_begutachtung_praevention_vzae": 96,
+        "koordination_kommunikation_qs_vzae": 45,
+        "sonstige_landespezifisch_vzae": 12
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 57,
+        "aerzte_anteil_pct": 29,
+        "fachpersonal_vzae": 86,
+        "fachpersonal_anteil_pct": 43,
+        "verwaltung_vzae": 56,
+        "verwaltung_anteil_pct": 28
+      }
+    },
+    {
+      "region": "BB",
+      "vorgaben_vzae": 128,
+      "ist_besetzt_vzae_2024": 196,
+      "uebererfuellung_vzae": 68,
+      "uebererfuellung_pct": 53.1,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 183,
+        "landesstellen_vzae": 13
+      },
+      "befristung": {
+        "unbefristet_vzae": 190,
+        "unbefristet_anteil_pct": 97,
+        "befristet_vzae": 6,
+        "befristet_anteil_pct": 3
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 97,
+        "beratung_begutachtung_praevention_vzae": 59,
+        "koordination_kommunikation_qs_vzae": 34,
+        "sonstige_landespezifisch_vzae": 7
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 20,
+        "aerzte_anteil_pct": 10,
+        "fachpersonal_vzae": 138,
+        "fachpersonal_anteil_pct": 70,
+        "verwaltung_vzae": 38,
+        "verwaltung_anteil_pct": 19
+      }
+    },
+    {
+      "region": "HB",
+      "vorgaben_vzae": 34,
+      "ist_besetzt_vzae_2024": 71,
+      "uebererfuellung_vzae": 37,
+      "uebererfuellung_pct": 108.8,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 64,
+        "landesstellen_vzae": 7
+      },
+      "befristung": {
+        "unbefristet_vzae": 68,
+        "unbefristet_anteil_pct": 96,
+        "befristet_vzae": 4,
+        "befristet_anteil_pct": 4
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 25,
+        "beratung_begutachtung_praevention_vzae": 15,
+        "koordination_kommunikation_qs_vzae": 9,
+        "sonstige_landespezifisch_vzae": 22
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 9,
+        "aerzte_anteil_pct": 13,
+        "fachpersonal_vzae": 29,
+        "fachpersonal_anteil_pct": 41,
+        "verwaltung_vzae": 33,
+        "verwaltung_anteil_pct": 46
+      }
+    },
+    {
+      "region": "HH",
+      "vorgaben_vzae": 95,
+      "ist_besetzt_vzae_2024": 107,
+      "uebererfuellung_vzae": 12,
+      "uebererfuellung_pct": 12.6,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 89,
+        "landesstellen_vzae": 18
+      },
+      "befristung": {
+        "unbefristet_vzae": 102,
+        "unbefristet_anteil_pct": 98,
+        "befristet_vzae": 4,
+        "befristet_anteil_pct": 2
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 32,
+        "beratung_begutachtung_praevention_vzae": 45,
+        "koordination_kommunikation_qs_vzae": 15,
+        "sonstige_landespezifisch_vzae": 14
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 43,
+        "aerzte_anteil_pct": 40,
+        "fachpersonal_vzae": 34,
+        "fachpersonal_anteil_pct": 32,
+        "verwaltung_vzae": 29,
+        "verwaltung_anteil_pct": 27
+      }
+    },
+    {
+      "region": "HE",
+      "vorgaben_vzae": 325,
+      "ist_besetzt_vzae_2024": 464,
+      "uebererfuellung_vzae": 139,
+      "uebererfuellung_pct": 42.8,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 426,
+        "landesstellen_vzae": 38
+      },
+      "befristung": {
+        "unbefristet_vzae": 334,
+        "unbefristet_anteil_pct": 72,
+        "befristet_vzae": 130,
+        "befristet_anteil_pct": 28
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 156,
+        "beratung_begutachtung_praevention_vzae": 125,
+        "koordination_kommunikation_qs_vzae": 42,
+        "sonstige_landespezifisch_vzae": 141
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 70,
+        "aerzte_anteil_pct": 15,
+        "fachpersonal_vzae": 230,
+        "fachpersonal_anteil_pct": 50,
+        "verwaltung_vzae": 163,
+        "verwaltung_anteil_pct": 35
+      }
+    },
+    {
+      "region": "MV",
+      "vorgaben_vzae": 85,
+      "ist_besetzt_vzae_2024": 127,
+      "uebererfuellung_vzae": 42,
+      "uebererfuellung_pct": 49.4,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 105,
+        "landesstellen_vzae": 21
+      },
+      "befristung": {
+        "unbefristet_vzae": 89,
+        "unbefristet_anteil_pct": 70,
+        "befristet_vzae": 38,
+        "befristet_anteil_pct": 30
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 44,
+        "beratung_begutachtung_praevention_vzae": 48,
+        "koordination_kommunikation_qs_vzae": 14,
+        "sonstige_landespezifisch_vzae": 22
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 14,
+        "aerzte_anteil_pct": 11,
+        "fachpersonal_vzae": 80,
+        "fachpersonal_anteil_pct": 63,
+        "verwaltung_vzae": 33,
+        "verwaltung_anteil_pct": 26
+      }
+    },
+    {
+      "region": "NS",
+      "vorgaben_vzae": 413,
+      "ist_besetzt_vzae_2024": 481,
+      "uebererfuellung_vzae": 68,
+      "uebererfuellung_pct": 16.5,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 436,
+        "landesstellen_vzae": 45
+      },
+      "befristung": {
+        "unbefristet_vzae": 426,
+        "unbefristet_anteil_pct": 89,
+        "befristet_vzae": 55,
+        "befristet_anteil_pct": 11
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 200,
+        "beratung_begutachtung_praevention_vzae": 162,
+        "koordination_kommunikation_qs_vzae": 49,
+        "sonstige_landespezifisch_vzae": 70
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 73,
+        "aerzte_anteil_pct": 15,
+        "fachpersonal_vzae": 242,
+        "fachpersonal_anteil_pct": 50,
+        "verwaltung_vzae": 165,
+        "verwaltung_anteil_pct": 34
+      }
+    },
+    {
+      "region": "NRW",
+      "vorgaben_vzae": 927,
+      "ist_besetzt_vzae_2024": 1083,
+      "uebererfuellung_vzae": 156,
+      "uebererfuellung_pct": 16.8,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 1032,
+        "landesstellen_vzae": 51
+      },
+      "befristung": {
+        "unbefristet_vzae": 925,
+        "unbefristet_anteil_pct": 85,
+        "befristet_vzae": 158,
+        "befristet_anteil_pct": 15
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 361,
+        "beratung_begutachtung_praevention_vzae": 384,
+        "koordination_kommunikation_qs_vzae": 99,
+        "sonstige_landespezifisch_vzae": 238
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 173,
+        "aerzte_anteil_pct": 16,
+        "fachpersonal_vzae": 560,
+        "fachpersonal_anteil_pct": 52,
+        "verwaltung_vzae": 350,
+        "verwaltung_anteil_pct": 32
+      }
+    },
+    {
+      "region": "RP",
+      "vorgaben_vzae": 210,
+      "ist_besetzt_vzae_2024": 268,
+      "uebererfuellung_vzae": 58,
+      "uebererfuellung_pct": 27.6,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 246,
+        "landesstellen_vzae": 22
+      },
+      "befristung": {
+        "unbefristet_vzae": 248,
+        "unbefristet_anteil_pct": 93,
+        "befristet_vzae": 20,
+        "befristet_anteil_pct": 7
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 132,
+        "beratung_begutachtung_praevention_vzae": 73,
+        "koordination_kommunikation_qs_vzae": 28,
+        "sonstige_landespezifisch_vzae": 35
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 40,
+        "aerzte_anteil_pct": 15,
+        "fachpersonal_vzae": 137,
+        "fachpersonal_anteil_pct": 51,
+        "verwaltung_vzae": 90,
+        "verwaltung_anteil_pct": 33
+      }
+    },
+    {
+      "region": "SL",
+      "vorgaben_vzae": 52,
+      "ist_besetzt_vzae_2024": 70,
+      "uebererfuellung_vzae": 18,
+      "uebererfuellung_pct": 34.6,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 64,
+        "landesstellen_vzae": 6
+      },
+      "befristung": {
+        "unbefristet_vzae": 65,
+        "unbefristet_anteil_pct": 92,
+        "befristet_vzae": 6,
+        "befristet_anteil_pct": 8
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 18,
+        "beratung_begutachtung_praevention_vzae": 27,
+        "koordination_kommunikation_qs_vzae": 10,
+        "sonstige_landespezifisch_vzae": 17
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 15,
+        "aerzte_anteil_pct": 21,
+        "fachpersonal_vzae": 34,
+        "fachpersonal_anteil_pct": 49,
+        "verwaltung_vzae": 22,
+        "verwaltung_anteil_pct": 31
+      }
+    },
+    {
+      "region": "SN",
+      "vorgaben_vzae": 215,
+      "ist_besetzt_vzae_2024": 249,
+      "uebererfuellung_vzae": 34,
+      "uebererfuellung_pct": 15.8,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 226,
+        "landesstellen_vzae": 23
+      },
+      "befristung": {
+        "unbefristet_vzae": 249,
+        "unbefristet_anteil_pct": 100,
+        "befristet_vzae": 0,
+        "befristet_anteil_pct": 0
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 114,
+        "beratung_begutachtung_praevention_vzae": 70,
+        "koordination_kommunikation_qs_vzae": 22,
+        "sonstige_landespezifisch_vzae": 44
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 41,
+        "aerzte_anteil_pct": 22,
+        "fachpersonal_vzae": 148,
+        "fachpersonal_anteil_pct": 48,
+        "verwaltung_vzae": 60,
+        "verwaltung_anteil_pct": 29
+      }
+    },
+    {
+      "region": "ST",
+      "vorgaben_vzae": 114,
+      "ist_besetzt_vzae_2024": 123,
+      "uebererfuellung_vzae": 9,
+      "uebererfuellung_pct": 7.9,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 116,
+        "landesstellen_vzae": 8
+      },
+      "befristung": {
+        "unbefristet_vzae": 106,
+        "unbefristet_anteil_pct": 85,
+        "befristet_vzae": 18,
+        "befristet_anteil_pct": 15
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 67,
+        "beratung_begutachtung_praevention_vzae": 33,
+        "koordination_kommunikation_qs_vzae": 7,
+        "sonstige_landespezifisch_vzae": 16
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 8,
+        "aerzte_anteil_pct": 6,
+        "fachpersonal_vzae": 73,
+        "fachpersonal_anteil_pct": 58,
+        "verwaltung_vzae": 42,
+        "verwaltung_anteil_pct": 33
+      }
+    },
+    {
+      "region": "SH",
+      "vorgaben_vzae": 151,
+      "ist_besetzt_vzae_2024": 189,
+      "uebererfuellung_vzae": 38,
+      "uebererfuellung_pct": 25.2,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 173,
+        "landesstellen_vzae": 16
+      },
+      "befristung": {
+        "unbefristet_vzae": 178,
+        "unbefristet_anteil_pct": 94,
+        "befristet_vzae": 12,
+        "befristet_anteil_pct": 6
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 77,
+        "beratung_begutachtung_praevention_vzae": 58,
+        "koordination_kommunikation_qs_vzae": 24,
+        "sonstige_landespezifisch_vzae": 29
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 43,
+        "aerzte_anteil_pct": 23,
+        "fachpersonal_vzae": 91,
+        "fachpersonal_anteil_pct": 48,
+        "verwaltung_vzae": 55,
+        "verwaltung_anteil_pct": 29
+      }
+    },
+    {
+      "region": "TH",
+      "vorgaben_vzae": 110,
+      "ist_besetzt_vzae_2024": 207,
+      "uebererfuellung_vzae": 97,
+      "uebererfuellung_pct": 88.2,
+      "ebene": {
+        "untere_gesundheitsbehoerde_vzae": 184,
+        "landesstellen_vzae": 24
+      },
+      "befristung": {
+        "unbefristet_vzae": 196,
+        "unbefristet_anteil_pct": 95,
+        "befristet_vzae": 11,
+        "befristet_anteil_pct": 5
+      },
+      "aufgabenbereiche": {
+        "gesundheitsschutz_vzae": 80,
+        "beratung_begutachtung_praevention_vzae": 54,
+        "koordination_kommunikation_qs_vzae": 29,
+        "sonstige_landespezifisch_vzae": 44
+      },
+      "berufsgruppen": {
+        "aerzte_zahnaerzte_vzae": 17,
+        "aerzte_anteil_pct": 8,
+        "fachpersonal_vzae": 101,
+        "fachpersonal_anteil_pct": 48,
+        "verwaltung_vzae": 89,
+        "verwaltung_anteil_pct": 43
+      }
+    }
+  ],
+  "gesamt_de": {
+    "region": "DE",
+    "vorgaben_vzae": 4302,
+    "ist_besetzt_vzae_2024": 5210,
+    "uebererfuellung_vzae": 908,
+    "uebererfuellung_pct": 21.1,
+    "ebene": {
+      "untere_gesundheitsbehoerde_vzae": 4649,
+      "landesstellen_vzae": 562
+    },
+    "befristung": {
+      "unbefristet_vzae": 4680,
+      "unbefristet_anteil_pct": 90,
+      "befristet_vzae": 529,
+      "befristet_anteil_pct": 10
+    },
+    "aufgabenbereiche": {
+      "gesundheitsschutz_vzae": 2113,
+      "beratung_begutachtung_praevention_vzae": 1629,
+      "koordination_kommunikation_qs_vzae": 550,
+      "sonstige_landespezifisch_vzae": 920
+    },
+    "berufsgruppen": {
+      "aerzte_zahnaerzte_vzae": 990,
+      "aerzte_anteil_pct": 19,
+      "fachpersonal_vzae": 2702,
+      "fachpersonal_anteil_pct": 52,
+      "verwaltung_vzae": 1518,
+      "verwaltung_anteil_pct": 29
+    }
+  }
+}
