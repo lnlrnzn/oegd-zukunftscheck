@@ -1,69 +1,75 @@
-"use client";
-
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import { BlurFade } from "@/components/magicui/blur-fade";
 import { ShimmerButton } from "@/components/magicui/shimmer-button";
+import { DotPattern } from "@/components/ui/dot-pattern";
+import { Particles } from "@/components/ui/particles";
 
 export function HeroSection() {
   return (
-    <section className="relative hero-gradient bg-grid-pattern pt-28 pb-20 md:pt-36 md:pb-28 overflow-hidden">
-      <div className="max-w-6xl mx-auto px-6">
-        <div className="max-w-3xl">
+    <section className="relative hero-gradient pt-28 pb-16 md:pt-36 md:pb-20 overflow-hidden">
+      {/* Ambient dot pattern */}
+      <DotPattern
+        cr={1}
+        width={20}
+        height={20}
+        className="text-oegd-blue/[0.07] [mask-image:radial-gradient(ellipse_80%_70%_at_50%_40%,black_30%,transparent_80%)]"
+      />
+
+      {/* Floating particles with mouse interaction */}
+      <Particles
+        quantity={40}
+        color="#1d4ed8"
+        size={0.6}
+        staticity={60}
+        ease={80}
+        className="absolute inset-0"
+      />
+
+      <div className="max-w-6xl mx-auto px-6 relative z-10">
+        <div className="max-w-3xl mx-auto text-center">
           <BlurFade delay={0} direction="up">
-            <span className="inline-flex items-center gap-2 text-xs font-medium text-oegd-blue bg-oegd-blue-light px-3 py-1.5 rounded-full mb-6">
-              <span className="w-1.5 h-1.5 rounded-full bg-oegd-blue animate-pulse" />
+            <span className="inline-flex items-center gap-2 text-xs font-medium text-oegd-blue bg-oegd-blue-light px-3 py-1.5 rounded-full mb-6 border border-oegd-blue/10">
+              <span className="w-1.5 h-1.5 rounded-full bg-oegd-green animate-pulse" />
               Datenstand: 31.12.2024
             </span>
           </BlurFade>
 
           <BlurFade delay={0.1} direction="up">
-            <h1 className="text-4xl md:text-5xl lg:text-[3.5rem] font-bold text-oegd-navy leading-[1.1] tracking-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-[3.75rem] font-bold text-oegd-navy leading-[1.08] tracking-tight">
               Wie zukunftsfähig ist
               <br />
-              <span className="font-[var(--font-source-serif)] italic text-oegd-blue">
+              <span className="font-[var(--font-source-serif)] italic bg-gradient-to-r from-oegd-blue to-blue-500 bg-clip-text text-transparent">
                 Ihr Gesundheitsamt?
               </span>
             </h1>
           </BlurFade>
 
           <BlurFade delay={0.2} direction="up">
-            <p className="mt-6 text-base md:text-lg text-oegd-slate leading-relaxed max-w-xl">
-              Der Pakt für den ÖGD hat tausende neue Stellen geschaffen — 90&nbsp;%
-              davon unbefristet. Jetzt läuft die Bundesförderung aus. Prüfen Sie
-              in <strong>5&nbsp;Minuten</strong>, wo Ihr Amt steht.
+            <p className="mt-6 text-base md:text-lg text-oegd-slate leading-relaxed max-w-xl mx-auto">
+              Der Pakt ÖGD endet 2026. 90% der Prozesse laufen analog,
+              ein Drittel des Personals geht bald in Rente. Finden Sie in{" "}
+              <strong>5&nbsp;Minuten</strong> heraus, wo Ihr Amt steht — und was
+              Digitalisierung konkret bringen kann.
             </p>
           </BlurFade>
 
           <BlurFade delay={0.3} direction="up">
-            <div className="mt-8 flex flex-col sm:flex-row gap-3">
+            <div className="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
               <Link href="/assessment">
-                <ShimmerButton className="h-13 px-8 text-base font-medium shadow-lg">
+                <ShimmerButton className="h-13 px-8 text-base font-medium shadow-xl shadow-oegd-blue/20">
                   <span className="flex items-center gap-2">
-                    Jetzt starten
+                    Jetzt Zukunftscheck starten
                     <ArrowRight className="h-5 w-5" />
                   </span>
                 </ShimmerButton>
               </Link>
-              <Button asChild variant="outline" size="lg" className="text-base h-13">
-                <a href="#wie-es-funktioniert">
-                  So funktioniert&rsquo;s
-                </a>
-              </Button>
             </div>
+            <p className="text-xs text-muted-foreground mt-4">
+              Kostenlos · 5 Minuten · Keine Registrierung
+            </p>
           </BlurFade>
         </div>
-      </div>
-
-      {/* Decorative circles */}
-      <div className="absolute right-0 top-1/2 -translate-y-1/2 w-[40%] h-[80%] opacity-[0.03] pointer-events-none hidden lg:block">
-        <svg viewBox="0 0 400 400" fill="none" className="w-full h-full" aria-hidden="true">
-          <circle cx="200" cy="200" r="180" stroke="#1d4ed8" strokeWidth="0.5" />
-          <circle cx="200" cy="200" r="140" stroke="#1d4ed8" strokeWidth="0.5" />
-          <circle cx="200" cy="200" r="100" stroke="#1d4ed8" strokeWidth="0.5" />
-          <circle cx="200" cy="200" r="60" stroke="#1d4ed8" strokeWidth="0.5" />
-        </svg>
       </div>
     </section>
   );

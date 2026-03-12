@@ -7,6 +7,7 @@ import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
 import { calculateScore } from "@/lib/scoring";
 import { questions } from "@/lib/questions";
+import { getRegionByName, berechneKennzahlen } from "@/lib/regions";
 import {
   AlertTriangle,
   CheckCircle2,
@@ -16,20 +17,97 @@ import {
   ArrowLeftRight,
   FileText,
   Mail,
+  Loader2,
+  Download,
 } from "lucide-react";
-import { useState } from "react";
+import { useMemo, useState, useCallback } from "react";
 import { NumberTicker } from "@/components/magicui/number-ticker";
 import { BorderBeam } from "@/components/magicui/border-beam";
+import { ROICalculator } from "@/components/roi-calculator";
+import { BenchmarkingCard } from "@/components/benchmarking-card";
 
 interface ResultScreenProps {
   answers: Record<number, number>;
   regionName: string;
 }
 
-export function ResultScreen({ answers, regionName }: ResultScreenProps) {
-  const result = calculateScore(answers);
-  const [submitted, setSubmitted] = useState(false);
+// Hoist static beam color configs (rerender-memo-with-default-value)
+const BEAM_COLORS = {
+  gut: { from: "#059669", to: "#34d399" },
+  handlungsbedarf: { from: "#d97706", to: "#fbbf24" },
+  dringend: { from: "#dc2626", to: "#f87171" },
+} as const;
 
+const GRADIENT_MAP = {
+  gut: "score-gradient-green",
+  handlungsbedarf: "score-gradient-yellow",
+  dringend: "score-gradient-red",
+} as const;
+
+export function ResultScreen({ answers, regionName }: ResultScreenProps) {
+  // Derive all computed values during render (rerender-derived-state-no-effect)
+  const result = useMemo(() => calculateScore(answers), [answers]);
+  const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+
+  // Region data derived during render
+  const kennzahlen = useMemo(() => {
+    const region = getRegionByName(regionName);
+    return region ? berechneKennzahlen(region) : null;
+  }, [regionName]);
+
+  // Use hoisted constants instead of creating new objects per render
+  const beamColor = BEAM_COLORS[result.stufe];
+  const stufeGradient = GRADIENT_MAP[result.stufe];
+
+  // Count by category (simple primitive derivations, no memo needed: rerender-simple-expression-in-memo)
+  const digitalCount = questions.filter((q) => answers[q.id] === 0).length;
+  const teilweiseCount = result.teilweiseDigitaleProzesse.length;
+  const analogCount = result.analogeProzesse.length;
+  const hasBreakdown = analogCount > 0 || teilweiseCount > 0;
+
+  // Stable callback (rerender-functional-setstate)
+  const handleSubmit = useCallback(async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    setSubmitting(true);
+    setError(null);
+
+    const formData = new FormData(e.currentTarget);
+
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          type: "consultation",
+          name: formData.get("name"),
+          email: formData.get("email"),
+          organization: formData.get("organization"),
+          phone: formData.get("tel"),
+          regionName,
+          score: result.total,
+          stufe: result.stufenLabel,
+          answers,
+          analogeProzesse: result.analogeProzesse,
+          teilweiseDigitaleProzesse: result.teilweiseDigitaleProzesse,
+        }),
+      });
+
+      if (!res.ok) {
+        const data = await res.json();
+        throw new Error(data.error || "Fehler beim Senden");
+      }
+
+      setSubmitted(true);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Ein Fehler ist aufgetreten.");
+    } finally {
+      setSubmitting(false);
+    }
+  }, [regionName, result, answers]);
+
+  // rendering-conditional-render: use ternary for stufe icon
   const stufeIcon =
     result.stufe === "gut" ? (
       <CheckCircle2 className="h-14 w-14 text-oegd-green" />
@@ -38,25 +116,6 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
     ) : (
       <XCircle className="h-14 w-14 text-oegd-red" />
     );
-
-  const stufeGradient =
-    result.stufe === "gut"
-      ? "score-gradient-green"
-      : result.stufe === "handlungsbedarf"
-        ? "score-gradient-yellow"
-        : "score-gradient-red";
-
-  const beamColor =
-    result.stufe === "gut"
-      ? { from: "#059669", to: "#34d399" }
-      : result.stufe === "handlungsbedarf"
-        ? { from: "#d97706", to: "#fbbf24" }
-        : { from: "#dc2626", to: "#f87171" };
-
-  // Count by category
-  const digitalCount = questions.filter((q) => answers[q.id] === 0).length;
-  const teilweiseCount = result.teilweiseDigitaleProzesse.length;
-  const analogCount = result.analogeProzesse.length;
 
   return (
     <div className="space-y-6 max-w-2xl mx-auto">
@@ -121,9 +180,21 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
         </div>
       </div>
 
-      {/* Detail breakdown */}
-      {(result.analogeProzesse.length > 0 ||
-        result.teilweiseDigitaleProzesse.length > 0) && (
+      {/* Benchmarking Card */}
+      <BenchmarkingCard answers={answers} />
+
+      {/* ROI Calculator — rendering-conditional-render: ternary */}
+      {kennzahlen ? (
+        <ROICalculator
+          kennzahlen={kennzahlen}
+          analogCount={analogCount}
+          teilweiseCount={teilweiseCount}
+          regionName={regionName}
+        />
+      ) : null}
+
+      {/* Detail breakdown — rendering-conditional-render: ternary */}
+      {hasBreakdown ? (
         <Card className="border-0 shadow-sm animate-fade-in delay-2">
           <CardHeader className="pb-3">
             <CardTitle className="text-sm font-semibold text-oegd-navy">
@@ -131,11 +202,11 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-5">
-            {result.analogeProzesse.length > 0 && (
+            {analogCount > 0 ? (
               <div>
                 <h3 className="text-xs font-bold uppercase tracking-wider text-oegd-red flex items-center gap-2 mb-3">
                   <span className="w-2 h-2 rounded-full bg-oegd-red" />
-                  Überwiegend analog ({result.analogeProzesse.length})
+                  Überwiegend analog ({analogCount})
                 </h3>
                 <div className="space-y-2">
                   {result.analogeProzesse.map((p) => (
@@ -149,12 +220,12 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
                   ))}
                 </div>
               </div>
-            )}
-            {result.teilweiseDigitaleProzesse.length > 0 && (
+            ) : null}
+            {teilweiseCount > 0 ? (
               <div>
                 <h3 className="text-xs font-bold uppercase tracking-wider text-oegd-yellow flex items-center gap-2 mb-3">
                   <span className="w-2 h-2 rounded-full bg-oegd-yellow" />
-                  Teilweise digital ({result.teilweiseDigitaleProzesse.length})
+                  Teilweise digital ({teilweiseCount})
                 </h3>
                 <div className="space-y-2">
                   {result.teilweiseDigitaleProzesse.map((p) => (
@@ -168,10 +239,38 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
                   ))}
                 </div>
               </div>
-            )}
+            ) : null}
           </CardContent>
         </Card>
-      )}
+      ) : null}
+
+      {/* PDF Download CTA */}
+      <Card className="border-0 shadow-sm bg-gradient-to-r from-oegd-blue-light to-oegd-blue-mid animate-fade-in delay-3">
+        <CardContent className="p-5 flex items-center justify-between gap-4">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-lg bg-oegd-blue/10 flex items-center justify-center shrink-0">
+              <Download className="h-5 w-5 text-oegd-blue" />
+            </div>
+            <div>
+              <p className="text-sm font-semibold text-oegd-navy">
+                Ergebnisse als PDF speichern
+              </p>
+              <p className="text-xs text-muted-foreground">
+                Druckfreundliche Zusammenfassung Ihrer Auswertung
+              </p>
+            </div>
+          </div>
+          <Button
+            variant="outline"
+            size="sm"
+            className="shrink-0 gap-1.5"
+            onClick={() => window.print()}
+          >
+            <Download className="h-3.5 w-3.5" />
+            PDF
+          </Button>
+        </CardContent>
+      </Card>
 
       {/* CTA */}
       <Separator className="my-2" />
@@ -202,13 +301,7 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
               </p>
             </div>
           ) : (
-            <form
-              onSubmit={(e) => {
-                e.preventDefault();
-                setSubmitted(true);
-              }}
-              className="space-y-4"
-            >
+            <form onSubmit={handleSubmit} className="space-y-4">
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 <div className="space-y-1.5">
                   <Label htmlFor="name" className="text-xs font-medium">
@@ -265,13 +358,29 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
                   />
                 </div>
               </div>
+              {error ? (
+                <div className="text-sm text-oegd-red bg-oegd-red-light rounded-lg p-3 flex items-center gap-2">
+                  <XCircle className="h-4 w-4 shrink-0" />
+                  {error}
+                </div>
+              ) : null}
               <Button
                 type="submit"
                 size="lg"
+                disabled={submitting}
                 className="w-full shadow-lg shadow-oegd-blue/15 gap-2"
               >
-                Ergebnisse besprechen
-                <ArrowRight className="h-4 w-4" />
+                {submitting ? (
+                  <>
+                    <Loader2 className="h-4 w-4 animate-spin" />
+                    Wird gesendet...
+                  </>
+                ) : (
+                  <>
+                    Ergebnisse besprechen
+                    <ArrowRight className="h-4 w-4" />
+                  </>
+                )}
               </Button>
             </form>
           )}

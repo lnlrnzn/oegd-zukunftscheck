@@ -1,0 +1,32 @@
+{
+  "beschreibung": "Nationale und Bundesland-Durchschnitte für Benchmarking des Digitalisierungsgrads im ÖGD",
+  "quellen": ["EvalDiGe 2024", "Destatis 2024", "GBE Regionen VZÄ 2024"],
+  "deutschland": {
+    "ebene": "deutschland",
+    "name": "Deutschland",
+    "digitalisierungsgrad": {
+      "stufe_0_pct": 88,
+      "durchschnitts_score": 14.2
+    },
+    "anteil_55plus_pct": 35.1,
+    "vzae_pro_100k_einwohner": 38.7
+  },
+  "bundeslaender": [
+    { "ebene": "bundesland", "name": "Baden-Württemberg", "digitalisierungsgrad": { "stufe_0_pct": 85, "durchschnitts_score": 13.5 }, "anteil_55plus_pct": 33.2, "vzae_pro_100k_einwohner": 36.1 },
+    { "ebene": "bundesland", "name": "Bayern", "digitalisierungsgrad": { "stufe_0_pct": 82, "durchschnitts_score": 13.1 }, "anteil_55plus_pct": 32.8, "vzae_pro_100k_einwohner": 37.4 },
+    { "ebene": "bundesland", "name": "Berlin", "digitalisierungsgrad": { "stufe_0_pct": 78, "durchschnitts_score": 12.0 }, "anteil_55plus_pct": 31.5, "vzae_pro_100k_einwohner": 45.2 },
+    { "ebene": "bundesland", "name": "Brandenburg", "digitalisierungsgrad": { "stufe_0_pct": 92, "durchschnitts_score": 15.8 }, "anteil_55plus_pct": 41.3, "vzae_pro_100k_einwohner": 32.1 },
+    { "ebene": "bundesland", "name": "Bremen", "digitalisierungsgrad": { "stufe_0_pct": 80, "durchschnitts_score": 12.5 }, "anteil_55plus_pct": 34.7, "vzae_pro_100k_einwohner": 42.8 },
+    { "ebene": "bundesland", "name": "Hamburg", "digitalisierungsgrad": { "stufe_0_pct": 75, "durchschnitts_score": 11.8 }, "anteil_55plus_pct": 30.2, "vzae_pro_100k_einwohner": 44.5 },
+    { "ebene": "bundesland", "name": "Hessen", "digitalisierungsgrad": { "stufe_0_pct": 87, "durchschnitts_score": 14.0 }, "anteil_55plus_pct": 35.6, "vzae_pro_100k_einwohner": 37.9 },
+    { "ebene": "bundesland", "name": "Mecklenburg-Vorpommern", "digitalisierungsgrad": { "stufe_0_pct": 94, "durchschnitts_score": 16.2 }, "anteil_55plus_pct": 42.1, "vzae_pro_100k_einwohner": 33.5 },
+    { "ebene": "bundesland", "name": "Niedersachsen", "digitalisierungsgrad": { "stufe_0_pct": 89, "durchschnitts_score": 14.5 }, "anteil_55plus_pct": 36.3, "vzae_pro_100k_einwohner": 35.8 },
+    { "ebene": "bundesland", "name": "Nordrhein-Westfalen", "digitalisierungsgrad": { "stufe_0_pct": 88, "durchschnitts_score": 14.1 }, "anteil_55plus_pct": 34.9, "vzae_pro_100k_einwohner": 39.2 },
+    { "ebene": "bundesland", "name": "Rheinland-Pfalz", "digitalisierungsgrad": { "stufe_0_pct": 90, "durchschnitts_score": 14.8 }, "anteil_55plus_pct": 37.1, "vzae_pro_100k_einwohner": 34.6 },
+    { "ebene": "bundesland", "name": "Saarland", "digitalisierungsgrad": { "stufe_0_pct": 91, "durchschnitts_score": 15.0 }, "anteil_55plus_pct": 38.4, "vzae_pro_100k_einwohner": 36.3 },
+    { "ebene": "bundesland", "name": "Sachsen", "digitalisierungsgrad": { "stufe_0_pct": 90, "durchschnitts_score": 14.6 }, "anteil_55plus_pct": 39.8, "vzae_pro_100k_einwohner": 35.2 },
+    { "ebene": "bundesland", "name": "Sachsen-Anhalt", "digitalisierungsgrad": { "stufe_0_pct": 93, "durchschnitts_score": 16.0 }, "anteil_55plus_pct": 43.2, "vzae_pro_100k_einwohner": 31.8 },
+    { "ebene": "bundesland", "name": "Schleswig-Holstein", "digitalisierungsgrad": { "stufe_0_pct": 86, "durchschnitts_score": 13.8 }, "anteil_55plus_pct": 35.4, "vzae_pro_100k_einwohner": 37.1 },
+    { "ebene": "bundesland", "name": "Thüringen", "digitalisierungsgrad": { "stufe_0_pct": 92, "durchschnitts_score": 15.5 }, "anteil_55plus_pct": 41.7, "vzae_pro_100k_einwohner": 33.9 }
+  ]
+}

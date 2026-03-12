@@ -1,0 +1,2770 @@
+[
+  {
+    "ror_name": "Aachen",
+    "ror_id": "0501",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 1327985,
+    "landkreise": [
+      {
+        "ags": "05334",
+        "name": "Städteregion Aachen",
+        "einwohner": 582410
+      },
+      {
+        "ags": "05358",
+        "name": "Düren",
+        "einwohner": 279285
+      },
+      {
+        "ags": "05366",
+        "name": "Euskirchen",
+        "einwohner": 202609
+      },
+      {
+        "ags": "05370",
+        "name": "Heinsberg",
+        "einwohner": 263681
+      }
+    ]
+  },
+  {
+    "ror_name": "Allgäu",
+    "ror_id": "0901",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 493709,
+    "landkreise": [
+      {
+        "ags": "09762",
+        "name": "Kaufbeuren",
+        "einwohner": 46193
+      },
+      {
+        "ags": "09763",
+        "name": "Kempten (Allgäu)",
+        "einwohner": 67645
+      },
+      {
+        "ags": "09776",
+        "name": "Lindau (Bodensee)",
+        "einwohner": 82411
+      },
+      {
+        "ags": "09777",
+        "name": "Ostallgäu",
+        "einwohner": 142047
+      },
+      {
+        "ags": "09780",
+        "name": "Oberallgäu",
+        "einwohner": 155413
+      }
+    ]
+  },
+  {
+    "ror_name": "Altmark",
+    "ror_id": "1501",
+    "bundesland": "Sachsen-Anhalt",
+    "einwohner_gesamt": 186518,
+    "landkreise": [
+      {
+        "ags": "15081",
+        "name": "Altmarkkreis Salzwedel",
+        "einwohner": 79980
+      },
+      {
+        "ags": "15090",
+        "name": "Stendal",
+        "einwohner": 106538
+      }
+    ]
+  },
+  {
+    "ror_name": "Anhalt-Bitterfeld-Wittenberg",
+    "ror_id": "1502",
+    "bundesland": "Sachsen-Anhalt",
+    "einwohner_gesamt": 350131,
+    "landkreise": [
+      {
+        "ags": "15001",
+        "name": "Dessau-Roßlau, Stadt",
+        "einwohner": 75402
+      },
+      {
+        "ags": "15082",
+        "name": "Anhalt-Bitterfeld",
+        "einwohner": 153035
+      },
+      {
+        "ags": "15091",
+        "name": "Wittenberg",
+        "einwohner": 121694
+      }
+    ]
+  },
+  {
+    "ror_name": "Arnsberg",
+    "ror_id": "0502",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 561140,
+    "landkreise": [
+      {
+        "ags": "05958",
+        "name": "Hochsauerlandkreis",
+        "einwohner": 260843
+      },
+      {
+        "ags": "05974",
+        "name": "Soest",
+        "einwohner": 300297
+      }
+    ]
+  },
+  {
+    "ror_name": "Augsburg",
+    "ror_id": "0902",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 934716,
+    "landkreise": [
+      {
+        "ags": "09761",
+        "name": "Augsburg, Stadt",
+        "einwohner": 301105
+      },
+      {
+        "ags": "09771",
+        "name": "Aichach-Friedberg",
+        "einwohner": 136803
+      },
+      {
+        "ags": "09772",
+        "name": "Augsburg",
+        "einwohner": 262811
+      },
+      {
+        "ags": "09773",
+        "name": "Dillingen a.d.Donau",
+        "einwohner": 98899
+      },
+      {
+        "ags": "09779",
+        "name": "Donau-Ries",
+        "einwohner": 135098
+      }
+    ]
+  },
+  {
+    "ror_name": "Bayerischer Untermain",
+    "ror_id": "0903",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 371583,
+    "landkreise": [
+      {
+        "ags": "09661",
+        "name": "Aschaffenburg, Stadt",
+        "einwohner": 73091
+      },
+      {
+        "ags": "09671",
+        "name": "Aschaffenburg",
+        "einwohner": 170945
+      },
+      {
+        "ags": "09676",
+        "name": "Miltenberg",
+        "einwohner": 127547
+      }
+    ]
+  },
+  {
+    "ror_name": "Berlin",
+    "ror_id": "1101",
+    "bundesland": "Berlin",
+    "einwohner_gesamt": 3685265,
+    "landkreise": [
+      {
+        "ags": "11000",
+        "name": "Berlin, Stadt",
+        "einwohner": 3685265
+      }
+    ]
+  },
+  {
+    "ror_name": "Bielefeld",
+    "ror_id": "0503",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 1617697,
+    "landkreise": [
+      {
+        "ags": "05711",
+        "name": "Bielefeld, Stadt",
+        "einwohner": 331605
+      },
+      {
+        "ags": "05754",
+        "name": "Gütersloh",
+        "einwohner": 363982
+      },
+      {
+        "ags": "05758",
+        "name": "Herford",
+        "einwohner": 254404
+      },
+      {
+        "ags": "05766",
+        "name": "Lippe",
+        "einwohner": 347149
+      },
+      {
+        "ags": "05770",
+        "name": "Minden-Lübbecke",
+        "einwohner": 320557
+      }
+    ]
+  },
+  {
+    "ror_name": "Bochum/Hagen",
+    "ror_id": "0504",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 1427124,
+    "landkreise": [
+      {
+        "ags": "05911",
+        "name": "Bochum, Stadt",
+        "einwohner": 358676
+      },
+      {
+        "ags": "05914",
+        "name": "Hagen, Stadt der FernUniversität",
+        "einwohner": 190384
+      },
+      {
+        "ags": "05916",
+        "name": "Herne, Stadt",
+        "einwohner": 155851
+      },
+      {
+        "ags": "05954",
+        "name": "Ennepe-Ruhr-Kreis",
+        "einwohner": 314167
+      },
+      {
+        "ags": "05962",
+        "name": "Märkischer Kreis",
+        "einwohner": 408046
+      }
+    ]
+  },
+  {
+    "ror_name": "Bodensee-Oberschwaben",
+    "ror_id": "0801",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 644073,
+    "landkreise": [
+      {
+        "ags": "08435",
+        "name": "Bodenseekreis",
+        "einwohner": 220804
+      },
+      {
+        "ags": "08436",
+        "name": "Ravensburg",
+        "einwohner": 291102
+      },
+      {
+        "ags": "08437",
+        "name": "Sigmaringen",
+        "einwohner": 132167
+      }
+    ]
+  },
+  {
+    "ror_name": "Bonn",
+    "ror_id": "0505",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 928777,
+    "landkreise": [
+      {
+        "ags": "05314",
+        "name": "Bonn, Stadt",
+        "einwohner": 323336
+      },
+      {
+        "ags": "05382",
+        "name": "Rhein-Sieg-Kreis",
+        "einwohner": 605441
+      }
+    ]
+  },
+  {
+    "ror_name": "Braunschweig",
+    "ror_id": "0301",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 1135772,
+    "landkreise": [
+      {
+        "ags": "03101",
+        "name": "Braunschweig, Stadt",
+        "einwohner": 252962
+      },
+      {
+        "ags": "03102",
+        "name": "Salzgitter, Stadt",
+        "einwohner": 104970
+      },
+      {
+        "ags": "03103",
+        "name": "Wolfsburg, Stadt",
+        "einwohner": 129560
+      },
+      {
+        "ags": "03151",
+        "name": "Gifhorn",
+        "einwohner": 175943
+      },
+      {
+        "ags": "03153",
+        "name": "Goslar",
+        "einwohner": 126775
+      },
+      {
+        "ags": "03154",
+        "name": "Helmstedt",
+        "einwohner": 90227
+      },
+      {
+        "ags": "03157",
+        "name": "Peine",
+        "einwohner": 137045
+      },
+      {
+        "ags": "03158",
+        "name": "Wolfenbüttel",
+        "einwohner": 118290
+      }
+    ]
+  },
+  {
+    "ror_name": "Bremen",
+    "ror_id": "0401",
+    "bundesland": "Bremen",
+    "einwohner_gesamt": 586271,
+    "landkreise": [
+      {
+        "ags": "04011",
+        "name": "Bremen, Stadt",
+        "einwohner": 586271
+      }
+    ]
+  },
+  {
+    "ror_name": "Bremen-Umland",
+    "ror_id": "0302",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 554832,
+    "landkreise": [
+      {
+        "ags": "03251",
+        "name": "Diepholz",
+        "einwohner": 221202
+      },
+      {
+        "ags": "03356",
+        "name": "Osterholz",
+        "einwohner": 113598
+      },
+      {
+        "ags": "03361",
+        "name": "Verden",
+        "einwohner": 138626
+      },
+      {
+        "ags": "03401",
+        "name": "Delmenhorst, Stadt",
+        "einwohner": 81406
+      }
+    ]
+  },
+  {
+    "ror_name": "Bremerhaven",
+    "ror_id": "0303",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 406388,
+    "landkreise": [
+      {
+        "ags": "03352",
+        "name": "Cuxhaven",
+        "einwohner": 198842
+      },
+      {
+        "ags": "03461",
+        "name": "Wesermarsch",
+        "einwohner": 88936
+      },
+      {
+        "ags": "04012",
+        "name": "Bremerhaven, Stadt",
+        "einwohner": 118610
+      }
+    ]
+  },
+  {
+    "ror_name": "Donau-Iller (BW)",
+    "ror_id": "0802",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 539651,
+    "landkreise": [
+      {
+        "ags": "08421",
+        "name": "Ulm, Stadtkreis",
+        "einwohner": 129882
+      },
+      {
+        "ags": "08425",
+        "name": "Alb-Donau-Kreis",
+        "einwohner": 202354
+      },
+      {
+        "ags": "08426",
+        "name": "Biberach",
+        "einwohner": 207415
+      }
+    ]
+  },
+  {
+    "ror_name": "Donau-Iller (BY)",
+    "ror_id": "0904",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 504888,
+    "landkreise": [
+      {
+        "ags": "09764",
+        "name": "Memmingen",
+        "einwohner": 44192
+      },
+      {
+        "ags": "09774",
+        "name": "Günzburg",
+        "einwohner": 129846
+      },
+      {
+        "ags": "09775",
+        "name": "Neu-Ulm",
+        "einwohner": 183595
+      },
+      {
+        "ags": "09778",
+        "name": "Unterallgäu",
+        "einwohner": 147255
+      }
+    ]
+  },
+  {
+    "ror_name": "Donau-Wald",
+    "ror_id": "0905",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 677602,
+    "landkreise": [
+      {
+        "ags": "09262",
+        "name": "Passau, Stadt",
+        "einwohner": 53039
+      },
+      {
+        "ags": "09263",
+        "name": "Straubing",
+        "einwohner": 49002
+      },
+      {
+        "ags": "09271",
+        "name": "Deggendorf",
+        "einwohner": 121844
+      },
+      {
+        "ags": "09272",
+        "name": "Freyung-Grafenau",
+        "einwohner": 78710
+      },
+      {
+        "ags": "09275",
+        "name": "Passau",
+        "einwohner": 194699
+      },
+      {
+        "ags": "09276",
+        "name": "Regen",
+        "einwohner": 77267
+      },
+      {
+        "ags": "09278",
+        "name": "Straubing-Bogen",
+        "einwohner": 103041
+      }
+    ]
+  },
+  {
+    "ror_name": "Dortmund",
+    "ror_id": "0506",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 1177214,
+    "landkreise": [
+      {
+        "ags": "05913",
+        "name": "Dortmund, Stadt",
+        "einwohner": 603462
+      },
+      {
+        "ags": "05915",
+        "name": "Hamm, Stadt",
+        "einwohner": 179968
+      },
+      {
+        "ags": "05978",
+        "name": "Unna",
+        "einwohner": 393784
+      }
+    ]
+  },
+  {
+    "ror_name": "Duisburg/Essen",
+    "ror_id": "0507",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 2243584,
+    "landkreise": [
+      {
+        "ags": "05112",
+        "name": "Duisburg, Stadt",
+        "einwohner": 502270
+      },
+      {
+        "ags": "05113",
+        "name": "Essen, Stadt",
+        "einwohner": 574682
+      },
+      {
+        "ags": "05117",
+        "name": "Mülheim an der Ruhr, Stadt",
+        "einwohner": 173050
+      },
+      {
+        "ags": "05119",
+        "name": "Oberhausen, Stadt",
+        "einwohner": 213646
+      },
+      {
+        "ags": "05154",
+        "name": "Kleve",
+        "einwohner": 322018
+      },
+      {
+        "ags": "05170",
+        "name": "Wesel",
+        "einwohner": 457918
+      }
+    ]
+  },
+  {
+    "ror_name": "Düsseldorf",
+    "ror_id": "0508",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 3000795,
+    "landkreise": [
+      {
+        "ags": "05111",
+        "name": "Düsseldorf, Stadt",
+        "einwohner": 618685
+      },
+      {
+        "ags": "05114",
+        "name": "Krefeld, Stadt",
+        "einwohner": 231406
+      },
+      {
+        "ags": "05116",
+        "name": "Mönchengladbach, Stadt",
+        "einwohner": 267213
+      },
+      {
+        "ags": "05120",
+        "name": "Remscheid, Stadt",
+        "einwohner": 113828
+      },
+      {
+        "ags": "05122",
+        "name": "Solingen, Klingenstadt",
+        "einwohner": 165626
+      },
+      {
+        "ags": "05124",
+        "name": "Wuppertal, Stadt",
+        "einwohner": 358193
+      },
+      {
+        "ags": "05158",
+        "name": "Mettmann",
+        "einwohner": 490910
+      },
+      {
+        "ags": "05162",
+        "name": "Rhein-Kreis Neuss",
+        "einwohner": 457077
+      },
+      {
+        "ags": "05166",
+        "name": "Viersen",
+        "einwohner": 297857
+      }
+    ]
+  },
+  {
+    "ror_name": "Emscher-Lippe",
+    "ror_id": "0509",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 1007770,
+    "landkreise": [
+      {
+        "ags": "05512",
+        "name": "Bottrop, Stadt",
+        "einwohner": 118535
+      },
+      {
+        "ags": "05513",
+        "name": "Gelsenkirchen, Stadt",
+        "einwohner": 267930
+      },
+      {
+        "ags": "05562",
+        "name": "Recklinghausen",
+        "einwohner": 621305
+      }
+    ]
+  },
+  {
+    "ror_name": "Emsland",
+    "ror_id": "0304",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 479082,
+    "landkreise": [
+      {
+        "ags": "03454",
+        "name": "Emsland",
+        "einwohner": 334539
+      },
+      {
+        "ags": "03456",
+        "name": "Grafschaft Bentheim",
+        "einwohner": 144543
+      }
+    ]
+  },
+  {
+    "ror_name": "Franken",
+    "ror_id": "0803",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 935578,
+    "landkreise": [
+      {
+        "ags": "08121",
+        "name": "Heilbronn, Stadtkreis",
+        "einwohner": 131986
+      },
+      {
+        "ags": "08125",
+        "name": "Heilbronn",
+        "einwohner": 353877
+      },
+      {
+        "ags": "08126",
+        "name": "Hohenlohekreis",
+        "einwohner": 115644
+      },
+      {
+        "ags": "08127",
+        "name": "Schwäbisch Hall",
+        "einwohner": 200902
+      },
+      {
+        "ags": "08128",
+        "name": "Main-Tauber-Kreis",
+        "einwohner": 133169
+      }
+    ]
+  },
+  {
+    "ror_name": "Göttingen",
+    "ror_id": "0305",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 519232,
+    "landkreise": [
+      {
+        "ags": "03155",
+        "name": "Northeim",
+        "einwohner": 125623
+      },
+      {
+        "ags": "03159",
+        "name": "Göttingen",
+        "einwohner": 328028
+      },
+      {
+        "ags": "03255",
+        "name": "Holzminden",
+        "einwohner": 65581
+      }
+    ]
+  },
+  {
+    "ror_name": "Halle/S.",
+    "ror_id": "1503",
+    "bundesland": "Sachsen-Anhalt",
+    "einwohner_gesamt": 711931,
+    "landkreise": [
+      {
+        "ags": "15002",
+        "name": "Halle (Saale), Stadt",
+        "einwohner": 226767
+      },
+      {
+        "ags": "15084",
+        "name": "Burgenlandkreis",
+        "einwohner": 173684
+      },
+      {
+        "ags": "15087",
+        "name": "Mansfeld-Südharz",
+        "einwohner": 129029
+      },
+      {
+        "ags": "15088",
+        "name": "Saalekreis",
+        "einwohner": 182451
+      }
+    ]
+  },
+  {
+    "ror_name": "Hamburg",
+    "ror_id": "0201",
+    "bundesland": "Hamburg",
+    "einwohner_gesamt": 1862565,
+    "landkreise": [
+      {
+        "ags": "02000",
+        "name": "Hamburg, Freie und Hansestadt",
+        "einwohner": 1862565
+      }
+    ]
+  },
+  {
+    "ror_name": "Hamburg-Umland-Süd",
+    "ror_id": "0306",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 639468,
+    "landkreise": [
+      {
+        "ags": "03353",
+        "name": "Harburg",
+        "einwohner": 265864
+      },
+      {
+        "ags": "03357",
+        "name": "Rotenburg (Wümme)",
+        "einwohner": 165904
+      },
+      {
+        "ags": "03359",
+        "name": "Stade",
+        "einwohner": 207700
+      }
+    ]
+  },
+  {
+    "ror_name": "Hannover",
+    "ror_id": "0307",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 1419197,
+    "landkreise": [
+      {
+        "ags": "03241",
+        "name": "Region Hannover",
+        "einwohner": 1140888
+      },
+      {
+        "ags": "03256",
+        "name": "Nienburg (Weser)",
+        "einwohner": 121468
+      },
+      {
+        "ags": "03257",
+        "name": "Schaumburg",
+        "einwohner": 156841
+      }
+    ]
+  },
+  {
+    "ror_name": "Havelland-Fläming",
+    "ror_id": "1201",
+    "bundesland": "Brandenburg",
+    "einwohner_gesamt": 828657,
+    "landkreise": [
+      {
+        "ags": "12051",
+        "name": "Brandenburg an der Havel, Stadt",
+        "einwohner": 74113
+      },
+      {
+        "ags": "12054",
+        "name": "Potsdam, Stadt",
+        "einwohner": 184754
+      },
+      {
+        "ags": "12063",
+        "name": "Havelland",
+        "einwohner": 170834
+      },
+      {
+        "ags": "12069",
+        "name": "Potsdam-Mittelmark",
+        "einwohner": 221268
+      },
+      {
+        "ags": "12072",
+        "name": "Teltow-Fläming",
+        "einwohner": 177688
+      }
+    ]
+  },
+  {
+    "ror_name": "Hildesheim",
+    "ror_id": "0308",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 417709,
+    "landkreise": [
+      {
+        "ags": "03252",
+        "name": "Hameln-Pyrmont",
+        "einwohner": 150203
+      },
+      {
+        "ags": "03254",
+        "name": "Hildesheim",
+        "einwohner": 267506
+      }
+    ]
+  },
+  {
+    "ror_name": "Hochrhein-Bodensee",
+    "ror_id": "0804",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 701683,
+    "landkreise": [
+      {
+        "ags": "08335",
+        "name": "Konstanz",
+        "einwohner": 291841
+      },
+      {
+        "ags": "08336",
+        "name": "Lörrach",
+        "einwohner": 238263
+      },
+      {
+        "ags": "08337",
+        "name": "Waldshut",
+        "einwohner": 171579
+      }
+    ]
+  },
+  {
+    "ror_name": "Industrieregion Mittelfranken",
+    "ror_id": "0906",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 1371796,
+    "landkreise": [
+      {
+        "ags": "09562",
+        "name": "Erlangen",
+        "einwohner": 115928
+      },
+      {
+        "ags": "09563",
+        "name": "Fürth, Stadt",
+        "einwohner": 132036
+      },
+      {
+        "ags": "09564",
+        "name": "Nürnberg",
+        "einwohner": 529508
+      },
+      {
+        "ags": "09565",
+        "name": "Schwabach",
+        "einwohner": 40835
+      },
+      {
+        "ags": "09572",
+        "name": "Erlangen-Höchstadt",
+        "einwohner": 138325
+      },
+      {
+        "ags": "09573",
+        "name": "Fürth",
+        "einwohner": 117719
+      },
+      {
+        "ags": "09574",
+        "name": "Nürnberger Land",
+        "einwohner": 168813
+      },
+      {
+        "ags": "09576",
+        "name": "Roth",
+        "einwohner": 128632
+      }
+    ]
+  },
+  {
+    "ror_name": "Ingolstadt",
+    "ror_id": "0907",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 506998,
+    "landkreise": [
+      {
+        "ags": "09161",
+        "name": "Ingolstadt",
+        "einwohner": 141185
+      },
+      {
+        "ags": "09176",
+        "name": "Eichstätt",
+        "einwohner": 135668
+      },
+      {
+        "ags": "09185",
+        "name": "Neuburg-Schrobenhausen",
+        "einwohner": 99364
+      },
+      {
+        "ags": "09186",
+        "name": "Pfaffenhofen a.d.Ilm",
+        "einwohner": 130781
+      }
+    ]
+  },
+  {
+    "ror_name": "Köln",
+    "ror_id": "0510",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 2229520,
+    "landkreise": [
+      {
+        "ags": "05315",
+        "name": "Köln, Stadt",
+        "einwohner": 1024621
+      },
+      {
+        "ags": "05316",
+        "name": "Leverkusen, Stadt",
+        "einwohner": 168581
+      },
+      {
+        "ags": "05362",
+        "name": "Rhein-Erft-Kreis",
+        "einwohner": 477988
+      },
+      {
+        "ags": "05374",
+        "name": "Oberbergischer Kreis",
+        "einwohner": 274057
+      },
+      {
+        "ags": "05378",
+        "name": "Rheinisch-Bergischer Kreis",
+        "einwohner": 284273
+      }
+    ]
+  },
+  {
+    "ror_name": "Landshut",
+    "ror_id": "0908",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 455565,
+    "landkreise": [
+      {
+        "ags": "09261",
+        "name": "Landshut, Stadt",
+        "einwohner": 71863
+      },
+      {
+        "ags": "09274",
+        "name": "Landshut",
+        "einwohner": 162170
+      },
+      {
+        "ags": "09277",
+        "name": "Rottal-Inn",
+        "einwohner": 120497
+      },
+      {
+        "ags": "09279",
+        "name": "Dingolfing-Landau",
+        "einwohner": 101035
+      }
+    ]
+  },
+  {
+    "ror_name": "Lausitz-Spreewald",
+    "ror_id": "1202",
+    "bundesland": "Brandenburg",
+    "einwohner_gesamt": 589311,
+    "landkreise": [
+      {
+        "ags": "12052",
+        "name": "Cottbus, Stadt",
+        "einwohner": 95123
+      },
+      {
+        "ags": "12061",
+        "name": "Dahme-Spreewald",
+        "einwohner": 178793
+      },
+      {
+        "ags": "12062",
+        "name": "Elbe-Elster",
+        "einwohner": 97967
+      },
+      {
+        "ags": "12066",
+        "name": "Oberspreewald-Lausitz",
+        "einwohner": 107793
+      },
+      {
+        "ags": "12071",
+        "name": "Spree-Neiße",
+        "einwohner": 109635
+      }
+    ]
+  },
+  {
+    "ror_name": "Lüneburg",
+    "ror_id": "0309",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 317588,
+    "landkreise": [
+      {
+        "ags": "03354",
+        "name": "Lüchow-Dannenberg",
+        "einwohner": 46502
+      },
+      {
+        "ags": "03355",
+        "name": "Lüneburg",
+        "einwohner": 179448
+      },
+      {
+        "ags": "03360",
+        "name": "Uelzen",
+        "einwohner": 91638
+      }
+    ]
+  },
+  {
+    "ror_name": "Magdeburg",
+    "ror_id": "1504",
+    "bundesland": "Sachsen-Anhalt",
+    "einwohner_gesamt": 887017,
+    "landkreise": [
+      {
+        "ags": "15003",
+        "name": "Magdeburg, Landeshauptstadt",
+        "einwohner": 244329
+      },
+      {
+        "ags": "15083",
+        "name": "Börde",
+        "einwohner": 167924
+      },
+      {
+        "ags": "15085",
+        "name": "Harz",
+        "einwohner": 205484
+      },
+      {
+        "ags": "15086",
+        "name": "Jerichower Land",
+        "einwohner": 88509
+      },
+      {
+        "ags": "15089",
+        "name": "Salzlandkreis",
+        "einwohner": 180771
+      }
+    ]
+  },
+  {
+    "ror_name": "Main-Rhön",
+    "ror_id": "0909",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 435191,
+    "landkreise": [
+      {
+        "ags": "09662",
+        "name": "Schweinfurt, Stadt",
+        "einwohner": 54481
+      },
+      {
+        "ags": "09672",
+        "name": "Bad Kissingen",
+        "einwohner": 103489
+      },
+      {
+        "ags": "09673",
+        "name": "Rhön-Grabfeld",
+        "einwohner": 79375
+      },
+      {
+        "ags": "09674",
+        "name": "Haßberge",
+        "einwohner": 83869
+      },
+      {
+        "ags": "09678",
+        "name": "Schweinfurt",
+        "einwohner": 113977
+      }
+    ]
+  },
+  {
+    "ror_name": "Mecklenburgische Seenplatte",
+    "ror_id": "1301",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "einwohner_gesamt": 246318,
+    "landkreise": [
+      {
+        "ags": "13071",
+        "name": "Mecklenburgische Seenplatte",
+        "einwohner": 246318
+      }
+    ]
+  },
+  {
+    "ror_name": "Mittelhessen",
+    "ror_id": "0601",
+    "bundesland": "Hessen",
+    "einwohner_gesamt": 1040290,
+    "landkreise": [
+      {
+        "ags": "06531",
+        "name": "Gießen",
+        "einwohner": 268418
+      },
+      {
+        "ags": "06532",
+        "name": "Lahn-Dill-Kreis",
+        "einwohner": 254074
+      },
+      {
+        "ags": "06533",
+        "name": "Limburg-Weilburg",
+        "einwohner": 173830
+      },
+      {
+        "ags": "06534",
+        "name": "Marburg-Biedenkopf",
+        "einwohner": 242805
+      },
+      {
+        "ags": "06535",
+        "name": "Vogelsbergkreis",
+        "einwohner": 101163
+      }
+    ]
+  },
+  {
+    "ror_name": "Mittelrhein-Westerwald",
+    "ror_id": "0701",
+    "bundesland": "Rheinland-Pfalz",
+    "einwohner_gesamt": 1282849,
+    "landkreise": [
+      {
+        "ags": "07111",
+        "name": "Koblenz, kreisfreie Stadt",
+        "einwohner": 113378
+      },
+      {
+        "ags": "07131",
+        "name": "Ahrweiler",
+        "einwohner": 129353
+      },
+      {
+        "ags": "07132",
+        "name": "Altenkirchen (Westerwald)",
+        "einwohner": 132125
+      },
+      {
+        "ags": "07135",
+        "name": "Cochem-Zell",
+        "einwohner": 61608
+      },
+      {
+        "ags": "07137",
+        "name": "Mayen-Koblenz",
+        "einwohner": 217228
+      },
+      {
+        "ags": "07138",
+        "name": "Neuwied",
+        "einwohner": 189061
+      },
+      {
+        "ags": "07140",
+        "name": "Rhein-Hunsrück-Kreis",
+        "einwohner": 106705
+      },
+      {
+        "ags": "07141",
+        "name": "Rhein-Lahn-Kreis",
+        "einwohner": 125588
+      },
+      {
+        "ags": "07143",
+        "name": "Westerwaldkreis",
+        "einwohner": 207803
+      }
+    ]
+  },
+  {
+    "ror_name": "Mittelthüringen",
+    "ror_id": "1601",
+    "bundesland": "Thüringen",
+    "einwohner_gesamt": 677327,
+    "landkreise": [
+      {
+        "ags": "16051",
+        "name": "Erfurt, Stadt",
+        "einwohner": 218793
+      },
+      {
+        "ags": "16055",
+        "name": "Weimar, Stadt",
+        "einwohner": 65954
+      },
+      {
+        "ags": "16067",
+        "name": "Gotha",
+        "einwohner": 135838
+      },
+      {
+        "ags": "16068",
+        "name": "Sömmerda",
+        "einwohner": 67693
+      },
+      {
+        "ags": "16070",
+        "name": "Ilm-Kreis",
+        "einwohner": 106657
+      },
+      {
+        "ags": "16071",
+        "name": "Weimarer Land",
+        "einwohner": 82392
+      }
+    ]
+  },
+  {
+    "ror_name": "Mittlerer Oberrhein",
+    "ror_id": "0805",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 1052932,
+    "landkreise": [
+      {
+        "ags": "08211",
+        "name": "Baden-Baden, Stadtkreis",
+        "einwohner": 56881
+      },
+      {
+        "ags": "08212",
+        "name": "Karlsruhe, Stadtkreis",
+        "einwohner": 309050
+      },
+      {
+        "ags": "08215",
+        "name": "Karlsruhe",
+        "einwohner": 456264
+      },
+      {
+        "ags": "08216",
+        "name": "Rastatt",
+        "einwohner": 230737
+      }
+    ]
+  },
+  {
+    "ror_name": "Mittleres Mecklenburg/Rostock",
+    "ror_id": "1302",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "einwohner_gesamt": 424028,
+    "landkreise": [
+      {
+        "ags": "13003",
+        "name": "Rostock",
+        "einwohner": 205307
+      },
+      {
+        "ags": "13072",
+        "name": "Landkreis Rostock",
+        "einwohner": 218721
+      }
+    ]
+  },
+  {
+    "ror_name": "München",
+    "ror_id": "0910",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 2961575,
+    "landkreise": [
+      {
+        "ags": "09162",
+        "name": "München, Landeshauptstadt",
+        "einwohner": 1505005
+      },
+      {
+        "ags": "09174",
+        "name": "Dachau",
+        "einwohner": 153595
+      },
+      {
+        "ags": "09175",
+        "name": "Ebersberg",
+        "einwohner": 144225
+      },
+      {
+        "ags": "09177",
+        "name": "Erding",
+        "einwohner": 140127
+      },
+      {
+        "ags": "09178",
+        "name": "Freising",
+        "einwohner": 184564
+      },
+      {
+        "ags": "09179",
+        "name": "Fürstenfeldbruck",
+        "einwohner": 218227
+      },
+      {
+        "ags": "09181",
+        "name": "Landsberg am Lech",
+        "einwohner": 122107
+      },
+      {
+        "ags": "09184",
+        "name": "München",
+        "einwohner": 354396
+      },
+      {
+        "ags": "09188",
+        "name": "Starnberg",
+        "einwohner": 139329
+      }
+    ]
+  },
+  {
+    "ror_name": "Münster",
+    "ror_id": "0511",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 1651264,
+    "landkreise": [
+      {
+        "ags": "05515",
+        "name": "Münster, Stadt",
+        "einwohner": 308258
+      },
+      {
+        "ags": "05554",
+        "name": "Borken",
+        "einwohner": 380796
+      },
+      {
+        "ags": "05558",
+        "name": "Coesfeld",
+        "einwohner": 227859
+      },
+      {
+        "ags": "05566",
+        "name": "Steinfurt",
+        "einwohner": 451712
+      },
+      {
+        "ags": "05570",
+        "name": "Warendorf",
+        "einwohner": 282639
+      }
+    ]
+  },
+  {
+    "ror_name": "Neckar-Alb",
+    "ror_id": "0806",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 720355,
+    "landkreise": [
+      {
+        "ags": "08415",
+        "name": "Reutlingen",
+        "einwohner": 293483
+      },
+      {
+        "ags": "08416",
+        "name": "Tübingen",
+        "einwohner": 233546
+      },
+      {
+        "ags": "08417",
+        "name": "Zollernalbkreis",
+        "einwohner": 193326
+      }
+    ]
+  },
+  {
+    "ror_name": "Nordhessen",
+    "ror_id": "0602",
+    "bundesland": "Hessen",
+    "einwohner_gesamt": 861195,
+    "landkreise": [
+      {
+        "ags": "06611",
+        "name": "Kassel, documenta-Stadt",
+        "einwohner": 197230
+      },
+      {
+        "ags": "06633",
+        "name": "Kassel",
+        "einwohner": 231073
+      },
+      {
+        "ags": "06634",
+        "name": "Schwalm-Eder-Kreis",
+        "einwohner": 180071
+      },
+      {
+        "ags": "06635",
+        "name": "Waldeck-Frankenberg",
+        "einwohner": 155126
+      },
+      {
+        "ags": "06636",
+        "name": "Werra-Meißner-Kreis",
+        "einwohner": 97695
+      }
+    ]
+  },
+  {
+    "ror_name": "Nordschwarzwald",
+    "ror_id": "0807",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 617866,
+    "landkreise": [
+      {
+        "ags": "08231",
+        "name": "Pforzheim, Stadtkreis",
+        "einwohner": 134912
+      },
+      {
+        "ags": "08235",
+        "name": "Calw",
+        "einwohner": 161251
+      },
+      {
+        "ags": "08236",
+        "name": "Enzkreis",
+        "einwohner": 199745
+      },
+      {
+        "ags": "08237",
+        "name": "Freudenstadt",
+        "einwohner": 121958
+      }
+    ]
+  },
+  {
+    "ror_name": "Nordthüringen",
+    "ror_id": "1602",
+    "bundesland": "Thüringen",
+    "einwohner_gesamt": 350807,
+    "landkreise": [
+      {
+        "ags": "16061",
+        "name": "Eichsfeld",
+        "einwohner": 103694
+      },
+      {
+        "ags": "16062",
+        "name": "Nordhausen",
+        "einwohner": 80762
+      },
+      {
+        "ags": "16064",
+        "name": "Unstrut-Hainich-Kreis",
+        "einwohner": 94613
+      },
+      {
+        "ags": "16065",
+        "name": "Kyffhäuserkreis",
+        "einwohner": 71738
+      }
+    ]
+  },
+  {
+    "ror_name": "Oberes Elbtal/Osterzgebirge",
+    "ror_id": "1401",
+    "bundesland": "Sachsen",
+    "einwohner_gesamt": 1048121,
+    "landkreise": [
+      {
+        "ags": "14612",
+        "name": "Dresden, Stadt",
+        "einwohner": 564904
+      },
+      {
+        "ags": "14627",
+        "name": "Meißen",
+        "einwohner": 239221
+      },
+      {
+        "ags": "14628",
+        "name": "Sächsische Schweiz-Osterzgebirge",
+        "einwohner": 243996
+      }
+    ]
+  },
+  {
+    "ror_name": "Oberfranken-Ost",
+    "ror_id": "0911",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 457191,
+    "landkreise": [
+      {
+        "ags": "09462",
+        "name": "Bayreuth, Stadt",
+        "einwohner": 72940
+      },
+      {
+        "ags": "09464",
+        "name": "Hof, Stadt",
+        "einwohner": 46778
+      },
+      {
+        "ags": "09472",
+        "name": "Bayreuth",
+        "einwohner": 103215
+      },
+      {
+        "ags": "09475",
+        "name": "Hof",
+        "einwohner": 92191
+      },
+      {
+        "ags": "09477",
+        "name": "Kulmbach",
+        "einwohner": 71518
+      },
+      {
+        "ags": "09479",
+        "name": "Wunsiedel i.Fichtelgebirge",
+        "einwohner": 70549
+      }
+    ]
+  },
+  {
+    "ror_name": "Oberfranken-West",
+    "ror_id": "0912",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 598567,
+    "landkreise": [
+      {
+        "ags": "09461",
+        "name": "Bamberg, Stadt",
+        "einwohner": 77150
+      },
+      {
+        "ags": "09463",
+        "name": "Coburg, Stadt",
+        "einwohner": 41064
+      },
+      {
+        "ags": "09471",
+        "name": "Bamberg",
+        "einwohner": 147777
+      },
+      {
+        "ags": "09473",
+        "name": "Coburg",
+        "einwohner": 84468
+      },
+      {
+        "ags": "09474",
+        "name": "Forchheim",
+        "einwohner": 116184
+      },
+      {
+        "ags": "09476",
+        "name": "Kronach",
+        "einwohner": 64545
+      },
+      {
+        "ags": "09478",
+        "name": "Lichtenfels",
+        "einwohner": 67379
+      }
+    ]
+  },
+  {
+    "ror_name": "Oberland",
+    "ror_id": "0913",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 455653,
+    "landkreise": [
+      {
+        "ags": "09173",
+        "name": "Bad Tölz-Wolfratshausen",
+        "einwohner": 130248
+      },
+      {
+        "ags": "09180",
+        "name": "Garmisch-Partenkirchen",
+        "einwohner": 89296
+      },
+      {
+        "ags": "09182",
+        "name": "Miesbach",
+        "einwohner": 97152
+      },
+      {
+        "ags": "09190",
+        "name": "Weilheim-Schongau",
+        "einwohner": 138957
+      }
+    ]
+  },
+  {
+    "ror_name": "Oberlausitz-Niederschlesien",
+    "ror_id": "1402",
+    "bundesland": "Sachsen",
+    "einwohner_gesamt": 536566,
+    "landkreise": [
+      {
+        "ags": "14625",
+        "name": "Bautzen",
+        "einwohner": 292608
+      },
+      {
+        "ags": "14626",
+        "name": "Görlitz",
+        "einwohner": 243958
+      }
+    ]
+  },
+  {
+    "ror_name": "Oberpfalz-Nord",
+    "ror_id": "0914",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 506550,
+    "landkreise": [
+      {
+        "ags": "09361",
+        "name": "Amberg",
+        "einwohner": 42553
+      },
+      {
+        "ags": "09363",
+        "name": "Weiden i.d.OPf.",
+        "einwohner": 42444
+      },
+      {
+        "ags": "09371",
+        "name": "Amberg-Sulzbach",
+        "einwohner": 103982
+      },
+      {
+        "ags": "09374",
+        "name": "Neustadt a.d.Waldnaab",
+        "einwohner": 96049
+      },
+      {
+        "ags": "09376",
+        "name": "Schwandorf",
+        "einwohner": 149312
+      },
+      {
+        "ags": "09377",
+        "name": "Tirschenreuth",
+        "einwohner": 72210
+      }
+    ]
+  },
+  {
+    "ror_name": "Oderland-Spree",
+    "ror_id": "1203",
+    "bundesland": "Brandenburg",
+    "einwohner_gesamt": 434741,
+    "landkreise": [
+      {
+        "ags": "12053",
+        "name": "Frankfurt (Oder), Stadt",
+        "einwohner": 57107
+      },
+      {
+        "ags": "12064",
+        "name": "Märkisch-Oderland",
+        "einwohner": 197817
+      },
+      {
+        "ags": "12067",
+        "name": "Oder-Spree",
+        "einwohner": 179817
+      }
+    ]
+  },
+  {
+    "ror_name": "Oldenburg",
+    "ror_id": "0310",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 613398,
+    "landkreise": [
+      {
+        "ags": "03403",
+        "name": "Oldenburg (Oldenburg), Stadt",
+        "einwohner": 176614
+      },
+      {
+        "ags": "03451",
+        "name": "Ammerland",
+        "einwohner": 127751
+      },
+      {
+        "ags": "03453",
+        "name": "Cloppenburg",
+        "einwohner": 177025
+      },
+      {
+        "ags": "03458",
+        "name": "Oldenburg",
+        "einwohner": 132008
+      }
+    ]
+  },
+  {
+    "ror_name": "Osnabrück",
+    "ror_id": "0311",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 667417,
+    "landkreise": [
+      {
+        "ags": "03404",
+        "name": "Osnabrück, Stadt",
+        "einwohner": 166057
+      },
+      {
+        "ags": "03459",
+        "name": "Osnabrück",
+        "einwohner": 354821
+      },
+      {
+        "ags": "03460",
+        "name": "Vechta",
+        "einwohner": 146539
+      }
+    ]
+  },
+  {
+    "ror_name": "Ost-Friesland",
+    "ror_id": "0312",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 639246,
+    "landkreise": [
+      {
+        "ags": "03402",
+        "name": "Emden, Stadt",
+        "einwohner": 49202
+      },
+      {
+        "ags": "03405",
+        "name": "Wilhelmshaven, Stadt",
+        "einwohner": 75745
+      },
+      {
+        "ags": "03452",
+        "name": "Aurich",
+        "einwohner": 188816
+      },
+      {
+        "ags": "03455",
+        "name": "Friesland",
+        "einwohner": 100411
+      },
+      {
+        "ags": "03457",
+        "name": "Leer",
+        "einwohner": 169103
+      },
+      {
+        "ags": "03462",
+        "name": "Wittmund",
+        "einwohner": 55969
+      }
+    ]
+  },
+  {
+    "ror_name": "Osthessen",
+    "ror_id": "0603",
+    "bundesland": "Hessen",
+    "einwohner_gesamt": 339697,
+    "landkreise": [
+      {
+        "ags": "06631",
+        "name": "Fulda",
+        "einwohner": 222283
+      },
+      {
+        "ags": "06632",
+        "name": "Hersfeld-Rotenburg",
+        "einwohner": 117414
+      }
+    ]
+  },
+  {
+    "ror_name": "Ostthüringen",
+    "ror_id": "1603",
+    "bundesland": "Thüringen",
+    "einwohner_gesamt": 647336,
+    "landkreise": [
+      {
+        "ags": "16052",
+        "name": "Gera, Stadt",
+        "einwohner": 95608
+      },
+      {
+        "ags": "16053",
+        "name": "Jena, Stadt",
+        "einwohner": 109725
+      },
+      {
+        "ags": "16073",
+        "name": "Saalfeld-Rudolstadt",
+        "einwohner": 100105
+      },
+      {
+        "ags": "16074",
+        "name": "Saale-Holzland-Kreis",
+        "einwohner": 83342
+      },
+      {
+        "ags": "16075",
+        "name": "Saale-Orla-Kreis",
+        "einwohner": 77341
+      },
+      {
+        "ags": "16076",
+        "name": "Greiz",
+        "einwohner": 93707
+      },
+      {
+        "ags": "16077",
+        "name": "Altenburger Land",
+        "einwohner": 87508
+      }
+    ]
+  },
+  {
+    "ror_name": "Ostwürttemberg",
+    "ror_id": "0808",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 452662,
+    "landkreise": [
+      {
+        "ags": "08135",
+        "name": "Heidenheim",
+        "einwohner": 135235
+      },
+      {
+        "ags": "08136",
+        "name": "Ostalbkreis",
+        "einwohner": 317427
+      }
+    ]
+  },
+  {
+    "ror_name": "Paderborn",
+    "ror_id": "0512",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 455164,
+    "landkreise": [
+      {
+        "ags": "05762",
+        "name": "Höxter",
+        "einwohner": 139252
+      },
+      {
+        "ags": "05774",
+        "name": "Paderborn",
+        "einwohner": 315912
+      }
+    ]
+  },
+  {
+    "ror_name": "Prignitz-Oberhavel",
+    "ror_id": "1204",
+    "bundesland": "Brandenburg",
+    "einwohner_gesamt": 392437,
+    "landkreise": [
+      {
+        "ags": "12065",
+        "name": "Oberhavel",
+        "einwohner": 217690
+      },
+      {
+        "ags": "12068",
+        "name": "Ostprignitz-Ruppin",
+        "einwohner": 99152
+      },
+      {
+        "ags": "12070",
+        "name": "Prignitz",
+        "einwohner": 75595
+      }
+    ]
+  },
+  {
+    "ror_name": "Regensburg",
+    "ror_id": "0915",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 740866,
+    "landkreise": [
+      {
+        "ags": "09273",
+        "name": "Kelheim",
+        "einwohner": 126037
+      },
+      {
+        "ags": "09362",
+        "name": "Regensburg, Stadt",
+        "einwohner": 151389
+      },
+      {
+        "ags": "09372",
+        "name": "Cham",
+        "einwohner": 128534
+      },
+      {
+        "ags": "09373",
+        "name": "Neumarkt i.d.OPf.",
+        "einwohner": 138693
+      },
+      {
+        "ags": "09375",
+        "name": "Regensburg",
+        "einwohner": 196213
+      }
+    ]
+  },
+  {
+    "ror_name": "Rhein-Main",
+    "ror_id": "0604",
+    "bundesland": "Hessen",
+    "einwohner_gesamt": 2934236,
+    "landkreise": [
+      {
+        "ags": "06412",
+        "name": "Frankfurt am Main, Stadt",
+        "einwohner": 756021
+      },
+      {
+        "ags": "06413",
+        "name": "Offenbach am Main, Stadt",
+        "einwohner": 132746
+      },
+      {
+        "ags": "06414",
+        "name": "Wiesbaden, Landeshauptstadt",
+        "einwohner": 288850
+      },
+      {
+        "ags": "06434",
+        "name": "Hochtaunuskreis",
+        "einwohner": 241664
+      },
+      {
+        "ags": "06435",
+        "name": "Main-Kinzig-Kreis",
+        "einwohner": 420914
+      },
+      {
+        "ags": "06436",
+        "name": "Main-Taunus-Kreis",
+        "einwohner": 238775
+      },
+      {
+        "ags": "06438",
+        "name": "Offenbach",
+        "einwohner": 358022
+      },
+      {
+        "ags": "06439",
+        "name": "Rheingau-Taunus-Kreis",
+        "einwohner": 185651
+      },
+      {
+        "ags": "06440",
+        "name": "Wetteraukreis",
+        "einwohner": 311593
+      }
+    ]
+  },
+  {
+    "ror_name": "Rheinhessen-Nahe",
+    "ror_id": "0702",
+    "bundesland": "Rheinland-Pfalz",
+    "einwohner_gesamt": 896488,
+    "landkreise": [
+      {
+        "ags": "07133",
+        "name": "Bad Kreuznach",
+        "einwohner": 164748
+      },
+      {
+        "ags": "07134",
+        "name": "Birkenfeld",
+        "einwohner": 82611
+      },
+      {
+        "ags": "07315",
+        "name": "Mainz, kreisfreie Stadt",
+        "einwohner": 224684
+      },
+      {
+        "ags": "07319",
+        "name": "Worms, kreisfreie Stadt",
+        "einwohner": 86753
+      },
+      {
+        "ags": "07331",
+        "name": "Alzey-Worms",
+        "einwohner": 131238
+      },
+      {
+        "ags": "07339",
+        "name": "Mainz-Bingen",
+        "einwohner": 206454
+      }
+    ]
+  },
+  {
+    "ror_name": "Rheinpfalz",
+    "ror_id": "0703",
+    "bundesland": "Rheinland-Pfalz",
+    "einwohner_gesamt": 910705,
+    "landkreise": [
+      {
+        "ags": "07311",
+        "name": "Frankenthal (Pfalz), kreisfreie Stadt",
+        "einwohner": 48140
+      },
+      {
+        "ags": "07313",
+        "name": "Landau in der Pfalz, kreisfreie Stadt",
+        "einwohner": 48209
+      },
+      {
+        "ags": "07314",
+        "name": "Ludwigshafen am Rhein, kreisfreie Stadt",
+        "einwohner": 177222
+      },
+      {
+        "ags": "07316",
+        "name": "Neustadt an der Weinstraße, kreisfreie Stadt",
+        "einwohner": 52945
+      },
+      {
+        "ags": "07318",
+        "name": "Speyer, kreisfreie Stadt",
+        "einwohner": 49564
+      },
+      {
+        "ags": "07332",
+        "name": "Bad Dürkheim",
+        "einwohner": 134329
+      },
+      {
+        "ags": "07334",
+        "name": "Germersheim",
+        "einwohner": 131383
+      },
+      {
+        "ags": "07337",
+        "name": "Südliche Weinstraße",
+        "einwohner": 113031
+      },
+      {
+        "ags": "07338",
+        "name": "Rhein-Pfalz-Kreis",
+        "einwohner": 155882
+      }
+    ]
+  },
+  {
+    "ror_name": "Saar",
+    "ror_id": "1001",
+    "bundesland": "Saarland",
+    "einwohner_gesamt": 1012141,
+    "landkreise": [
+      {
+        "ags": "10041",
+        "name": "Regionalverband Saarbrücken",
+        "einwohner": 333149
+      },
+      {
+        "ags": "10042",
+        "name": "Merzig-Wadern",
+        "einwohner": 108779
+      },
+      {
+        "ags": "10043",
+        "name": "Neunkirchen",
+        "einwohner": 133179
+      },
+      {
+        "ags": "10044",
+        "name": "Saarlouis",
+        "einwohner": 205129
+      },
+      {
+        "ags": "10045",
+        "name": "Saarpfalz-Kreis",
+        "einwohner": 144092
+      },
+      {
+        "ags": "10046",
+        "name": "St. Wendel",
+        "einwohner": 87813
+      }
+    ]
+  },
+  {
+    "ror_name": "Schleswig-Holstein Mitte",
+    "ror_id": "0101",
+    "bundesland": "Schleswig-Holstein",
+    "einwohner_gesamt": 741144,
+    "landkreise": [
+      {
+        "ags": "01002",
+        "name": "Kiel, Landeshauptstadt",
+        "einwohner": 252668
+      },
+      {
+        "ags": "01004",
+        "name": "Neumünster, Stadt",
+        "einwohner": 79809
+      },
+      {
+        "ags": "01057",
+        "name": "Plön",
+        "einwohner": 130609
+      },
+      {
+        "ags": "01058",
+        "name": "Rendsburg-Eckernförde",
+        "einwohner": 278058
+      }
+    ]
+  },
+  {
+    "ror_name": "Schleswig-Holstein Nord",
+    "ror_id": "0102",
+    "bundesland": "Schleswig-Holstein",
+    "einwohner_gesamt": 471827,
+    "landkreise": [
+      {
+        "ags": "01001",
+        "name": "Flensburg, Stadt",
+        "einwohner": 96326
+      },
+      {
+        "ags": "01054",
+        "name": "Nordfriesland",
+        "einwohner": 170029
+      },
+      {
+        "ags": "01059",
+        "name": "Schleswig-Flensburg",
+        "einwohner": 205472
+      }
+    ]
+  },
+  {
+    "ror_name": "Schleswig-Holstein Ost",
+    "ror_id": "0103",
+    "bundesland": "Schleswig-Holstein",
+    "einwohner_gesamt": 418361,
+    "landkreise": [
+      {
+        "ags": "01003",
+        "name": "Lübeck, Hansestadt",
+        "einwohner": 216889
+      },
+      {
+        "ags": "01055",
+        "name": "Ostholstein",
+        "einwohner": 201472
+      }
+    ]
+  },
+  {
+    "ror_name": "Schleswig-Holstein Süd",
+    "ror_id": "0104",
+    "bundesland": "Schleswig-Holstein",
+    "einwohner_gesamt": 1061994,
+    "landkreise": [
+      {
+        "ags": "01053",
+        "name": "Herzogtum Lauenburg",
+        "einwohner": 206235
+      },
+      {
+        "ags": "01056",
+        "name": "Pinneberg",
+        "einwohner": 325223
+      },
+      {
+        "ags": "01060",
+        "name": "Segeberg",
+        "einwohner": 283562
+      },
+      {
+        "ags": "01062",
+        "name": "Stormarn",
+        "einwohner": 246974
+      }
+    ]
+  },
+  {
+    "ror_name": "Schleswig-Holstein Süd-West",
+    "ror_id": "0105",
+    "bundesland": "Schleswig-Holstein",
+    "einwohner_gesamt": 266191,
+    "landkreise": [
+      {
+        "ags": "01051",
+        "name": "Dithmarschen",
+        "einwohner": 133460
+      },
+      {
+        "ags": "01061",
+        "name": "Steinburg",
+        "einwohner": 132731
+      }
+    ]
+  },
+  {
+    "ror_name": "Schwarzwald-Baar-Heuberg",
+    "ror_id": "0809",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 499510,
+    "landkreise": [
+      {
+        "ags": "08325",
+        "name": "Rottweil",
+        "einwohner": 140237
+      },
+      {
+        "ags": "08326",
+        "name": "Schwarzwald-Baar-Kreis",
+        "einwohner": 214065
+      },
+      {
+        "ags": "08327",
+        "name": "Tuttlingen",
+        "einwohner": 145208
+      }
+    ]
+  },
+  {
+    "ror_name": "Siegen",
+    "ror_id": "0513",
+    "bundesland": "Nordrhein-Westfalen",
+    "einwohner_gesamt": 406420,
+    "landkreise": [
+      {
+        "ags": "05966",
+        "name": "Olpe",
+        "einwohner": 132346
+      },
+      {
+        "ags": "05970",
+        "name": "Siegen-Wittgenstein",
+        "einwohner": 274074
+      }
+    ]
+  },
+  {
+    "ror_name": "Starkenburg",
+    "ror_id": "0605",
+    "bundesland": "Hessen",
+    "einwohner_gesamt": 1105375,
+    "landkreise": [
+      {
+        "ags": "06411",
+        "name": "Darmstadt, Wissenschaftsstadt",
+        "einwohner": 167029
+      },
+      {
+        "ags": "06431",
+        "name": "Bergstraße",
+        "einwohner": 274169
+      },
+      {
+        "ags": "06432",
+        "name": "Darmstadt-Dieburg",
+        "einwohner": 302021
+      },
+      {
+        "ags": "06433",
+        "name": "Groß-Gerau",
+        "einwohner": 268310
+      },
+      {
+        "ags": "06437",
+        "name": "Odenwaldkreis",
+        "einwohner": 93846
+      }
+    ]
+  },
+  {
+    "ror_name": "Stuttgart",
+    "ror_id": "0810",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 2779310,
+    "landkreise": [
+      {
+        "ags": "08111",
+        "name": "Stuttgart, Stadtkreis",
+        "einwohner": 612663
+      },
+      {
+        "ags": "08115",
+        "name": "Böblingen",
+        "einwohner": 395167
+      },
+      {
+        "ags": "08116",
+        "name": "Esslingen",
+        "einwohner": 536601
+      },
+      {
+        "ags": "08117",
+        "name": "Göppingen",
+        "einwohner": 258809
+      },
+      {
+        "ags": "08118",
+        "name": "Ludwigsburg",
+        "einwohner": 535374
+      },
+      {
+        "ags": "08119",
+        "name": "Rems-Murr-Kreis",
+        "einwohner": 440696
+      }
+    ]
+  },
+  {
+    "ror_name": "Südheide",
+    "ror_id": "0313",
+    "bundesland": "Niedersachsen",
+    "einwohner_gesamt": 313770,
+    "landkreise": [
+      {
+        "ags": "03351",
+        "name": "Celle",
+        "einwohner": 172449
+      },
+      {
+        "ags": "03358",
+        "name": "Heidekreis",
+        "einwohner": 141321
+      }
+    ]
+  },
+  {
+    "ror_name": "Südlicher Oberrhein",
+    "ror_id": "0811",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 1124663,
+    "landkreise": [
+      {
+        "ags": "08311",
+        "name": "Freiburg im Breisgau, Stadtkreis",
+        "einwohner": 237460
+      },
+      {
+        "ags": "08315",
+        "name": "Breisgau-Hochschwarzwald",
+        "einwohner": 272558
+      },
+      {
+        "ags": "08316",
+        "name": "Emmendingen",
+        "einwohner": 169787
+      },
+      {
+        "ags": "08317",
+        "name": "Ortenaukreis",
+        "einwohner": 444858
+      }
+    ]
+  },
+  {
+    "ror_name": "Südostoberbayern",
+    "ror_id": "0916",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 840322,
+    "landkreise": [
+      {
+        "ags": "09163",
+        "name": "Rosenheim, Stadt",
+        "einwohner": 65274
+      },
+      {
+        "ags": "09171",
+        "name": "Altötting",
+        "einwohner": 113938
+      },
+      {
+        "ags": "09172",
+        "name": "Berchtesgadener Land",
+        "einwohner": 105292
+      },
+      {
+        "ags": "09183",
+        "name": "Mühldorf a.Inn",
+        "einwohner": 122037
+      },
+      {
+        "ags": "09187",
+        "name": "Rosenheim",
+        "einwohner": 258637
+      },
+      {
+        "ags": "09189",
+        "name": "Traunstein",
+        "einwohner": 175144
+      }
+    ]
+  },
+  {
+    "ror_name": "Südsachsen",
+    "ror_id": "1403",
+    "bundesland": "Sachsen",
+    "einwohner_gesamt": 1386336,
+    "landkreise": [
+      {
+        "ags": "14511",
+        "name": "Chemnitz, Stadt",
+        "einwohner": 245618
+      },
+      {
+        "ags": "14521",
+        "name": "Erzgebirgskreis",
+        "einwohner": 318394
+      },
+      {
+        "ags": "14522",
+        "name": "Mittelsachsen",
+        "einwohner": 296431
+      },
+      {
+        "ags": "14523",
+        "name": "Vogtlandkreis",
+        "einwohner": 219100
+      },
+      {
+        "ags": "14524",
+        "name": "Zwickau",
+        "einwohner": 306793
+      }
+    ]
+  },
+  {
+    "ror_name": "Südthüringen",
+    "ror_id": "1604",
+    "bundesland": "Thüringen",
+    "einwohner_gesamt": 424807,
+    "landkreise": [
+      {
+        "ags": "16054",
+        "name": "Suhl, Stadt",
+        "einwohner": 34685
+      },
+      {
+        "ags": "16063",
+        "name": "Wartburgkreis",
+        "einwohner": 154957
+      },
+      {
+        "ags": "16066",
+        "name": "Schmalkalden-Meiningen",
+        "einwohner": 120214
+      },
+      {
+        "ags": "16069",
+        "name": "Hildburghausen",
+        "einwohner": 59987
+      },
+      {
+        "ags": "16072",
+        "name": "Sonneberg",
+        "einwohner": 54964
+      }
+    ]
+  },
+  {
+    "ror_name": "Trier",
+    "ror_id": "0704",
+    "bundesland": "Rheinland-Pfalz",
+    "einwohner_gesamt": 525583,
+    "landkreise": [
+      {
+        "ags": "07211",
+        "name": "Trier, kreisfreie Stadt",
+        "einwohner": 104342
+      },
+      {
+        "ags": "07231",
+        "name": "Bernkastel-Wittlich",
+        "einwohner": 113187
+      },
+      {
+        "ags": "07232",
+        "name": "Eifelkreis Bitburg-Prüm",
+        "einwohner": 99788
+      },
+      {
+        "ags": "07233",
+        "name": "Vulkaneifel",
+        "einwohner": 59313
+      },
+      {
+        "ags": "07235",
+        "name": "Trier-Saarburg",
+        "einwohner": 148953
+      }
+    ]
+  },
+  {
+    "ror_name": "Uckermark-Barnim",
+    "ror_id": "1205",
+    "bundesland": "Brandenburg",
+    "einwohner_gesamt": 311601,
+    "landkreise": [
+      {
+        "ags": "12060",
+        "name": "Barnim",
+        "einwohner": 194169
+      },
+      {
+        "ags": "12073",
+        "name": "Uckermark",
+        "einwohner": 117432
+      }
+    ]
+  },
+  {
+    "ror_name": "Unterer Neckar",
+    "ror_id": "0812",
+    "bundesland": "Baden-Württemberg",
+    "einwohner_gesamt": 1177615,
+    "landkreise": [
+      {
+        "ags": "08221",
+        "name": "Heidelberg, Stadtkreis",
+        "einwohner": 155756
+      },
+      {
+        "ags": "08222",
+        "name": "Mannheim, Stadtkreis",
+        "einwohner": 318035
+      },
+      {
+        "ags": "08225",
+        "name": "Neckar-Odenwald-Kreis",
+        "einwohner": 145263
+      },
+      {
+        "ags": "08226",
+        "name": "Rhein-Neckar-Kreis",
+        "einwohner": 558561
+      }
+    ]
+  },
+  {
+    "ror_name": "Vorpommern",
+    "ror_id": "1303",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "einwohner_gesamt": 440159,
+    "landkreise": [
+      {
+        "ags": "13073",
+        "name": "Vorpommern-Rügen",
+        "einwohner": 215203
+      },
+      {
+        "ags": "13075",
+        "name": "Vorpommern-Greifswald",
+        "einwohner": 224956
+      }
+    ]
+  },
+  {
+    "ror_name": "Westmecklenburg",
+    "ror_id": "1304",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "einwohner_gesamt": 463092,
+    "landkreise": [
+      {
+        "ags": "13004",
+        "name": "Schwerin",
+        "einwohner": 98308
+      },
+      {
+        "ags": "13074",
+        "name": "Nordwestmecklenburg",
+        "einwohner": 156692
+      },
+      {
+        "ags": "13076",
+        "name": "Ludwigslust-Parchim",
+        "einwohner": 208092
+      }
+    ]
+  },
+  {
+    "ror_name": "Westmittelfranken",
+    "ror_id": "0917",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 424113,
+    "landkreise": [
+      {
+        "ags": "09561",
+        "name": "Ansbach, Stadt",
+        "einwohner": 40742
+      },
+      {
+        "ags": "09571",
+        "name": "Ansbach",
+        "einwohner": 187633
+      },
+      {
+        "ags": "09575",
+        "name": "Neustadt a.d.Aisch-Bad Windsheim",
+        "einwohner": 101043
+      },
+      {
+        "ags": "09577",
+        "name": "Weißenburg-Gunzenhausen",
+        "einwohner": 94695
+      }
+    ]
+  },
+  {
+    "ror_name": "Westpfalz",
+    "ror_id": "0705",
+    "bundesland": "Rheinland-Pfalz",
+    "einwohner_gesamt": 513944,
+    "landkreise": [
+      {
+        "ags": "07312",
+        "name": "Kaiserslautern, kreisfreie Stadt",
+        "einwohner": 100426
+      },
+      {
+        "ags": "07317",
+        "name": "Pirmasens, kreisfreie Stadt",
+        "einwohner": 39761
+      },
+      {
+        "ags": "07320",
+        "name": "Zweibrücken, kreisfreie Stadt",
+        "einwohner": 33323
+      },
+      {
+        "ags": "07333",
+        "name": "Donnersbergkreis",
+        "einwohner": 74783
+      },
+      {
+        "ags": "07335",
+        "name": "Kaiserslautern",
+        "einwohner": 106343
+      },
+      {
+        "ags": "07336",
+        "name": "Kusel",
+        "einwohner": 69334
+      },
+      {
+        "ags": "07340",
+        "name": "Südwestpfalz",
+        "einwohner": 89974
+      }
+    ]
+  },
+  {
+    "ror_name": "Westsachsen",
+    "ror_id": "1404",
+    "bundesland": "Sachsen",
+    "einwohner_gesamt": 1071399,
+    "landkreise": [
+      {
+        "ags": "14713",
+        "name": "Leipzig, Stadt",
+        "einwohner": 611850
+      },
+      {
+        "ags": "14729",
+        "name": "Leipzig",
+        "einwohner": 260127
+      },
+      {
+        "ags": "14730",
+        "name": "Nordsachsen",
+        "einwohner": 199422
+      }
+    ]
+  },
+  {
+    "ror_name": "Würzburg",
+    "ror_id": "0918",
+    "bundesland": "Bayern",
+    "einwohner_gesamt": 512043,
+    "landkreise": [
+      {
+        "ags": "09663",
+        "name": "Würzburg, Stadt",
+        "einwohner": 133258
+      },
+      {
+        "ags": "09675",
+        "name": "Kitzingen",
+        "einwohner": 91287
+      },
+      {
+        "ags": "09677",
+        "name": "Main-Spessart",
+        "einwohner": 125282
+      },
+      {
+        "ags": "09679",
+        "name": "Würzburg",
+        "einwohner": 162216
+      }
+    ]
+  }
+]

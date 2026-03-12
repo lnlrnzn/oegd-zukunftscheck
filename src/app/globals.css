@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@source "../node_modules/streamdown/dist/*.js";
+@source "../node_modules/use-stick-to-bottom/dist/*.js";
 
 @theme {
   --color-background: #fafbfc;
@@ -32,6 +34,9 @@
   --color-oegd-red-light: #fef2f2;
   --color-oegd-navy: #0f172a;
   --color-oegd-slate: #334155;
+  --color-sidebar: #f8fafc;
+  --color-sidebar-foreground: #0f172a;
+  --color-sidebar-border: #e2e8f0;
 
   --color-chart-1: #1d4ed8;
   --color-chart-2: #059669;
@@ -203,6 +208,23 @@ h1, h2, h3 {
   text-wrap: balance;
 }
 
+/* Bento grid card gradients */
+.bento-gradient-blue {
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 40%, #ffffff 100%);
+}
+.bento-gradient-red {
+  background: linear-gradient(135deg, #fef2f2 0%, #fecaca40 50%, #ffffff 100%);
+}
+.bento-gradient-yellow {
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c740 50%, #ffffff 100%);
+}
+.bento-gradient-green {
+  background: linear-gradient(135deg, #ecfdf5 0%, #d1fae540 50%, #ffffff 100%);
+}
+.bento-gradient-navy {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 60%, #334155 100%);
+}
+
 /* Magic UI: Border Beam */
 @keyframes border-beam {
   100% {
@@ -238,4 +260,42 @@ h1, h2, h3 {
 }
 .animate-spin-around {
   animation: spin-around calc(var(--speed) * 2) infinite linear;
+}
+
+/* Chat: Reasoning Shimmer */
+@keyframes reasoning-shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.reasoning-shimmer {
+  position: relative;
+}
+.reasoning-shimmer::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    90deg,
+    transparent 25%,
+    rgba(29, 78, 216, 0.08) 50%,
+    transparent 75%
+  );
+  background-size: 200% 100%;
+  animation: reasoning-shimmer 2s ease-in-out infinite;
+  pointer-events: none;
+}
+
+/* Chat widget: compact Streamdown overrides (scoped to chat context) */
+.chat-content :is(h1, h2, h3, h4, h5, h6) {
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-top: 0.75em;
+  margin-bottom: 0.25em;
+}
+.chat-content :is(h1) { font-size: 1rem; }
+.chat-content :is(h2) { font-size: 0.9375rem; }
+.chat-content > div {
+  gap: 0.5rem;
 }

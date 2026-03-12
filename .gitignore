@@ -52,3 +52,6 @@ gbe-bund-page.png
 gbe-snapshot.md
 *.xlsx
 *.csv
+data/raw/
+
+.vercel

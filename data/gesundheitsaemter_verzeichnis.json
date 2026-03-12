@@ -1,0 +1,6098 @@
+[
+  {
+    "id": "ga-1-01-0-01",
+    "name": "Fachbereich 2 / Gesundheitsdienste",
+    "landkreis": "Flensburg, Stadt",
+    "landkreis_ags": "01001",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Nord",
+    "adresse": {
+      "strasse": "Norderstr. 58-60",
+      "plz": "24939",
+      "ort": "Flensburg"
+    },
+    "telefon": "0461 85-2113",
+    "email": "infektionsschutz@flensburg.de"
+  },
+  {
+    "id": "ga-1-01-0-02",
+    "name": "Amt für Gesundheit",
+    "landkreis": "Kiel, Landeshauptstadt",
+    "landkreis_ags": "01002",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Mitte",
+    "adresse": {
+      "strasse": "Fleethörn 18-24",
+      "plz": "24103",
+      "ort": "Kiel"
+    },
+    "telefon": "0431 901 2108",
+    "email": "infektionsschutz@kiel.de"
+  },
+  {
+    "id": "ga-1-01-0-03",
+    "name": "Gesundheitsamt",
+    "landkreis": "Lübeck, Hansestadt",
+    "landkreis_ags": "01003",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Ost",
+    "adresse": {
+      "strasse": "Sophienstr. 2 - 8",
+      "plz": "23560",
+      "ort": "Lübeck"
+    },
+    "telefon": "0451 122 5369",
+    "email": "Infektionsschutz@luebeck.de"
+  },
+  {
+    "id": "ga-1-01-0-04",
+    "name": "Gesundheitsamt",
+    "landkreis": "Neumünster, Stadt",
+    "landkreis_ags": "01004",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Mitte",
+    "adresse": {
+      "strasse": "Meßtorffweg 8",
+      "plz": "24534",
+      "ort": "Neumünster"
+    },
+    "telefon": "04321 942-2810",
+    "email": "Infektionsschutz@neumuenster.de"
+  },
+  {
+    "id": "ga-1-01-0-51",
+    "name": "Fachdienst Gesundheitsschutz",
+    "landkreis": "Dithmarschen",
+    "landkreis_ags": "01051",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Süd-West",
+    "adresse": {
+      "strasse": "Esmarchstr. 50",
+      "plz": "25746",
+      "ort": "Heide"
+    },
+    "telefon": "0481 974900",
+    "email": "gesundheitsschutz@dithmarschen.de"
+  },
+  {
+    "id": "ga-1-01-0-53",
+    "name": "Gesundheitsamt",
+    "landkreis": "Herzogtum Lauenburg",
+    "landkreis_ags": "01053",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Süd",
+    "adresse": {
+      "strasse": "Barlachstr. 4",
+      "plz": "23909",
+      "ort": "Ratzeburg"
+    },
+    "telefon": "+49 4541 888-380",
+    "email": "gesundheitsdienste@kreis-rz.de"
+  },
+  {
+    "id": "ga-1-01-0-54",
+    "name": "Fachdienst Gesundheit(Gesundheitsamt)",
+    "landkreis": "Nordfriesland",
+    "landkreis_ags": "01054",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Nord",
+    "adresse": {
+      "strasse": "Damm 8",
+      "plz": "25813",
+      "ort": "Husum"
+    },
+    "telefon": "+49 4841 67 0",
+    "email": "infektionsmeldungen@nordfriesland.de"
+  },
+  {
+    "id": "ga-1-01-0-55",
+    "name": "Fachdienst Gesundheit(Gesundheitsamt)",
+    "landkreis": "Ostholstein",
+    "landkreis_ags": "01055",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Ost",
+    "adresse": {
+      "strasse": "Holstenstr. 52",
+      "plz": "23701",
+      "ort": "Eutin"
+    },
+    "telefon": "04521 788-880",
+    "email": "ugs@kreis-oh.de"
+  },
+  {
+    "id": "ga-1-01-0-56",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Pinneberg",
+    "landkreis_ags": "01056",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Süd",
+    "adresse": {
+      "strasse": "Kurt-Wagener-Straße 11",
+      "plz": "25337",
+      "ort": "Elmshorn"
+    },
+    "telefon": "+49 4121- 4502-5000",
+    "email": "infektionsschutz@kreis-pinneberg.de"
+  },
+  {
+    "id": "ga-1-01-0-57",
+    "name": "Amt für Gesundheit",
+    "landkreis": "Plön",
+    "landkreis_ags": "01057",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Mitte",
+    "adresse": {
+      "strasse": "Hamburger Str. 17/18",
+      "plz": "24306",
+      "ort": "Plön"
+    },
+    "telefon": "04522 743-531",
+    "email": "gesundheitsamt@kreis-ploen.de"
+  },
+  {
+    "id": "ga-1-01-0-58",
+    "name": "Fachdienst 4.3 Gesundheitsdienste",
+    "landkreis": "Rendsburg-Eckernförde",
+    "landkreis_ags": "01058",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Mitte",
+    "adresse": {
+      "strasse": "Kaiserstr. 8",
+      "plz": "24768",
+      "ort": "Rendsburg"
+    },
+    "telefon": "04331 202-560",
+    "email": "gesundheitsamt@kreis-rd.de"
+  },
+  {
+    "id": "ga-1-01-0-59",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Schleswig-Flensburg",
+    "landkreis_ags": "01059",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Nord",
+    "adresse": {
+      "strasse": "Moltkestraße 22-26",
+      "plz": "24837",
+      "ort": "Schleswig"
+    },
+    "telefon": "+49 4621 810-0",
+    "email": "gesundheitsamt@schleswig-flensburg.de"
+  },
+  {
+    "id": "ga-1-01-0-60",
+    "name": "Fachdienst Infektionsschutz und umweltbezogener Gesundheitsschutz",
+    "landkreis": "Segeberg",
+    "landkreis_ags": "01060",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Süd",
+    "adresse": {
+      "strasse": "Hamburger Str. 30",
+      "plz": "23795",
+      "ort": "Bad Segeberg"
+    },
+    "telefon": "04551 951-9349",
+    "email": "infektionsschutz@segeberg.de"
+  },
+  {
+    "id": "ga-1-01-0-61",
+    "name": "Gesundheitsamt",
+    "landkreis": "Steinburg",
+    "landkreis_ags": "01061",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Süd-West",
+    "adresse": {
+      "strasse": "Viktoriastr. 17a",
+      "plz": "25524",
+      "ort": "Itzehoe"
+    },
+    "telefon": "04821 69 450",
+    "email": "gesundheitsamt@steinburg.de"
+  },
+  {
+    "id": "ga-1-01-0-62",
+    "name": "Fachdienst Gesundheit/ Gesundheitsamt",
+    "landkreis": "Stormarn",
+    "landkreis_ags": "01062",
+    "bundesland": "Schleswig-Holstein",
+    "bundesland_kuerzel": "SH",
+    "raumordnungsregion": "Schleswig-Holstein Süd",
+    "adresse": {
+      "strasse": "Reimer-Hansen-Str. 3",
+      "plz": "23843",
+      "ort": "Bad Oldesloe"
+    },
+    "telefon": "+49 4531 160-1788",
+    "email": "gesundheitsamt@kreis-stormarn.de"
+  },
+  {
+    "id": "ga-1-02-0-01",
+    "name": "Fachamt Gesundheit",
+    "landkreis": "Hamburg, Freie und Hansestadt",
+    "landkreis_ags": "02000",
+    "bundesland": "Hamburg",
+    "bundesland_kuerzel": "HH",
+    "raumordnungsregion": "Hamburg",
+    "adresse": {
+      "strasse": "Behringstraße 122",
+      "plz": "22765",
+      "ort": "Hamburg"
+    },
+    "telefon": "+49 40 428 11 1659",
+    "email": "Infektionsschutz@altona.hamburg.de"
+  },
+  {
+    "id": "ga-1-02-0-02",
+    "name": "Fachamt Gesundheit",
+    "landkreis": "Hamburg, Freie und Hansestadt",
+    "landkreis_ags": "02000",
+    "bundesland": "Hamburg",
+    "bundesland_kuerzel": "HH",
+    "raumordnungsregion": "Hamburg",
+    "adresse": {
+      "strasse": "Herzog-Carl-Friedrich-Platz 1",
+      "plz": "21031",
+      "ort": "Hamburg"
+    },
+    "telefon": "+49 40 428 91 2216",
+    "email": "infektionsschutz@bergedorf.hamburg.de"
+  },
+  {
+    "id": "ga-1-02-0-03",
+    "name": "Gesundheits- und Umweltamt",
+    "landkreis": "Hamburg, Freie und Hansestadt",
+    "landkreis_ags": "02000",
+    "bundesland": "Hamburg",
+    "bundesland_kuerzel": "HH",
+    "raumordnungsregion": "Hamburg",
+    "adresse": {
+      "strasse": "Grindelberg 62-66",
+      "plz": "20144",
+      "ort": "Hamburg"
+    },
+    "telefon": "+49 40 42801 3506",
+    "email": "infektionsschutz@eimsbuettel.hamburg.de"
+  },
+  {
+    "id": "ga-1-02-0-04",
+    "name": "Fachamt Gesundheit",
+    "landkreis": "Hamburg, Freie und Hansestadt",
+    "landkreis_ags": "02000",
+    "bundesland": "Hamburg",
+    "bundesland_kuerzel": "HH",
+    "raumordnungsregion": "Hamburg",
+    "adresse": {
+      "strasse": "Caffamacherreihe 1-3",
+      "plz": "20355",
+      "ort": "Hamburg"
+    },
+    "telefon": "+49 40 42854 7797",
+    "email": "Gesundheitsamtmitte@hamburg-mitte.hamburg.de"
+  },
+  {
+    "id": "ga-1-02-0-04-09",
+    "name": "Fachamt Gesundheit I Hamburger Tuberkulosebekämpfungsstelle",
+    "landkreis": "Hamburg, Freie und Hansestadt",
+    "landkreis_ags": "02000",
+    "bundesland": "Hamburg",
+    "bundesland_kuerzel": "HH",
+    "raumordnungsregion": "Hamburg",
+    "adresse": {
+      "strasse": "Caffamacherreihe 1-3",
+      "plz": "20355",
+      "ort": "Hamburg"
+    },
+    "telefon": "+49 40 42854-2201",
+    "email": "tbc-bekaempfungsstelle@hamburg-mitte.hamburg.de"
+  },
+  {
+    "id": "ga-1-02-0-05",
+    "name": "Fachamt Gesundheit",
+    "landkreis": "Hamburg, Freie und Hansestadt",
+    "landkreis_ags": "02000",
+    "bundesland": "Hamburg",
+    "bundesland_kuerzel": "HH",
+    "raumordnungsregion": "Hamburg",
+    "adresse": {
+      "strasse": "Eppendorfer Landstraße 59",
+      "plz": "20249",
+      "ort": "Hamburg"
+    },
+    "telefon": "040428042677",
+    "email": "Infektionsschutz@hamburg-nord.hamburg.de"
+  },
+  {
+    "id": "ga-1-02-0-06",
+    "name": "Freie und Hansestadt Hamburg — Bezirksamt Harburg",
+    "landkreis": "Hamburg, Freie und Hansestadt",
+    "landkreis_ags": "02000",
+    "bundesland": "Hamburg",
+    "bundesland_kuerzel": "HH",
+    "raumordnungsregion": "Hamburg",
+    "adresse": {
+      "strasse": "Harburger Rathauspassage 2",
+      "plz": "21073",
+      "ort": "Hamburg"
+    },
+    "telefon": "+49 40 428 71 2307",
+    "email": "gesundheitsamt@harburg.hamburg.de"
+  },
+  {
+    "id": "ga-1-02-0-07",
+    "name": "Gesundheitsamt",
+    "landkreis": "Hamburg, Freie und Hansestadt",
+    "landkreis_ags": "02000",
+    "bundesland": "Hamburg",
+    "bundesland_kuerzel": "HH",
+    "raumordnungsregion": "Hamburg",
+    "adresse": {
+      "strasse": "Robert-Schumann-Brücke 8",
+      "plz": "22041",
+      "ort": "Hamburg"
+    },
+    "telefon": "+49 40 428 81 3494",
+    "email": "Gesundheitsamt@wandsbek.hamburg.de"
+  },
+  {
+    "id": "ga-1-02-0-08",
+    "name": "HPHC — Hafenärztlicher Dienst",
+    "landkreis": "HPHC",
+    "landkreis_ags": "",
+    "bundesland": "",
+    "bundesland_kuerzel": "",
+    "raumordnungsregion": "",
+    "adresse": {
+      "strasse": "",
+      "plz": "",
+      "ort": ""
+    },
+    "telefon": null,
+    "email": null
+  },
+  {
+    "id": "ga-1-03-1-01",
+    "name": "Fachbereich Soziales und Gesundheit",
+    "landkreis": "Braunschweig, Stadt",
+    "landkreis_ags": "03101",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Braunschweig",
+    "adresse": {
+      "strasse": "Hamburger Str. 226",
+      "plz": "38114",
+      "ort": "Braunschweig"
+    },
+    "telefon": "0531 470-7022",
+    "email": "Gesundheitsamt@braunschweig.de"
+  },
+  {
+    "id": "ga-1-03-1-02",
+    "name": "Gesundheitsamt",
+    "landkreis": "Salzgitter, Stadt",
+    "landkreis_ags": "03102",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Braunschweig",
+    "adresse": {
+      "strasse": "Paracelsusstr. 1-9",
+      "plz": "38259",
+      "ort": "Salzgitter"
+    },
+    "telefon": "05341 839-2022",
+    "email": "gesundheit@stadt.salzgitter.de"
+  },
+  {
+    "id": "ga-1-03-1-03",
+    "name": "Gesundheitsamt",
+    "landkreis": "Wolfsburg, Stadt",
+    "landkreis_ags": "03103",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Braunschweig",
+    "adresse": {
+      "strasse": "Rosenweg 1a",
+      "plz": "38446",
+      "ort": "Wolfsburg"
+    },
+    "telefon": "05361 28-2020",
+    "email": "gesundheitsamt@stadt.wolfsburg.de"
+  },
+  {
+    "id": "ga-1-03-1-51",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Gifhorn",
+    "landkreis_ags": "03151",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Braunschweig",
+    "adresse": {
+      "strasse": "Allerstr. 21",
+      "plz": "38518",
+      "ort": "Gifhorn"
+    },
+    "telefon": "05371 82-702",
+    "email": "gesundheitsamt@gifhorn.de"
+  },
+  {
+    "id": "ga-1-03-1-53",
+    "name": "Gesundheitsamt",
+    "landkreis": "Goslar",
+    "landkreis_ags": "03153",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Braunschweig",
+    "adresse": {
+      "strasse": "Heinrich-Pieper-Str. 9",
+      "plz": "38640",
+      "ort": "Goslar"
+    },
+    "telefon": "05321 700-800",
+    "email": "gesundheitsamt@landkreis-goslar.de"
+  },
+  {
+    "id": "ga-1-03-1-54",
+    "name": "Geschäftsbereich Gesundheit",
+    "landkreis": "Helmstedt",
+    "landkreis_ags": "03154",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Braunschweig",
+    "adresse": {
+      "strasse": "Elzweg 19",
+      "plz": "38350",
+      "ort": "Helmstedt"
+    },
+    "telefon": "05351 121-1415",
+    "email": "gesundheitsamt@landkreis-helmstedt.de"
+  },
+  {
+    "id": "ga-1-03-1-55-03",
+    "name": "Gesundheitswesen",
+    "landkreis": "Northeim",
+    "landkreis_ags": "03155",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Göttingen",
+    "adresse": {
+      "strasse": "Wolfshof 10",
+      "plz": "37154",
+      "ort": "Northeim"
+    },
+    "telefon": "05551 708-570",
+    "email": "gesundheitsdienste@landkreis-northeim.de"
+  },
+  {
+    "id": "ga-1-03-1-57",
+    "name": "Gesundheitsamt",
+    "landkreis": "Peine",
+    "landkreis_ags": "03157",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Braunschweig",
+    "adresse": {
+      "strasse": "Maschweg 21",
+      "plz": "31224",
+      "ort": "Peine"
+    },
+    "telefon": "05171 4017001",
+    "email": "gesundheit@landkreis-peine.de"
+  },
+  {
+    "id": "ga-1-03-1-58",
+    "name": "Gesundheitsamt",
+    "landkreis": "Wolfenbüttel",
+    "landkreis_ags": "03158",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Braunschweig",
+    "adresse": {
+      "strasse": "Mascheroder Straße 6",
+      "plz": "38302",
+      "ort": "Wolfenbüttel"
+    },
+    "telefon": "05331 84-7400",
+    "email": "gesundheitsamt@lk-wf.de"
+  },
+  {
+    "id": "ga-1-03-1-59",
+    "name": "Fachbereich 53 Gesundheitsamt",
+    "landkreis": "Göttingen",
+    "landkreis_ags": "03159",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Göttingen",
+    "adresse": {
+      "strasse": "Theaterplatz 4",
+      "plz": "37073",
+      "ort": "Göttingen"
+    },
+    "telefon": "0551 400-4802",
+    "email": "gesundheitsamt@goettingen.de"
+  },
+  {
+    "id": "ga-1-03-2-41",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Region Hannover",
+    "landkreis_ags": "03241",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Hannover",
+    "adresse": {
+      "strasse": "Weinstr. 2",
+      "plz": "30171",
+      "ort": "Hannover"
+    },
+    "telefon": "0511-616 43434",
+    "email": "Gesundheit@region-hannover.de"
+  },
+  {
+    "id": "ga-1-03-2-51",
+    "name": "Fachdienst 53 Gesundheitsamt",
+    "landkreis": "Diepholz",
+    "landkreis_ags": "03251",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Bremen-Umland",
+    "adresse": {
+      "strasse": "Wellestr. 6",
+      "plz": "49356",
+      "ort": "Diepholz"
+    },
+    "telefon": "05441 976-1801",
+    "email": "gesundheitsamt@diepholz.de"
+  },
+  {
+    "id": "ga-1-03-2-52",
+    "name": "Gesundheitsamt",
+    "landkreis": "Hameln-Pyrmont",
+    "landkreis_ags": "03252",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Hildesheim",
+    "adresse": {
+      "strasse": "Hugenottenstr. 6",
+      "plz": "31785",
+      "ort": "Hameln"
+    },
+    "telefon": "05151 903-5555",
+    "email": "infektionsschutz@hameln-pyrmont.de"
+  },
+  {
+    "id": "ga-1-03-2-54",
+    "name": "Gesundheitsamt",
+    "landkreis": "Hildesheim",
+    "landkreis_ags": "03254",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Hildesheim",
+    "adresse": {
+      "strasse": "Bördestr. 8",
+      "plz": "31135",
+      "ort": "Hildesheim"
+    },
+    "telefon": "05121 309-7541",
+    "email": "gesundheit@landkreishildesheim.de"
+  },
+  {
+    "id": "ga-1-03-2-55",
+    "name": "Gesundheitsamt",
+    "landkreis": "Holzminden",
+    "landkreis_ags": "03255",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Göttingen",
+    "adresse": {
+      "strasse": "Böntalstr. 32",
+      "plz": "37603",
+      "ort": "Holzminden"
+    },
+    "telefon": "+49 5531 707-372",
+    "email": "gesundheitsschutz@landkreis-holzminden.de"
+  },
+  {
+    "id": "ga-1-03-2-56",
+    "name": "Gesundheitsamt / Gesundheitsdienste",
+    "landkreis": "Nienburg (Weser)",
+    "landkreis_ags": "03256",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Hannover",
+    "adresse": {
+      "strasse": "Triemerstr. 17",
+      "plz": "31582",
+      "ort": "Nienburg"
+    },
+    "telefon": "05021967 900",
+    "email": "Infektionsschutz@kreis-ni.de"
+  },
+  {
+    "id": "ga-1-03-2-57-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Schaumburg",
+    "landkreis_ags": "03257",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Hannover",
+    "adresse": {
+      "strasse": "Probsthäger Str. 6",
+      "plz": "31655",
+      "ort": "Stadthagen"
+    },
+    "telefon": "+49 5721 703-2500",
+    "email": "gesundheitsamt@schaumburg.de"
+  },
+  {
+    "id": "ga-1-03-3-51",
+    "name": "Gesundheitsamt",
+    "landkreis": "Celle",
+    "landkreis_ags": "03351",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Südheide",
+    "adresse": {
+      "strasse": "Trift 26",
+      "plz": "29221",
+      "ort": "Celle"
+    },
+    "telefon": "05141 916-5000",
+    "email": "gesundheitsamt@lkcelle.de"
+  },
+  {
+    "id": "ga-1-03-3-52",
+    "name": "Gesundheitsamt",
+    "landkreis": "Cuxhaven",
+    "landkreis_ags": "03352",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Bremerhaven",
+    "adresse": {
+      "strasse": "Vincent-Lübeck-Str. 2",
+      "plz": "27474",
+      "ort": "Cuxhaven"
+    },
+    "telefon": "+49 4721-66 26 00",
+    "email": "gesundheitsamt@Landkreis-Cuxhaven.de"
+  },
+  {
+    "id": "ga-1-03-3-53",
+    "name": "Gesundheitsamt",
+    "landkreis": "Harburg",
+    "landkreis_ags": "03353",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Hamburg-Umland-Süd",
+    "adresse": {
+      "strasse": "Schloßplatz 6",
+      "plz": "21423",
+      "ort": "Winsen(Luhe)"
+    },
+    "telefon": "04171 693-372",
+    "email": "Gesundheitsamt@lkharburg.de"
+  },
+  {
+    "id": "ga-1-03-3-54",
+    "name": "Landkreis Lüchow-Dannenberg — Wendland",
+    "landkreis": "Lüchow-Dannenberg",
+    "landkreis_ags": "03354",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Lüneburg",
+    "adresse": {
+      "strasse": "Königsberger Strasse 10",
+      "plz": "29439",
+      "ort": "Lüchow/ Wendland"
+    },
+    "telefon": "05841-120 850",
+    "email": "gesundheit@luechow-dannenberg.de"
+  },
+  {
+    "id": "ga-1-03-3-55",
+    "name": "Gesundheitsamt",
+    "landkreis": "Lüneburg",
+    "landkreis_ags": "03355",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Lüneburg",
+    "adresse": {
+      "strasse": "Am Graalwall 4",
+      "plz": "21335",
+      "ort": "Lüneburg"
+    },
+    "telefon": "+49 4131 26-1500",
+    "email": "gesundheitsamt@landkreis.lueneburg.de"
+  },
+  {
+    "id": "ga-1-03-3-56",
+    "name": "Gesundheitsamt",
+    "landkreis": "Osterholz",
+    "landkreis_ags": "03356",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Bremen-Umland",
+    "adresse": {
+      "strasse": "Heimstraße 1-3",
+      "plz": "27711",
+      "ort": "Osterholz-Scharmbeck"
+    },
+    "telefon": "+49 47 91  930  2900",
+    "email": "gesundheitsamt@landkreis-osterholz.de"
+  },
+  {
+    "id": "ga-1-03-3-57",
+    "name": "Gesundheitsamt",
+    "landkreis": "Rotenburg (Wümme)",
+    "landkreis_ags": "03357",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Hamburg-Umland-Süd",
+    "adresse": {
+      "strasse": "Bahnhofstr. 15",
+      "plz": "27356",
+      "ort": "Rotenburg (Wümme)"
+    },
+    "telefon": "04261 983 3203",
+    "email": "infektionsschutz@lk-row.de"
+  },
+  {
+    "id": "ga-1-03-3-58",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Heidekreis",
+    "landkreis_ags": "03358",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Südheide",
+    "adresse": {
+      "strasse": "Dierkingstr. 19",
+      "plz": "29664",
+      "ort": "Walsrode"
+    },
+    "telefon": "05162-970 9110",
+    "email": "infektionsschutz@heidekreis.de"
+  },
+  {
+    "id": "ga-1-03-3-59",
+    "name": "Gesundheitsamt",
+    "landkreis": "Stade",
+    "landkreis_ags": "03359",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Hamburg-Umland-Süd",
+    "adresse": {
+      "strasse": "Heckenweg 7",
+      "plz": "21680",
+      "ort": "Stade"
+    },
+    "telefon": "04141 12-5300",
+    "email": "gesundheitsamt@landkreis-stade.de"
+  },
+  {
+    "id": "ga-1-03-3-60",
+    "name": "Gesundheitsamt Uelzen",
+    "landkreis": "Uelzen",
+    "landkreis_ags": "03360",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Lüneburg",
+    "adresse": {
+      "strasse": "Auf dem Rahlande 15",
+      "plz": "29525",
+      "ort": "Uelzen"
+    },
+    "telefon": "0581 82-462",
+    "email": "gesundheitsamt@landkreis-uelzen.de"
+  },
+  {
+    "id": "ga-1-03-3-61-02",
+    "name": "Fachdienst Gesundheit und Umweltmedizin",
+    "landkreis": "Verden",
+    "landkreis_ags": "03361",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Bremen-Umland",
+    "adresse": {
+      "strasse": "Lindhooper Str.67",
+      "plz": "27283",
+      "ort": "Verden"
+    },
+    "telefon": "04231 15-500",
+    "email": "infektionsschutz@landkreis-verden.de"
+  },
+  {
+    "id": "ga-1-03-4-01",
+    "name": "Städt. Gesundheitsamt",
+    "landkreis": "Delmenhorst, Stadt",
+    "landkreis_ags": "03401",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Bremen-Umland",
+    "adresse": {
+      "strasse": "Lange Str. 1A (City Center)",
+      "plz": "27749",
+      "ort": "Delmenhorst"
+    },
+    "telefon": "04221 99-2616",
+    "email": "gesundheit@delmenhorst.de"
+  },
+  {
+    "id": "ga-1-03-4-02",
+    "name": "Fachdienst 553 - Gesundheit",
+    "landkreis": "Emden, Stadt",
+    "landkreis_ags": "03402",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Ost-Friesland",
+    "adresse": {
+      "strasse": "Ysaac-Brons-Str. 16",
+      "plz": "26721",
+      "ort": "Emden"
+    },
+    "telefon": "04921 87-1650",
+    "email": "gesundheitsaufsicht@emden.de"
+  },
+  {
+    "id": "ga-1-03-4-03",
+    "name": "Gesundheitsamt",
+    "landkreis": "Oldenburg",
+    "landkreis_ags": "03458",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Oldenburg",
+    "adresse": {
+      "strasse": "Industriestraße 1b",
+      "plz": "26121",
+      "ort": "Oldenburg"
+    },
+    "telefon": "0441 235-4444",
+    "email": "infektionsschutz@stadt-oldenburg.de"
+  },
+  {
+    "id": "ga-1-03-4-05",
+    "name": "Gesundheitsamt",
+    "landkreis": "Wilhelmshaven, Stadt",
+    "landkreis_ags": "03405",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Ost-Friesland",
+    "adresse": {
+      "strasse": "Gökerstr. 68",
+      "plz": "26384",
+      "ort": "Wilhelmshaven"
+    },
+    "telefon": "04421 16-1570",
+    "email": "gesundheitsamt@wilhelmshaven.de"
+  },
+  {
+    "id": "ga-1-03-4-51",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ammerland",
+    "landkreis_ags": "03451",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Oldenburg",
+    "adresse": {
+      "strasse": "An der Hössen 38",
+      "plz": "26655",
+      "ort": "Westerstede"
+    },
+    "telefon": "04488 56-7000",
+    "email": "gesundheitsamt@ammerland.de"
+  },
+  {
+    "id": "ga-1-03-4-52",
+    "name": "Amt für Gesundheitswesen",
+    "landkreis": "Aurich",
+    "landkreis_ags": "03452",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Ost-Friesland",
+    "adresse": {
+      "strasse": "Extumer Weg 29",
+      "plz": "26603",
+      "ort": "Aurich"
+    },
+    "telefon": "04941 16-5300",
+    "email": "gesundheitsaufsicht@landkreis-aurich.de"
+  },
+  {
+    "id": "ga-1-03-4-53",
+    "name": "Gesundheitsamt",
+    "landkreis": "Cloppenburg",
+    "landkreis_ags": "03453",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Oldenburg",
+    "adresse": {
+      "strasse": "Eschstr. 29",
+      "plz": "49661",
+      "ort": "Cloppenburg"
+    },
+    "telefon": "04471 15-436 o.-248",
+    "email": "gesundheitsamt@lkclp.de"
+  },
+  {
+    "id": "ga-1-03-4-54",
+    "name": "Gesundheitsamt",
+    "landkreis": "Emsland",
+    "landkreis_ags": "03454",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Emsland",
+    "adresse": {
+      "strasse": "Ordeniederung 1",
+      "plz": "49716",
+      "ort": "Meppen"
+    },
+    "telefon": "05931 44-1197",
+    "email": "gesundheit@emsland.de"
+  },
+  {
+    "id": "ga-1-03-4-55",
+    "name": "Gesundheitsamt",
+    "landkreis": "Friesland",
+    "landkreis_ags": "03455",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Ost-Friesland",
+    "adresse": {
+      "strasse": "Schlosserplatz 3",
+      "plz": "26441",
+      "ort": "Jever"
+    },
+    "telefon": "04461 919-0",
+    "email": "gesundheit@friesland.de"
+  },
+  {
+    "id": "ga-1-03-4-56",
+    "name": "Gesundheitsamt",
+    "landkreis": "Grafschaft Bentheim",
+    "landkreis_ags": "03456",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Emsland",
+    "adresse": {
+      "strasse": "Am Bölt 27",
+      "plz": "48527",
+      "ort": "Nordhorn"
+    },
+    "telefon": "05921 96- 1850",
+    "email": "gesundheitsamt@grafschaft.de"
+  },
+  {
+    "id": "ga-1-03-4-57",
+    "name": "Gesundheitsamt",
+    "landkreis": "Leer",
+    "landkreis_ags": "03457",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Ost-Friesland",
+    "adresse": {
+      "strasse": "Jahnstr. 4",
+      "plz": "26789",
+      "ort": "Leer"
+    },
+    "telefon": "0491 926-0",
+    "email": "gesundheitsaufsicht@lkleer.de"
+  },
+  {
+    "id": "ga-1-03-4-58",
+    "name": "Gesundheitsamt",
+    "landkreis": "Oldenburg",
+    "landkreis_ags": "03458",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Oldenburg",
+    "adresse": {
+      "strasse": "Delmenhorster Str. 6",
+      "plz": "27793",
+      "ort": "Wildeshausen"
+    },
+    "telefon": "04431 85510",
+    "email": "gesundheitsamt@oldenburg-kreis.de"
+  },
+  {
+    "id": "ga-1-03-4-59",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Osnabrück",
+    "landkreis_ags": "03459",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Osnabrück",
+    "adresse": {
+      "strasse": "Am Schölerberg 1",
+      "plz": "49082",
+      "ort": "Osnabrück"
+    },
+    "telefon": "0541 501-0",
+    "email": "infektionsschutz@lkos.de"
+  },
+  {
+    "id": "ga-1-03-4-60",
+    "name": "Gesundheitsamt",
+    "landkreis": "Vechta",
+    "landkreis_ags": "03460",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Osnabrück",
+    "adresse": {
+      "strasse": "Neuer Markt 8",
+      "plz": "49377",
+      "ort": "Vechta"
+    },
+    "telefon": "04441 898-0",
+    "email": "gesundheitsamt@landkreis-vechta.de"
+  },
+  {
+    "id": "ga-1-03-4-61",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Wesermarsch",
+    "landkreis_ags": "03461",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Bremerhaven",
+    "adresse": {
+      "strasse": "Rönnelstr. 10",
+      "plz": "26919",
+      "ort": "Brake"
+    },
+    "telefon": "04401 927-511",
+    "email": "infektionsschutz@wesermarsch.de"
+  },
+  {
+    "id": "ga-1-03-4-62",
+    "name": "Gesundheitsamt",
+    "landkreis": "Wittmund",
+    "landkreis_ags": "03462",
+    "bundesland": "Niedersachsen",
+    "bundesland_kuerzel": "NI",
+    "raumordnungsregion": "Ost-Friesland",
+    "adresse": {
+      "strasse": "Dohuser Weg 12b",
+      "plz": "26409",
+      "ort": "Wittmund"
+    },
+    "telefon": "04462 86- 1500",
+    "email": "hygiene@lk.wittmund.de"
+  },
+  {
+    "id": "ga-1-04-0-11",
+    "name": "Gesundheitsamt",
+    "landkreis": "Bremen, Stadt",
+    "landkreis_ags": "04011",
+    "bundesland": "Bremen",
+    "bundesland_kuerzel": "HB",
+    "raumordnungsregion": "Bremen",
+    "adresse": {
+      "strasse": "Horner Str. 60-70",
+      "plz": "28203",
+      "ort": "Bremen"
+    },
+    "telefon": "+49 421 361-15113",
+    "email": "infektion@gesundheitsamt.bremen.de"
+  },
+  {
+    "id": "ga-1-04-0-12",
+    "name": "Magistrat/Gesundheitsamt",
+    "landkreis": "Bremerhaven, Stadt",
+    "landkreis_ags": "04012",
+    "bundesland": "Bremen",
+    "bundesland_kuerzel": "HB",
+    "raumordnungsregion": "Bremerhaven",
+    "adresse": {
+      "strasse": "Wurster Str. 49",
+      "plz": "27580",
+      "ort": "Bremerhaven"
+    },
+    "telefon": "0471 590-2281",
+    "email": "gesundheitsamt@magistrat.bremerhaven.de"
+  },
+  {
+    "id": "ga-1-05-1-11",
+    "name": "Gesundheitsamt",
+    "landkreis": "Düsseldorf, Stadt",
+    "landkreis_ags": "05111",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Kölner Str. 180",
+      "plz": "40227",
+      "ort": "Düsseldorf"
+    },
+    "telefon": "0211-8992618",
+    "email": "gesundheitsschutz@duesseldorf.de"
+  },
+  {
+    "id": "ga-1-05-1-12",
+    "name": "Der Oberbürgermeister - Gesundheitsamt",
+    "landkreis": "Duisburg, Stadt",
+    "landkreis_ags": "05112",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Duisburg/Essen",
+    "adresse": {
+      "strasse": "Ruhrorter Str. 195",
+      "plz": "47119",
+      "ort": "Duisburg"
+    },
+    "telefon": "0203 283-983114",
+    "email": "gesundheitsamt@stadt-duisburg.de"
+  },
+  {
+    "id": "ga-1-05-1-13",
+    "name": "Gesundheitsamt",
+    "landkreis": "Essen, Stadt",
+    "landkreis_ags": "05113",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Duisburg/Essen",
+    "adresse": {
+      "strasse": "Hindenburgstr.29",
+      "plz": "45127",
+      "ort": "Essen"
+    },
+    "telefon": "0201 88-53000",
+    "email": "infektionsschutz@gesundheitsamt.essen.de"
+  },
+  {
+    "id": "ga-1-05-1-14",
+    "name": "Fachbereich 53 Gesundheit",
+    "landkreis": "Krefeld, Stadt",
+    "landkreis_ags": "05114",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Gartenstr. 30-32",
+      "plz": "47798",
+      "ort": "Krefeld"
+    },
+    "telefon": "02151 86-3501",
+    "email": "ifsg-meldung@krefeld.de"
+  },
+  {
+    "id": "ga-1-05-1-16",
+    "name": "Fachbereich 53 Gesundheitsamt",
+    "landkreis": "Mönchengladbach, Stadt",
+    "landkreis_ags": "05116",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Am Steinberg 55",
+      "plz": "41061",
+      "ort": "Mönchengladbach"
+    },
+    "telefon": "+49 2161 25-6500",
+    "email": "gesundheitsamt-hotline@moenchengladbach.de"
+  },
+  {
+    "id": "ga-1-05-1-17",
+    "name": "Amt für Gesundheit und Hygiene",
+    "landkreis": "Mülheim an der Ruhr, Stadt",
+    "landkreis_ags": "05117",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Duisburg/Essen",
+    "adresse": {
+      "strasse": "Heinrich-Melzer-Str. 3",
+      "plz": "45468",
+      "ort": "Mülheim an der Ruhr"
+    },
+    "telefon": "0208 455-5300",
+    "email": "gesundheitsaufsicht@muelheim-ruhr.de"
+  },
+  {
+    "id": "ga-1-05-1-19",
+    "name": "Bereich Gesundheit",
+    "landkreis": "Oberhausen, Stadt",
+    "landkreis_ags": "05119",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Duisburg/Essen",
+    "adresse": {
+      "strasse": "Tannenbergstr. 11-13",
+      "plz": "46045",
+      "ort": "Oberhausen"
+    },
+    "telefon": "0208 825-2570",
+    "email": "Bereich.Gesundheit@oberhausen.de"
+  },
+  {
+    "id": "ga-1-05-1-20",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Remscheid, Stadt",
+    "landkreis_ags": "05120",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Hastener Str. 15",
+      "plz": "42855",
+      "ort": "Remscheid"
+    },
+    "telefon": "02191 16-2255",
+    "email": "hygieneaufsicht@remscheid.de"
+  },
+  {
+    "id": "ga-1-05-1-22",
+    "name": "Stadtdienst Gesundheit",
+    "landkreis": "Solingen, Klingenstadt",
+    "landkreis_ags": "05122",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Walter Scheel-Platz 3",
+      "plz": "42651",
+      "ort": "Solingen"
+    },
+    "telefon": "0212 290 2511",
+    "email": "stadtdienst.gesundheit@solingen.de"
+  },
+  {
+    "id": "ga-1-05-1-24",
+    "name": "Gesundheitsamt",
+    "landkreis": "Wuppertal, Stadt",
+    "landkreis_ags": "05124",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Willy-Brandt-Platz 19",
+      "plz": "42105",
+      "ort": "Wuppertal"
+    },
+    "telefon": "+49 202 563-2800",
+    "email": "infektionshygiene@stadt.wuppertal.de"
+  },
+  {
+    "id": "ga-1-05-1-54",
+    "name": "Kreisgesundheitsamt",
+    "landkreis": "Kleve",
+    "landkreis_ags": "05154",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Duisburg/Essen",
+    "adresse": {
+      "strasse": "Nassauer Allee 16",
+      "plz": "47533",
+      "ort": "Kleve"
+    },
+    "telefon": "02821 85-0",
+    "email": "infektionsschutz@kreis-kleve.de"
+  },
+  {
+    "id": "ga-1-05-1-58",
+    "name": "Gesundheitsamt",
+    "landkreis": "Mettmann",
+    "landkreis_ags": "05158",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Postfach",
+      "plz": "40806",
+      "ort": "Mettmann"
+    },
+    "telefon": "02104 99-2300",
+    "email": "hygiene@kreis-mettmann.de"
+  },
+  {
+    "id": "ga-1-05-1-62",
+    "name": "Gesundheitsamt",
+    "landkreis": "Rhein-Kreis Neuss",
+    "landkreis_ags": "05162",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Auf der Schanze 1",
+      "plz": "41515",
+      "ort": "Grevenbroich"
+    },
+    "telefon": "02181 601-5301",
+    "email": "infektionsschutz@rhein-kreis-neuss.de"
+  },
+  {
+    "id": "ga-1-05-1-66",
+    "name": "Gesundheitsamt",
+    "landkreis": "Viersen",
+    "landkreis_ags": "05166",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Düsseldorf",
+    "adresse": {
+      "strasse": "Rathausmarkt 3",
+      "plz": "41747",
+      "ort": "Viersen"
+    },
+    "telefon": "02162 391756",
+    "email": "gesundheitsamt@kreis-viersen.de"
+  },
+  {
+    "id": "ga-1-05-1-70",
+    "name": "Fachbereich Gesundheitswesen",
+    "landkreis": "Wesel",
+    "landkreis_ags": "05170",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Duisburg/Essen",
+    "adresse": {
+      "strasse": "Mühlenstr. 9-11",
+      "plz": "47441",
+      "ort": "Moers"
+    },
+    "telefon": "0281 2070",
+    "email": "gesundheitswesen@kreis-wesel.de"
+  },
+  {
+    "id": "ga-1-05-3-14",
+    "name": "Amt 53 Gesundheitsamt",
+    "landkreis": "Bonn, Stadt",
+    "landkreis_ags": "05314",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bonn",
+    "adresse": {
+      "strasse": "Welschnonnenstraße 2",
+      "plz": "53111",
+      "ort": "Bonn"
+    },
+    "telefon": "0228 77 3803",
+    "email": "Gesundheitsaufsicht@bonn.de"
+  },
+  {
+    "id": "ga-1-05-3-15",
+    "name": "Gesundheitsamt",
+    "landkreis": "Köln, Stadt",
+    "landkreis_ags": "05315",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Köln",
+    "adresse": {
+      "strasse": "Neumarkt 15 - 21",
+      "plz": "50667",
+      "ort": "Köln"
+    },
+    "telefon": "0221 221-24728",
+    "email": "gesundheitsamt@stadt-koeln.de"
+  },
+  {
+    "id": "ga-1-05-3-15-09",
+    "name": "Gesundheitsamt / TB-Stelle",
+    "landkreis": "Köln, Stadt",
+    "landkreis_ags": "05315",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Köln",
+    "adresse": {
+      "strasse": "Neumarkt 15 - 21",
+      "plz": "50667",
+      "ort": "Köln"
+    },
+    "telefon": "0221 221-24728",
+    "email": "gesundheitsamt@stadt-koeln.de"
+  },
+  {
+    "id": "ga-1-05-3-16",
+    "name": "Stadt Leverkusen — Fachbereich 53 Medizinischer Dienst",
+    "landkreis": "Leverkusen, Stadt",
+    "landkreis_ags": "05316",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Köln",
+    "adresse": {
+      "strasse": "Paracelsusstraße 19",
+      "plz": "51375",
+      "ort": "Leverkusen"
+    },
+    "telefon": null,
+    "email": "infektionsschutz@stadt.leverkusen.de"
+  },
+  {
+    "id": "ga-1-05-3-34",
+    "name": "Gesundheitsamt (A53)",
+    "landkreis": "Städteregion Aachen",
+    "landkreis_ags": "05334",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Aachen",
+    "adresse": {
+      "strasse": "Trierer Str. 1",
+      "plz": "52078",
+      "ort": "Aachen"
+    },
+    "telefon": "+49 241 51985300",
+    "email": null
+  },
+  {
+    "id": "ga-1-05-3-58",
+    "name": "Gesundheitsamt",
+    "landkreis": "Düren",
+    "landkreis_ags": "05358",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Aachen",
+    "adresse": {
+      "strasse": "Bismarkstr. 16",
+      "plz": "52351",
+      "ort": "Düren"
+    },
+    "telefon": "+49 2421 22 1053210",
+    "email": "infektionsschutz@kreis-dueren.de"
+  },
+  {
+    "id": "ga-1-05-3-62",
+    "name": "Gesundheitsamt",
+    "landkreis": "Rhein-Erft-Kreis",
+    "landkreis_ags": "05362",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Köln",
+    "adresse": {
+      "strasse": "Willy-Brandt-Platz 1",
+      "plz": "50126",
+      "ort": "Bergheim"
+    },
+    "telefon": "+492271/83-15319",
+    "email": "infektionsschutz@rhein-erft-kreis.de"
+  },
+  {
+    "id": "ga-1-05-3-66",
+    "name": "Abteilung Gesundheit",
+    "landkreis": "Euskirchen",
+    "landkreis_ags": "05366",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Aachen",
+    "adresse": {
+      "strasse": "Jülicher Ring 32",
+      "plz": "53879",
+      "ort": "Euskirchen"
+    },
+    "telefon": "02251 15-0",
+    "email": "infektionsschutz@kreis-euskirchen.de"
+  },
+  {
+    "id": "ga-1-05-3-70",
+    "name": "Gesundheitsamt",
+    "landkreis": "Heinsberg",
+    "landkreis_ags": "05370",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Aachen",
+    "adresse": {
+      "strasse": "Valkenburger Str. 45",
+      "plz": "52525",
+      "ort": "Heinsberg"
+    },
+    "telefon": "02452 13-5311",
+    "email": "gesundheitsamt@Kreis-Heinsberg.de"
+  },
+  {
+    "id": "ga-1-05-3-74",
+    "name": "Gesundheitsamt",
+    "landkreis": "Oberbergischer Kreis",
+    "landkreis_ags": "05374",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Köln",
+    "adresse": {
+      "strasse": "Am Wiedenhof 1-3",
+      "plz": "51643",
+      "ort": "Gummersbach"
+    },
+    "telefon": "02261 88-5305",
+    "email": "amt53@obk.de"
+  },
+  {
+    "id": "ga-1-05-3-78",
+    "name": "Rheinisch-Bergischer Kreis — Der Landrat",
+    "landkreis": "Rheinisch-Bergischer Kreis",
+    "landkreis_ags": "05378",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Köln",
+    "adresse": {
+      "strasse": "Am Rübezahlwald 7",
+      "plz": "51469",
+      "ort": "Bergisch-Gladbach"
+    },
+    "telefon": "02202 13 3366",
+    "email": "gesundheitsamt@rbk-online.de"
+  },
+  {
+    "id": "ga-1-05-3-82",
+    "name": "Der Landrat/Gesundheitsamt",
+    "landkreis": "Rhein-Sieg-Kreis",
+    "landkreis_ags": "05382",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bonn",
+    "adresse": {
+      "strasse": "Kaiser-Wilhelm-Platz 1",
+      "plz": "53721",
+      "ort": "Siegburg"
+    },
+    "telefon": "02241/13-2727",
+    "email": "gesundheitsaufsicht@rhein-sieg-kreis.de"
+  },
+  {
+    "id": "ga-1-05-5-12",
+    "name": "Gesundheitsamt",
+    "landkreis": "Bottrop, Stadt",
+    "landkreis_ags": "05512",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Emscher-Lippe",
+    "adresse": {
+      "strasse": "Gladbecker Str. 66",
+      "plz": "46236",
+      "ort": "Bottrop"
+    },
+    "telefon": "+49 2041 70-30",
+    "email": "amt53@bottrop.de"
+  },
+  {
+    "id": "ga-1-05-5-13",
+    "name": "Referat Gesundheit",
+    "landkreis": "Gelsenkirchen, Stadt",
+    "landkreis_ags": "05513",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Emscher-Lippe",
+    "adresse": {
+      "strasse": "Kurt-Schumacher-Str. 4",
+      "plz": "45881",
+      "ort": "Gelsenkirchen"
+    },
+    "telefon": null,
+    "email": "referat.gesundheit@gelsenkirchen.de"
+  },
+  {
+    "id": "ga-1-05-5-15",
+    "name": "Amt für Gesundheit, Veterinär- und Lebensmittelangelegenheiten",
+    "landkreis": "Münster, Stadt",
+    "landkreis_ags": "05515",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Münster",
+    "adresse": {
+      "strasse": "Stühmer Weg 8",
+      "plz": "48147",
+      "ort": "Münster"
+    },
+    "telefon": "0251 492-5301",
+    "email": "gesundheitsamt@stadt-muenster.de"
+  },
+  {
+    "id": "ga-1-05-5-54",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Borken",
+    "landkreis_ags": "05554",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Münster",
+    "adresse": {
+      "strasse": "Burloer Str. 93",
+      "plz": "46325",
+      "ort": "Borken"
+    },
+    "telefon": "+49 2861 681 5809",
+    "email": "infektionsschutz@kreis-borken.de"
+  },
+  {
+    "id": "ga-1-05-5-58",
+    "name": "Gesundheitsamt",
+    "landkreis": "Coesfeld",
+    "landkreis_ags": "05558",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Münster",
+    "adresse": {
+      "strasse": "Schützenwall 16",
+      "plz": "48653",
+      "ort": "Coesfeld"
+    },
+    "telefon": "02541 18-5300",
+    "email": "gesundheit@kreis-coesfeld.de"
+  },
+  {
+    "id": "ga-1-05-5-62",
+    "name": "Fachdienst 53 Gesundheit",
+    "landkreis": "Recklinghausen",
+    "landkreis_ags": "05562",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Emscher-Lippe",
+    "adresse": {
+      "strasse": "Kurt-Schumacher-Allee 1",
+      "plz": "45657",
+      "ort": "Recklinghausen"
+    },
+    "telefon": "02361 53-1",
+    "email": "infektionsschutz@kreis-re.de"
+  },
+  {
+    "id": "ga-1-05-5-66",
+    "name": "Gesundheitsamt",
+    "landkreis": "Steinfurt",
+    "landkreis_ags": "05566",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Münster",
+    "adresse": {
+      "strasse": "Tecklenburger Str. 10",
+      "plz": "48565",
+      "ort": "Steinfurt"
+    },
+    "telefon": "02551 692820",
+    "email": "gesundheitsamt@kreis-Steinfurt.de"
+  },
+  {
+    "id": "ga-1-05-5-70",
+    "name": "Gesundheitsamt",
+    "landkreis": "Warendorf",
+    "landkreis_ags": "05570",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Münster",
+    "adresse": {
+      "strasse": "Waldenburger Str. 2",
+      "plz": "48231",
+      "ort": "Warendorf"
+    },
+    "telefon": "+49 2581 535300",
+    "email": "gesundheitsaufsicht@kreis-warendorf.de"
+  },
+  {
+    "id": "ga-1-05-7-11",
+    "name": "Gesundheits-, Veterinär- u. Lebensmittelüberwachungsamt",
+    "landkreis": "Bielefeld, Stadt",
+    "landkreis_ags": "05711",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bielefeld",
+    "adresse": {
+      "strasse": "Nikolaus-Dürkopp-Str. 5-9",
+      "plz": "33602",
+      "ort": "Bielefeld"
+    },
+    "telefon": "0521-516008",
+    "email": "gesundheitsamt@bielefeld.de"
+  },
+  {
+    "id": "ga-1-05-7-54",
+    "name": "Abteilung Gesundheit",
+    "landkreis": "Gütersloh",
+    "landkreis_ags": "05754",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bielefeld",
+    "adresse": {
+      "strasse": "Herzebrockerstr. 140",
+      "plz": "33334",
+      "ort": "Gütersloh"
+    },
+    "telefon": "+49 5241 85 0",
+    "email": "infektionshygiene@kreis-guetersloh.de"
+  },
+  {
+    "id": "ga-1-05-7-58",
+    "name": "53.3 Abt. Gesundheit",
+    "landkreis": "Herford",
+    "landkreis_ags": "05758",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bielefeld",
+    "adresse": {
+      "strasse": "Amtshausstr. 2",
+      "plz": "32051",
+      "ort": "Herford"
+    },
+    "telefon": "05221 13-0",
+    "email": "infektionsschutz@kreis-herford.de"
+  },
+  {
+    "id": "ga-1-05-7-62",
+    "name": "Gesundheits- und Veterinärwesen",
+    "landkreis": "Höxter",
+    "landkreis_ags": "05762",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Paderborn",
+    "adresse": {
+      "strasse": "Moltkestr. 12",
+      "plz": "37671",
+      "ort": "Höxter"
+    },
+    "telefon": "05271 965-2222",
+    "email": "gesundheitsschutz@kreis-hoexter.de"
+  },
+  {
+    "id": "ga-1-05-7-66",
+    "name": "FB 530 Gesundheit",
+    "landkreis": "Lippe",
+    "landkreis_ags": "05766",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bielefeld",
+    "adresse": {
+      "strasse": "Rintelner Straße 83",
+      "plz": "32657",
+      "ort": "Lemgo"
+    },
+    "telefon": "05231 62-1750",
+    "email": "gesundheitsschutz@kreis-lippe.de"
+  },
+  {
+    "id": "ga-1-05-7-70",
+    "name": "Gesundheitsamt",
+    "landkreis": "Minden-Lübbecke",
+    "landkreis_ags": "05770",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bielefeld",
+    "adresse": {
+      "strasse": "Portastr. 13",
+      "plz": "32423",
+      "ort": "Minden"
+    },
+    "telefon": "0571 807-0",
+    "email": "gesundheitsamt@minden-luebbecke.de"
+  },
+  {
+    "id": "ga-1-05-7-74",
+    "name": "Gesundheitsamt",
+    "landkreis": "Paderborn",
+    "landkreis_ags": "05774",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Paderborn",
+    "adresse": {
+      "strasse": "Aldegreverstr. 10-14",
+      "plz": "33102",
+      "ort": "Paderborn"
+    },
+    "telefon": "+49 5251 308-5332",
+    "email": "FB53@kreis-paderborn.de"
+  },
+  {
+    "id": "ga-1-05-9-11",
+    "name": "Gesundheitsamt",
+    "landkreis": "Bochum, Stadt",
+    "landkreis_ags": "05911",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bochum/Hagen",
+    "adresse": {
+      "strasse": "Westring 28-30",
+      "plz": "44777",
+      "ort": "Bochum"
+    },
+    "telefon": null,
+    "email": "gesundheitsamt@bochum.de"
+  },
+  {
+    "id": "ga-1-05-9-13",
+    "name": "Gesundheitsamt",
+    "landkreis": "Dortmund, Stadt",
+    "landkreis_ags": "05913",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Dortmund",
+    "adresse": {
+      "strasse": "Hoher Wall 9-11",
+      "plz": "44137",
+      "ort": "Dortmund"
+    },
+    "telefon": "+49 231 50-25494",
+    "email": "Infektionsschutz@stadtdo.de"
+  },
+  {
+    "id": "ga-1-05-9-14",
+    "name": "Gesundheitsamt Rathaus II",
+    "landkreis": "Hagen, Stadt der FernUniversität",
+    "landkreis_ags": "05914",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bochum/Hagen",
+    "adresse": {
+      "strasse": "Berliner Platz 22",
+      "plz": "58089",
+      "ort": "Hagen"
+    },
+    "telefon": "02331 207-3555",
+    "email": "gesundheitsamt@stadt-hagen.de"
+  },
+  {
+    "id": "ga-1-05-9-15",
+    "name": "Gesundheitsamt",
+    "landkreis": "Hamm, Stadt",
+    "landkreis_ags": "05915",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Dortmund",
+    "adresse": {
+      "strasse": "Heinrich-Reinköster-Str. 8",
+      "plz": "59065",
+      "ort": "Hamm"
+    },
+    "telefon": "+49 2381 17-6401",
+    "email": "gesundheitsamt@stadt.hamm.de"
+  },
+  {
+    "id": "ga-1-05-9-16",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Herne, Stadt",
+    "landkreis_ags": "05916",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bochum/Hagen",
+    "adresse": {
+      "strasse": "Rathausstr. 6",
+      "plz": "44649",
+      "ort": "Herne"
+    },
+    "telefon": "+49 2323 161653",
+    "email": "gesundheitsaufsicht@herne.de"
+  },
+  {
+    "id": "ga-1-05-9-54",
+    "name": "Fachbereich Soziales und Gesundheit",
+    "landkreis": "Ennepe-Ruhr-Kreis",
+    "landkreis_ags": "05954",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bochum/Hagen",
+    "adresse": {
+      "strasse": "Hauptstr. 92",
+      "plz": "58332",
+      "ort": "Schwelm"
+    },
+    "telefon": "+49 2336 93 2928",
+    "email": "infektionsschutz@en-kreis.de"
+  },
+  {
+    "id": "ga-1-05-9-58",
+    "name": "Gesundheitsamt Fachdienst 37",
+    "landkreis": "Hochsauerlandkreis",
+    "landkreis_ags": "05958",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Arnsberg",
+    "adresse": {
+      "strasse": "Steinstr. 27",
+      "plz": "59872",
+      "ort": "Meschede"
+    },
+    "telefon": "0291 94-2201",
+    "email": "infektionsschutz@hochsauerlandkreis.de"
+  },
+  {
+    "id": "ga-1-05-9-62",
+    "name": "Gesundheitsamt",
+    "landkreis": "Märkischer Kreis",
+    "landkreis_ags": "05962",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Bochum/Hagen",
+    "adresse": {
+      "strasse": "Heedfelder Str. 45",
+      "plz": "58509",
+      "ort": "Lüdenscheid"
+    },
+    "telefon": null,
+    "email": "gesundheitstelefon@maerkischer-kreis.de"
+  },
+  {
+    "id": "ga-1-05-9-66",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Olpe",
+    "landkreis_ags": "05966",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Siegen",
+    "adresse": {
+      "strasse": "Westfälische Str. 75",
+      "plz": "57462",
+      "ort": "Olpe"
+    },
+    "telefon": "02761 81-268",
+    "email": "gesundheitsamt-meldungen@kreis-olpe.de"
+  },
+  {
+    "id": "ga-1-05-9-70",
+    "name": "Gesundheitsamt",
+    "landkreis": "Siegen-Wittgenstein",
+    "landkreis_ags": "05970",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Siegen",
+    "adresse": {
+      "strasse": "St.-Johann-Str. 23",
+      "plz": "57074",
+      "ort": "Siegen"
+    },
+    "telefon": "0271 333-2800",
+    "email": "infektionsschutz@siegen-wittgenstein.de"
+  },
+  {
+    "id": "ga-1-05-9-74",
+    "name": "Gesundheit, Verbraucherschutz und Gefahrenabwehr",
+    "landkreis": "Soest",
+    "landkreis_ags": "05974",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Arnsberg",
+    "adresse": {
+      "strasse": "Hoher Weg 1- 3",
+      "plz": "59494",
+      "ort": "Soest"
+    },
+    "telefon": "+49 2921  30 30 60",
+    "email": "infektionsschutz@kreis-soest.de"
+  },
+  {
+    "id": "ga-1-05-9-78",
+    "name": "Gesundheitsamt Unna",
+    "landkreis": "Unna",
+    "landkreis_ags": "05978",
+    "bundesland": "Nordrhein-Westfalen",
+    "bundesland_kuerzel": "NRW",
+    "raumordnungsregion": "Dortmund",
+    "adresse": {
+      "strasse": "Platanenallee 16",
+      "plz": "59425",
+      "ort": "Unna"
+    },
+    "telefon": "+49 2303 27 8765320",
+    "email": "gesundheitsschutz@kreis-unna.de"
+  },
+  {
+    "id": "ga-1-06-4-12",
+    "name": "Gesundheitsamt",
+    "landkreis": "Frankfurt (Oder), Stadt",
+    "landkreis_ags": "12053",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Oderland-Spree",
+    "adresse": {
+      "strasse": "Breite Gasse 28",
+      "plz": "60313",
+      "ort": "Frankfurt am Main"
+    },
+    "telefon": "+49 69 212 33970",
+    "email": "info.gesundheitsamt@stadt-frankfurt.de"
+  },
+  {
+    "id": "ga-1-06-4-12-09",
+    "name": "Gesundheitsamt / TB-Stelle",
+    "landkreis": "Frankfurt (Oder), Stadt",
+    "landkreis_ags": "12053",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Oderland-Spree",
+    "adresse": {
+      "strasse": "Breite Gasse 28",
+      "plz": "60313",
+      "ort": "Frankfurt am Main"
+    },
+    "telefon": "+49 69 212 33970",
+    "email": "info.gesundheitsamt@stadt-frankfurt.de"
+  },
+  {
+    "id": "ga-1-06-4-13",
+    "name": "Gesundheitsamt",
+    "landkreis": "Offenbach am Main, Stadt",
+    "landkreis_ags": "06413",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Rhein-Main",
+    "adresse": {
+      "strasse": "Platz der Deutschen Einheit 4",
+      "plz": "63065",
+      "ort": "Offenbach"
+    },
+    "telefon": "069 8065-3808",
+    "email": "gesundheitsamt@offenbach.de"
+  },
+  {
+    "id": "ga-1-06-4-14",
+    "name": "Gesundheitsamt",
+    "landkreis": "Wiesbaden, Landeshauptstadt",
+    "landkreis_ags": "06414",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Rhein-Main",
+    "adresse": {
+      "strasse": "Konradinerallee 11",
+      "plz": "65189",
+      "ort": "Wiesbaden"
+    },
+    "telefon": "0611 31-2817",
+    "email": "gesundheitsamt@wiesbaden.de"
+  },
+  {
+    "id": "ga-1-06-4-31",
+    "name": "Gesundheitsamt",
+    "landkreis": "Bergstraße",
+    "landkreis_ags": "06431",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Starkenburg",
+    "adresse": {
+      "strasse": "Kettelerstraße 29",
+      "plz": "64646",
+      "ort": "Heppenheim"
+    },
+    "telefon": "+49 6252 15-5396",
+    "email": "gesundheit@kreis-bergstrasse.de"
+  },
+  {
+    "id": "ga-1-06-4-32",
+    "name": "Verwaltungsverband für das Gesundheitsamt für die Stadt Darmstadt und den Landkreis Darmstadt-Dieburg",
+    "landkreis": "Darmstadt-Dieburg",
+    "landkreis_ags": "06432",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Starkenburg",
+    "adresse": {
+      "strasse": "Niersteiner Str. 3",
+      "plz": "64295",
+      "ort": "Darmstadt"
+    },
+    "telefon": "06151 3309-0",
+    "email": "verwaltungsverband@gesundheitsamt-dadi.de"
+  },
+  {
+    "id": "ga-1-06-4-33",
+    "name": "Kreis Groß-Gerau — Der Kreisausschuß",
+    "landkreis": "Groß-Gerau",
+    "landkreis_ags": "06433",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Starkenburg",
+    "adresse": {
+      "strasse": "Wilhelm-Seipp-Str. 9",
+      "plz": "64521",
+      "ort": "Groß-Gerau"
+    },
+    "telefon": "06152 989-0",
+    "email": "gesundheitsamt@kreisgg.de"
+  },
+  {
+    "id": "ga-1-06-4-34",
+    "name": "Fachbereich Gesundheitsdienste",
+    "landkreis": "Hochtaunuskreis",
+    "landkreis_ags": "06434",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Rhein-Main",
+    "adresse": {
+      "strasse": "Ludwig-Erhard-Anlage 1-4",
+      "plz": "61348",
+      "ort": "Bad Homburg"
+    },
+    "telefon": "06172 999 0",
+    "email": "gesundheitsamt@hochtaunuskreis.de"
+  },
+  {
+    "id": "ga-1-06-4-35",
+    "name": "Amt für Gesundheit und Gefahrenabwehr",
+    "landkreis": "Main-Kinzig-Kreis",
+    "landkreis_ags": "06435",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Rhein-Main",
+    "adresse": {
+      "strasse": "Barbarossastrasse  24",
+      "plz": "63571",
+      "ort": "Gelnhausen"
+    },
+    "telefon": "06051 851-1650",
+    "email": "hyg.gesundheitsamt@mkk.de"
+  },
+  {
+    "id": "ga-1-06-4-36",
+    "name": "Gesundheitsamt",
+    "landkreis": "Main-Taunus-Kreis",
+    "landkreis_ags": "06436",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Rhein-Main",
+    "adresse": {
+      "strasse": "Am Kreishaus 1-5",
+      "plz": "65719",
+      "ort": "Hofheim"
+    },
+    "telefon": "06192 201-1130",
+    "email": "gesundheitsamt@mtk.org"
+  },
+  {
+    "id": "ga-1-06-4-37",
+    "name": "Gesundheitsamt",
+    "landkreis": "Odenwaldkreis",
+    "landkreis_ags": "06437",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Starkenburg",
+    "adresse": {
+      "strasse": "Albert-Schweitzer-Starße 8",
+      "plz": "64711",
+      "ort": "Erbach"
+    },
+    "telefon": "06062 6014-2940",
+    "email": "infektionsschutz@odenwaldkreis.de"
+  },
+  {
+    "id": "ga-1-06-4-38",
+    "name": "FD Gefahrenabwehr- und Gesundheitszentrum",
+    "landkreis": "Offenbach",
+    "landkreis_ags": "06438",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Rhein-Main",
+    "adresse": {
+      "strasse": "Gottlieb-Daimler Str. 10",
+      "plz": "63128",
+      "ort": "Dietzenbach"
+    },
+    "telefon": "06074 8180-63707",
+    "email": "gesundheit@kreis-offenbach.de"
+  },
+  {
+    "id": "ga-1-06-4-39",
+    "name": "Gesundheitsamt",
+    "landkreis": "Rheingau-Taunus-Kreis",
+    "landkreis_ags": "06439",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Rhein-Main",
+    "adresse": {
+      "strasse": "Heimbacher Str. 7",
+      "plz": "65307",
+      "ort": "Bad Schwalbach"
+    },
+    "telefon": "06124 510-352",
+    "email": "infektionsschutz@rheingau-taunus.de"
+  },
+  {
+    "id": "ga-1-06-4-40",
+    "name": "Fachdienstes Gesundheit und Gefahrenabwehr",
+    "landkreis": "Wetteraukreis",
+    "landkreis_ags": "06440",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Rhein-Main",
+    "adresse": {
+      "strasse": "Europaplatz 1 Gebäude B",
+      "plz": "61169",
+      "ort": "Friedberg"
+    },
+    "telefon": "06031 83-2300",
+    "email": "gesundheitsamt@wetteraukreis.de"
+  },
+  {
+    "id": "ga-1-06-5-31",
+    "name": "Landkreis Gießen — der Kreisausschuss",
+    "landkreis": "Gießen",
+    "landkreis_ags": "06531",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Mittelhessen",
+    "adresse": {
+      "strasse": "Riversplatz 1-9/ Haus D",
+      "plz": "35394",
+      "ort": "Gießen"
+    },
+    "telefon": "0641 9390-1401",
+    "email": "hygiene@lkgi.de"
+  },
+  {
+    "id": "ga-1-06-5-32",
+    "name": "Gesundheitsamt",
+    "landkreis": "Lahn-Dill-Kreis",
+    "landkreis_ags": "06532",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Mittelhessen",
+    "adresse": {
+      "strasse": "Schloßstraße 20",
+      "plz": "35745",
+      "ort": "Herborn"
+    },
+    "telefon": "06441 407-1616",
+    "email": "gesundheitsamt@lahn-dill-kreis.de"
+  },
+  {
+    "id": "ga-1-06-5-33",
+    "name": "Gesundheitsamt Dienststelle Limburg",
+    "landkreis": "Limburg-Weilburg",
+    "landkreis_ags": "06533",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Mittelhessen",
+    "adresse": {
+      "strasse": "Schiede 43",
+      "plz": "65549",
+      "ort": "Limburg/ Lahn"
+    },
+    "telefon": "06431 296-613",
+    "email": "60.30@limburg-weilburg.de"
+  },
+  {
+    "id": "ga-1-06-5-34",
+    "name": "Fachbereich Gesundheitsamt",
+    "landkreis": "Marburg-Biedenkopf",
+    "landkreis_ags": "06534",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Mittelhessen",
+    "adresse": {
+      "strasse": "Schwanallee 23",
+      "plz": "35037",
+      "ort": "Marburg"
+    },
+    "telefon": "06421 405-40",
+    "email": "Infektionsschutz@marburg-biedenkopf.de"
+  },
+  {
+    "id": "ga-1-06-5-35",
+    "name": "Gesundheitsamt",
+    "landkreis": "Vogelsbergkreis",
+    "landkreis_ags": "06535",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Mittelhessen",
+    "adresse": {
+      "strasse": "Gartenstraße 27 - 29",
+      "plz": "36341",
+      "ort": "Lauterbach"
+    },
+    "telefon": "06641 977-170",
+    "email": "gesundheitsamt@vogelsbergkreis.de"
+  },
+  {
+    "id": "ga-1-06-6-11",
+    "name": "Gesundheitsamt Region Kassel",
+    "landkreis": "Kassel, documenta-Stadt",
+    "landkreis_ags": "06611",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Nordhessen",
+    "adresse": {
+      "strasse": "Wilhelmshöher Allee 19-21",
+      "plz": "34117",
+      "ort": "Kassel"
+    },
+    "telefon": "0561 787 1900",
+    "email": "gesundheitsamt@kassel.de"
+  },
+  {
+    "id": "ga-1-06-6-31",
+    "name": "Gesundheitsamt",
+    "landkreis": "Fulda",
+    "landkreis_ags": "06631",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Osthessen",
+    "adresse": {
+      "strasse": "Otfrid-von-Weißenburg-Str. 3",
+      "plz": "36043",
+      "ort": "Fulda"
+    },
+    "telefon": "0661 6006-6076",
+    "email": "infektionsschutz@landkreis-fulda.de"
+  },
+  {
+    "id": "ga-1-06-6-32",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Hersfeld-Rotenburg",
+    "landkreis_ags": "06632",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Osthessen",
+    "adresse": {
+      "strasse": "Friedloser Str. 12",
+      "plz": "36251",
+      "ort": "Bad Hersfeld"
+    },
+    "telefon": "06621 87-2400",
+    "email": "gesundheitsamt@hef-rof.de"
+  },
+  {
+    "id": "ga-1-06-6-34",
+    "name": "Fachbereich 53 - Gesundheit",
+    "landkreis": "Schwalm-Eder-Kreis",
+    "landkreis_ags": "06634",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Nordhessen",
+    "adresse": {
+      "strasse": "Hans-Scholl-Straße 1 Geb.5",
+      "plz": "34576",
+      "ort": "Homberg (Efze)"
+    },
+    "telefon": "05681 775-5302",
+    "email": "gesundheitswesen@schwalm-eder-kreis.de"
+  },
+  {
+    "id": "ga-1-06-6-35",
+    "name": "Fachdienst 5.1 Gesundheit",
+    "landkreis": "Waldeck-Frankenberg",
+    "landkreis_ags": "06635",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Nordhessen",
+    "adresse": {
+      "strasse": "Südring 2",
+      "plz": "34497",
+      "ort": "Korbach"
+    },
+    "telefon": "05631 954-1462",
+    "email": "amtsarzt@lkwafkb.de"
+  },
+  {
+    "id": "ga-1-06-6-36",
+    "name": "Fachbereich Gesundheit, Verbraucherschutz und Veterinärwesen",
+    "landkreis": "Werra-Meißner-Kreis",
+    "landkreis_ags": "06636",
+    "bundesland": "Hessen",
+    "bundesland_kuerzel": "HE",
+    "raumordnungsregion": "Nordhessen",
+    "adresse": {
+      "strasse": "Luisenstr. 23c",
+      "plz": "37269",
+      "ort": "Eschwege"
+    },
+    "telefon": "05651 302-25200",
+    "email": "gesundheitswesen@werra-meissner-kreis.de"
+  },
+  {
+    "id": "ga-1-07-0-53",
+    "name": "Abt. 7 Gesundheitswesen",
+    "landkreis": "Rhein-Lahn-Kreis",
+    "landkreis_ags": "07141",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Mittelrhein-Westerwald",
+    "adresse": {
+      "strasse": "Insel Silberau 1",
+      "plz": "56130",
+      "ort": "Bad Ems"
+    },
+    "telefon": "02603 972-0",
+    "email": "referat72@rhein-lahn.rlp.de"
+  },
+  {
+    "id": "ga-1-07-0-54",
+    "name": "Amt 7: Gesundheitsamt",
+    "landkreis": "Bad Kreuznach",
+    "landkreis_ags": "07133",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Rheinhessen-Nahe",
+    "adresse": {
+      "strasse": "Ringstr. 4",
+      "plz": "55543",
+      "ort": "Bad Kreuznach"
+    },
+    "telefon": "0671 803-1709",
+    "email": "gesundheitsamt@kreis-badkreuznach.de"
+  },
+  {
+    "id": "ga-1-07-0-56",
+    "name": "Abt. 2.6 - Gesundheitsamt",
+    "landkreis": "Ahrweiler",
+    "landkreis_ags": "07131",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Mittelrhein-Westerwald",
+    "adresse": {
+      "strasse": "Wilhelmstr. 59",
+      "plz": "53474",
+      "ort": "Bad Neuenahr - Ahrweiler"
+    },
+    "telefon": "02641 975-610",
+    "email": "infektionsschutz@kreis-ahrweiler.de"
+  },
+  {
+    "id": "ga-1-07-0-58",
+    "name": "Amt 14 Gesundheitswesen",
+    "landkreis": "Eifelkreis Bitburg-Prüm",
+    "landkreis_ags": "07232",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Trier",
+    "adresse": {
+      "strasse": "Triererstr. 1",
+      "plz": "54634",
+      "ort": "Bitburg"
+    },
+    "telefon": "06561 15-4630",
+    "email": "gesundheitsamt@bitburg-pruem.de"
+  },
+  {
+    "id": "ga-1-07-0-59",
+    "name": "Abt. Gesundheitsamt",
+    "landkreis": "Cochem-Zell",
+    "landkreis_ags": "07135",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Mittelrhein-Westerwald",
+    "adresse": {
+      "strasse": "Endertplatz 2-3",
+      "plz": "56812",
+      "ort": "Cochem"
+    },
+    "telefon": "02671 61-374",
+    "email": "gesundheitsamt@cochem-zell.de"
+  },
+  {
+    "id": "ga-1-07-0-60",
+    "name": "Gesundheitsamt",
+    "landkreis": "Vulkaneifel",
+    "landkreis_ags": "07233",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Trier",
+    "adresse": {
+      "strasse": "Berliner Str. 2",
+      "plz": "54550",
+      "ort": "Daun"
+    },
+    "telefon": "06592 933-407",
+    "email": "gesundheitsamt@vulkaneifel.de"
+  },
+  {
+    "id": "ga-1-07-0-63",
+    "name": "FB 43 Gesundheit, Verbraucherschutz",
+    "landkreis": "Germersheim",
+    "landkreis_ags": "07334",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Rheinpfalz",
+    "adresse": {
+      "strasse": "Hauptstr. 25",
+      "plz": "76726",
+      "ort": "Germersheim"
+    },
+    "telefon": null,
+    "email": "gesundheitsamt@kreis-germersheim.de"
+  },
+  {
+    "id": "ga-1-07-0-64",
+    "name": "Gesundheitsamt - Abt. 5",
+    "landkreis": "Birkenfeld",
+    "landkreis_ags": "07134",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Rheinhessen-Nahe",
+    "adresse": {
+      "strasse": "Mainzer Str. 157-159",
+      "plz": "55743",
+      "ort": "Idar - Oberstein"
+    },
+    "telefon": "06781 2008-0",
+    "email": "infektionsschutz@landkreis-birkenfeld.de"
+  },
+  {
+    "id": "ga-1-07-0-65",
+    "name": "Gesundheitsamt",
+    "landkreis": "Kaiserslautern",
+    "landkreis_ags": "07335",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Westpfalz",
+    "adresse": {
+      "strasse": "Pfaffstr. 40-42",
+      "plz": "67655",
+      "ort": "Kaiserslautern"
+    },
+    "telefon": "0631 7105-520",
+    "email": "kontaktga@kaiserslautern-kreis.de"
+  },
+  {
+    "id": "ga-1-07-0-66",
+    "name": "Abt 2 - Referat Gesundheitsamt",
+    "landkreis": "Donnersbergkreis",
+    "landkreis_ags": "07333",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Westpfalz",
+    "adresse": {
+      "strasse": "Uhlandstr. 2",
+      "plz": "67292",
+      "ort": "Kirchheimbolanden"
+    },
+    "telefon": "+49 6352 710-500",
+    "email": "gesundheitsamt@donnersberg.de"
+  },
+  {
+    "id": "ga-1-07-0-67",
+    "name": "Abt. Gesundheitsamt",
+    "landkreis": "Koblenz, kreisfreie Stadt",
+    "landkreis_ags": "07111",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Mittelrhein-Westerwald",
+    "adresse": {
+      "strasse": "Mainzer Straße 60a",
+      "plz": "56068",
+      "ort": "Koblenz"
+    },
+    "telefon": "0261 914807-0",
+    "email": "gesundheitsamt@kvmyk.de"
+  },
+  {
+    "id": "ga-1-07-0-68",
+    "name": "Gesundheitsamt",
+    "landkreis": "Kusel",
+    "landkreis_ags": "07336",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Westpfalz",
+    "adresse": {
+      "strasse": "Trierer Str. 49-51",
+      "plz": "66869",
+      "ort": "Kusel"
+    },
+    "telefon": "06381 424-0",
+    "email": "gesundheitsamt@kv-kus.de"
+  },
+  {
+    "id": "ga-1-07-0-69",
+    "name": "Abteilung Gesundheit",
+    "landkreis": "Südliche Weinstraße",
+    "landkreis_ags": "07337",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Rheinpfalz",
+    "adresse": {
+      "strasse": "Klaus-von-Klitzing-Straße 2",
+      "plz": "76829",
+      "ort": "Landau"
+    },
+    "telefon": "06341 940-606",
+    "email": "gesundheitsamt@suedliche-weinstrasse.de"
+  },
+  {
+    "id": "ga-1-07-0-70",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ludwigshafen am Rhein, kreisfreie Stadt",
+    "landkreis_ags": "07314",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Rheinpfalz",
+    "adresse": {
+      "strasse": "Dörrhorststr. 36",
+      "plz": "67059",
+      "ort": "Ludwigshafen"
+    },
+    "telefon": "0621 5909-0",
+    "email": "hyg-infektionsschutz@rheinpfalzkreis.de"
+  },
+  {
+    "id": "ga-1-07-0-71",
+    "name": "Abteilung Gesundheitswesen",
+    "landkreis": "Mainz-Bingen",
+    "landkreis_ags": "07339",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Rheinhessen-Nahe",
+    "adresse": {
+      "strasse": "Isaac-Fulda-Allee 2 d",
+      "plz": "55124",
+      "ort": "Mainz"
+    },
+    "telefon": "06131 69333-0",
+    "email": "abt42@mainz-bingen.de"
+  },
+  {
+    "id": "ga-1-07-0-73",
+    "name": "Gesundheitsamt",
+    "landkreis": "Westerwaldkreis",
+    "landkreis_ags": "07143",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Mittelrhein-Westerwald",
+    "adresse": {
+      "strasse": "Peter-Altmeier-Platz 1",
+      "plz": "56410",
+      "ort": "Montabaur"
+    },
+    "telefon": "02602 124-710",
+    "email": "Gesundheitsamt@westerwaldkreis.de"
+  },
+  {
+    "id": "ga-1-07-0-74",
+    "name": "Abteilung 7: Gesundheitsamt",
+    "landkreis": "Neustadt an der Weinstraße, kreisfreie Stadt",
+    "landkreis_ags": "07316",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Rheinpfalz",
+    "adresse": {
+      "strasse": "Neumayerstr. 10",
+      "plz": "67433",
+      "ort": "Neustadt an der Weinstraße"
+    },
+    "telefon": "06322 961-7302",
+    "email": "Gesundheitsamt@kreis-bad-duerkheim.de"
+  },
+  {
+    "id": "ga-1-07-0-75",
+    "name": "Abt. 11 Gesundheitsamt",
+    "landkreis": "Neuwied",
+    "landkreis_ags": "07138",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Mittelrhein-Westerwald",
+    "adresse": {
+      "strasse": "Ringstr. 70",
+      "plz": "56564",
+      "ort": "Neuwied"
+    },
+    "telefon": "02631 803-723",
+    "email": "IfSG.Meldungen@kreis-neuwied.de"
+  },
+  {
+    "id": "ga-1-07-0-76",
+    "name": "Abt. Gesundheitswesen",
+    "landkreis": "Pirmasens, kreisfreie Stadt",
+    "landkreis_ags": "07317",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Westpfalz",
+    "adresse": {
+      "strasse": "Unterer Sommerwaldweg 40-42",
+      "plz": "66953",
+      "ort": "Pirmasens"
+    },
+    "telefon": "06331 809-402",
+    "email": "gesundheitswesen@lksuedwestpfalz.de"
+  },
+  {
+    "id": "ga-1-07-0-80",
+    "name": "Fachbereich Gesundheitsamt",
+    "landkreis": "Rhein-Hunsrück-Kreis",
+    "landkreis_ags": "07140",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Mittelrhein-Westerwald",
+    "adresse": {
+      "strasse": "Hüllstr. 13",
+      "plz": "55469",
+      "ort": "Simmern"
+    },
+    "telefon": "06761 82-701",
+    "email": "gesundheitsamt@rheinhunsrueck.de"
+  },
+  {
+    "id": "ga-1-07-0-82",
+    "name": "Abt. Gesundheitsamt",
+    "landkreis": "Trier-Saarburg",
+    "landkreis_ags": "07235",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Trier",
+    "adresse": {
+      "strasse": "Paulinstr. 60",
+      "plz": "54292",
+      "ort": "Trier"
+    },
+    "telefon": "0651 715-500",
+    "email": "gesundheitsamt@trier-saarburg.de"
+  },
+  {
+    "id": "ga-1-07-0-83",
+    "name": "FB33 Gesundheit",
+    "landkreis": "Bernkastel-Wittlich",
+    "landkreis_ags": "07231",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Trier",
+    "adresse": {
+      "strasse": "Kurfürstenstr. 67",
+      "plz": "54516",
+      "ort": "Wittlich"
+    },
+    "telefon": "06571 14-0",
+    "email": "gesundheitsamt@Bernkastel-Wittlich.de"
+  },
+  {
+    "id": "ga-1-07-0-84",
+    "name": "Abt 8 - Referat Gesundheitsamt",
+    "landkreis": "Alzey-Worms",
+    "landkreis_ags": "07331",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Rheinhessen-Nahe",
+    "adresse": {
+      "strasse": "Ernst-Ludwig-Straße 36",
+      "plz": "55232",
+      "ort": "Alzey"
+    },
+    "telefon": "06731 408-7038",
+    "email": "gesundheitsamt@alzey-worms.de"
+  },
+  {
+    "id": "ga-1-07-1-32",
+    "name": "Gesundheitsamt",
+    "landkreis": "Altenkirchen (Westerwald)",
+    "landkreis_ags": "07132",
+    "bundesland": "Rheinland-Pfalz",
+    "bundesland_kuerzel": "RP",
+    "raumordnungsregion": "Mittelrhein-Westerwald",
+    "adresse": {
+      "strasse": "In der Malzdürre 7",
+      "plz": "57610",
+      "ort": "Altenkirchen"
+    },
+    "telefon": "02681 8127-40",
+    "email": "gesundheitsamt@kreis-ak.de"
+  },
+  {
+    "id": "ga-1-08-1-11",
+    "name": "Gesundheitsamt",
+    "landkreis": "Stuttgart, Stadtkreis",
+    "landkreis_ags": "08111",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Stuttgart",
+    "adresse": {
+      "strasse": "Schloßstraße 91",
+      "plz": "70176",
+      "ort": "Stuttgart"
+    },
+    "telefon": "+49 711 216-59309",
+    "email": "gesundheitsamt@stuttgart.de"
+  },
+  {
+    "id": "ga-1-08-1-15",
+    "name": "Gesundheitsamt",
+    "landkreis": "Böblingen",
+    "landkreis_ags": "08115",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Stuttgart",
+    "adresse": {
+      "strasse": "Dornierstr. 3",
+      "plz": "71034",
+      "ort": "Böblingen"
+    },
+    "telefon": "07031 663-1740",
+    "email": "gesundheitsamt@lrabb.de"
+  },
+  {
+    "id": "ga-1-08-1-16",
+    "name": "Gesundheitsamt",
+    "landkreis": "Esslingen",
+    "landkreis_ags": "08116",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Stuttgart",
+    "adresse": {
+      "strasse": "Am Aussichtsturm 5",
+      "plz": "73207",
+      "ort": "Plochingen"
+    },
+    "telefon": "0711 3902 41600",
+    "email": "gesundheitsamt@lra-es.de"
+  },
+  {
+    "id": "ga-1-08-1-17",
+    "name": "Gesundheitsamt",
+    "landkreis": "Göppingen",
+    "landkreis_ags": "08117",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Stuttgart",
+    "adresse": {
+      "strasse": "Wilhelm-Busch-Weg 1",
+      "plz": "73033",
+      "ort": "Göppingen"
+    },
+    "telefon": "+49 7161 202-5370",
+    "email": "gesundheitsamt@lkgp.de"
+  },
+  {
+    "id": "ga-1-08-1-18",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ludwigsburg",
+    "landkreis_ags": "08118",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Stuttgart",
+    "adresse": {
+      "strasse": "Hindenburgstr. 20/1",
+      "plz": "71638",
+      "ort": "Ludwigsburg"
+    },
+    "telefon": "+49 7141 144-2020",
+    "email": "Gesundheitsschutz@landkreis-ludwigsburg.de"
+  },
+  {
+    "id": "ga-1-08-1-19",
+    "name": "Gesundheitsamt",
+    "landkreis": "Rems-Murr-Kreis",
+    "landkreis_ags": "08119",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Stuttgart",
+    "adresse": {
+      "strasse": "Rötestraße 17",
+      "plz": "71332",
+      "ort": "Waiblingen"
+    },
+    "telefon": "+49 7151 501-1608",
+    "email": "gesundheit@rems-murr-kreis.de"
+  },
+  {
+    "id": "ga-1-08-1-21",
+    "name": "Städtisches Gesundheitsamt",
+    "landkreis": "Heilbronn",
+    "landkreis_ags": "08125",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Franken",
+    "adresse": {
+      "strasse": "Bahnhofstraße 2",
+      "plz": "74020",
+      "ort": "Heilbronn"
+    },
+    "telefon": "+49 7131 56-3540",
+    "email": "gesundheitsamt@heilbronn.de"
+  },
+  {
+    "id": "ga-1-08-1-25",
+    "name": "Gesundheitsamt",
+    "landkreis": "Heilbronn, Stadtkreis",
+    "landkreis_ags": "08121",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Franken",
+    "adresse": {
+      "strasse": "Lerchenstraße 40",
+      "plz": "74072",
+      "ort": "Heilbronn"
+    },
+    "telefon": "07131 994-330",
+    "email": "Gesundheitsamt@landratsamt-heilbronn.de"
+  },
+  {
+    "id": "ga-1-08-1-26",
+    "name": "Gesundheitsamt",
+    "landkreis": "Hohenlohekreis",
+    "landkreis_ags": "08126",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Franken",
+    "adresse": {
+      "strasse": "Schulstr. 12",
+      "plz": "74653",
+      "ort": "Künzelsau"
+    },
+    "telefon": "07940 18 580",
+    "email": "GA-Meldewesen@Hohenlohekreis.de"
+  },
+  {
+    "id": "ga-1-08-1-27",
+    "name": "Gesundheitsamt",
+    "landkreis": "Schwäbisch Hall",
+    "landkreis_ags": "08127",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Franken",
+    "adresse": {
+      "strasse": "Postfach: 11 04 53",
+      "plz": "74507",
+      "ort": "Schwäbisch Hall"
+    },
+    "telefon": "+49 791 755 6210",
+    "email": "gesundheitsamt@LRASHA.de"
+  },
+  {
+    "id": "ga-1-08-1-28",
+    "name": "Gesundheitsamt",
+    "landkreis": "Main-Tauber-Kreis",
+    "landkreis_ags": "08128",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Franken",
+    "adresse": {
+      "strasse": "Albert-Schweitzer-Str. 31",
+      "plz": "97941",
+      "ort": "Tauberbischofsheim"
+    },
+    "telefon": "09341 82-5579",
+    "email": "gesundheit@main-tauber-kreis.de"
+  },
+  {
+    "id": "ga-1-08-1-35",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Heidenheim",
+    "landkreis_ags": "08135",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Ostwürttemberg",
+    "adresse": {
+      "strasse": "Felsenstraße 36 Haus B",
+      "plz": "89518",
+      "ort": "Heidenheim"
+    },
+    "telefon": "+49 7321 321 2600",
+    "email": "gesundheitsamt@landkreis-heidenheim.de"
+  },
+  {
+    "id": "ga-1-08-1-36",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ostalbkreis",
+    "landkreis_ags": "08136",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Ostwürttemberg",
+    "adresse": {
+      "strasse": "Julius-Bausch-Str. 12",
+      "plz": "73430",
+      "ort": "Aalen"
+    },
+    "telefon": "07361 503-1120",
+    "email": "gesundheit@ostalbkreis.de"
+  },
+  {
+    "id": "ga-1-08-2-15",
+    "name": "Gesundheitsamt",
+    "landkreis": "Karlsruhe, Stadtkreis",
+    "landkreis_ags": "08212",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Mittlerer Oberrhein",
+    "adresse": {
+      "strasse": "Kriegsstraße 100",
+      "plz": "76133",
+      "ort": "Karlsruhe"
+    },
+    "telefon": "+49 721 936 82140",
+    "email": "Gesundheitsamt@landratsamt-karlsruhe.de"
+  },
+  {
+    "id": "ga-1-08-2-16",
+    "name": "Gesundheitsamt",
+    "landkreis": "Rastatt",
+    "landkreis_ags": "08216",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Mittlerer Oberrhein",
+    "adresse": {
+      "strasse": "Am Schlossplatz 5",
+      "plz": "76437",
+      "ort": "Rastatt"
+    },
+    "telefon": "07222 381-2300",
+    "email": "Amt23@Landkreis-Rastatt.de"
+  },
+  {
+    "id": "ga-1-08-2-22",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Mannheim, Stadtkreis",
+    "landkreis_ags": "08222",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Unterer Neckar",
+    "adresse": {
+      "strasse": "R1 12",
+      "plz": "68161",
+      "ort": "Mannheim"
+    },
+    "telefon": null,
+    "email": "58bereit@mannheim.de"
+  },
+  {
+    "id": "ga-1-08-2-25",
+    "name": "Gesundheitsamt",
+    "landkreis": "Neckar-Odenwald-Kreis",
+    "landkreis_ags": "08225",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Unterer Neckar",
+    "adresse": {
+      "strasse": "Neckarelzer Strasse 7",
+      "plz": "74821",
+      "ort": "Mosbach"
+    },
+    "telefon": "+49 6261 84 2446",
+    "email": "Gesundheitsamt@neckar-odenwald-kreis.de"
+  },
+  {
+    "id": "ga-1-08-2-26",
+    "name": "Gesundheitsamt",
+    "landkreis": "Heidelberg, Stadtkreis",
+    "landkreis_ags": "08221",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Unterer Neckar",
+    "adresse": {
+      "strasse": "Kurfürstenanlage 38-40",
+      "plz": "69115",
+      "ort": "Heidelberg"
+    },
+    "telefon": "+49 6221 522-1817",
+    "email": "infektionsschutz@rhein-neckar-kreis.de"
+  },
+  {
+    "id": "ga-1-08-2-35",
+    "name": "Abt. 42 Gesundheit und Versorgung",
+    "landkreis": "Calw",
+    "landkreis_ags": "08235",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Nordschwarzwald",
+    "adresse": {
+      "strasse": "Vogteistraße 42 - 46",
+      "plz": "75365",
+      "ort": "Calw"
+    },
+    "telefon": "07051 160-931",
+    "email": "13.info@kreis-calw.de"
+  },
+  {
+    "id": "ga-1-08-2-36",
+    "name": "Gesundheitsamt",
+    "landkreis": "Pforzheim, Stadtkreis",
+    "landkreis_ags": "08231",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Nordschwarzwald",
+    "adresse": {
+      "strasse": "Bahnhofstr. 28",
+      "plz": "75172",
+      "ort": "Pforzheim"
+    },
+    "telefon": "+49 7231 308 9732",
+    "email": "gesundheitsamt@enzkreis.de"
+  },
+  {
+    "id": "ga-1-08-2-37",
+    "name": "Gesundheitsamt",
+    "landkreis": "Freudenstadt",
+    "landkreis_ags": "08237",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Nordschwarzwald",
+    "adresse": {
+      "strasse": "Reichsstr. 11",
+      "plz": "72250",
+      "ort": "Freudenstadt"
+    },
+    "telefon": "07441 920-4107",
+    "email": "gafds@kreis-fds.de"
+  },
+  {
+    "id": "ga-1-08-3-15",
+    "name": "Gesundheitsamt",
+    "landkreis": "Freiburg im Breisgau, Stadtkreis",
+    "landkreis_ags": "08311",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Südlicher Oberrhein",
+    "adresse": {
+      "strasse": "Sautierstraße 28 +30",
+      "plz": "79104",
+      "ort": "Freiburg"
+    },
+    "telefon": "+49 761 2187-3212",
+    "email": "gesundheitsschutz@lkbh.de"
+  },
+  {
+    "id": "ga-1-08-3-16",
+    "name": "Gesundheitsamt",
+    "landkreis": "Emmendingen",
+    "landkreis_ags": "08316",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Südlicher Oberrhein",
+    "adresse": {
+      "strasse": "Am Vogelsang 1",
+      "plz": "79312",
+      "ort": "Emmendingen"
+    },
+    "telefon": "07641 451-4300",
+    "email": "hygiene@landkreis-emmendingen.de"
+  },
+  {
+    "id": "ga-1-08-3-17",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ortenaukreis",
+    "landkreis_ags": "08317",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Südlicher Oberrhein",
+    "adresse": {
+      "strasse": "Leutkirchstr. 34b",
+      "plz": "77723",
+      "ort": "Gengenbach"
+    },
+    "telefon": "0781 805-9700",
+    "email": "gesundheitsamt@ortenaukreis.de"
+  },
+  {
+    "id": "ga-1-08-3-25",
+    "name": "Gesundheitsamt",
+    "landkreis": "Rottweil",
+    "landkreis_ags": "08325",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Schwarzwald-Baar-Heuberg",
+    "adresse": {
+      "strasse": "Bismarckstr. 19",
+      "plz": "78628",
+      "ort": "Rottweil"
+    },
+    "telefon": "0741 17445-0",
+    "email": "garw@landkreis-rottweil.de"
+  },
+  {
+    "id": "ga-1-08-3-26",
+    "name": "Gesundheitsamt",
+    "landkreis": "Schwarzwald-Baar-Kreis",
+    "landkreis_ags": "08326",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Schwarzwald-Baar-Heuberg",
+    "adresse": {
+      "strasse": "Herdstraße 4",
+      "plz": "78050",
+      "ort": "Villingen-Schwenningen"
+    },
+    "telefon": "07721 913-7190",
+    "email": "Gesundheitsamt@lrasbk.de"
+  },
+  {
+    "id": "ga-1-08-3-27",
+    "name": "Gesundheitsamt (Amt 42)",
+    "landkreis": "Tuttlingen",
+    "landkreis_ags": "08327",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Schwarzwald-Baar-Heuberg",
+    "adresse": {
+      "strasse": "Luginsfeldweg 15",
+      "plz": "78532",
+      "ort": "Tuttlingen"
+    },
+    "telefon": "07461 926-4204",
+    "email": "gesundheitsamt@landkreis-tuttlingen.de"
+  },
+  {
+    "id": "ga-1-08-3-35",
+    "name": "Amt für Gesundheit und Versorgung",
+    "landkreis": "Konstanz",
+    "landkreis_ags": "08335",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Hochrhein-Bodensee",
+    "adresse": {
+      "strasse": "Scheffelstraße 15",
+      "plz": "78315",
+      "ort": "Radolfzell"
+    },
+    "telefon": "07531 8002610",
+    "email": "gesundheitsschutz.ga@lrakn.de"
+  },
+  {
+    "id": "ga-1-08-3-36",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Lörrach",
+    "landkreis_ags": "08336",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Hochrhein-Bodensee",
+    "adresse": {
+      "strasse": "Palmstr. 3   / Haus 2",
+      "plz": "79539",
+      "ort": "Lörrach"
+    },
+    "telefon": "+49 7621 410-2101",
+    "email": "gesundheit@loerrach-landkreis.de"
+  },
+  {
+    "id": "ga-1-08-3-37",
+    "name": "Gesundheitsamt",
+    "landkreis": "Waldshut",
+    "landkreis_ags": "08337",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Hochrhein-Bodensee",
+    "adresse": {
+      "strasse": "Im Wallgraben 34",
+      "plz": "79761",
+      "ort": "Waldshut-Tiengen"
+    },
+    "telefon": "07751 86-5101",
+    "email": "infektionsschutz@landkreis-waldshut.de"
+  },
+  {
+    "id": "ga-1-08-4-15",
+    "name": "Kreisgesundheitsamt",
+    "landkreis": "Reutlingen",
+    "landkreis_ags": "08415",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Neckar-Alb",
+    "adresse": {
+      "strasse": "St.-Wolfgang-Str. 13",
+      "plz": "72764",
+      "ort": "Reutlingen"
+    },
+    "telefon": "+49 7121 480-4310",
+    "email": "gesundheitsamt@kreis-reutlingen.de"
+  },
+  {
+    "id": "ga-1-08-4-16",
+    "name": "Abteilung 33 Gesundheit",
+    "landkreis": "Tübingen",
+    "landkreis_ags": "08416",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Neckar-Alb",
+    "adresse": {
+      "strasse": "Wilhelm-Keil-Straße 50",
+      "plz": "72072",
+      "ort": "Tübingen"
+    },
+    "telefon": "07071 2073330",
+    "email": "ifsg@kreis-tuebingen.de"
+  },
+  {
+    "id": "ga-1-08-4-17",
+    "name": "Gesundheitsamt",
+    "landkreis": "Zollernalbkreis",
+    "landkreis_ags": "08417",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Neckar-Alb",
+    "adresse": {
+      "strasse": "Weilheimer Straße 31",
+      "plz": "72379",
+      "ort": "Hechingen"
+    },
+    "telefon": "07471 9309-1568",
+    "email": "gesundheitsamt@zollernalbkreis.de"
+  },
+  {
+    "id": "ga-1-08-4-25",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Ulm, Stadtkreis",
+    "landkreis_ags": "08421",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Donau-Iller (BW)",
+    "adresse": {
+      "strasse": "Schillerstr. 30",
+      "plz": "89077",
+      "ort": "Ulm"
+    },
+    "telefon": "0731 185-1730",
+    "email": "Gesundheitsamt@alb-donau-kreis.de"
+  },
+  {
+    "id": "ga-1-08-4-26",
+    "name": "Kreisgesundheitsamt",
+    "landkreis": "Biberach",
+    "landkreis_ags": "08426",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Donau-Iller (BW)",
+    "adresse": {
+      "strasse": "Rollinstr. 15-17",
+      "plz": "88400",
+      "ort": "Biberach"
+    },
+    "telefon": "07351 52-6151",
+    "email": "kreisgesundheitsamt@biberach.de"
+  },
+  {
+    "id": "ga-1-08-4-35",
+    "name": "Gesundheitsamt",
+    "landkreis": "Bodenseekreis",
+    "landkreis_ags": "08435",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Bodensee-Oberschwaben",
+    "adresse": {
+      "strasse": "Albrechtstr. 75",
+      "plz": "88045",
+      "ort": "Friedrichshafen"
+    },
+    "telefon": "07541 204-5841",
+    "email": "gesundheitsamt@bodenseekreis.de"
+  },
+  {
+    "id": "ga-1-08-4-36",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ravensburg",
+    "landkreis_ags": "08436",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Bodensee-Oberschwaben",
+    "adresse": {
+      "strasse": "Gartenstraße 107",
+      "plz": "88212",
+      "ort": "Ravensburg"
+    },
+    "telefon": "0751 85-5311",
+    "email": "ge@rv.de"
+  },
+  {
+    "id": "ga-1-08-4-37",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Sigmaringen",
+    "landkreis_ags": "08437",
+    "bundesland": "Baden-Württemberg",
+    "bundesland_kuerzel": "BW",
+    "raumordnungsregion": "Bodensee-Oberschwaben",
+    "adresse": {
+      "strasse": "Hohenzollernstraße 12",
+      "plz": "72488",
+      "ort": "Sigmaringen"
+    },
+    "telefon": "07571 102-6401",
+    "email": "post.gesundheit@lrasig.de"
+  },
+  {
+    "id": "ga-1-09-1-61",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ingolstadt",
+    "landkreis_ags": "09161",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Ingolstadt",
+    "adresse": {
+      "strasse": "Esplanade 29",
+      "plz": "85049",
+      "ort": "Ingolstadt"
+    },
+    "telefon": "0841 305-1461",
+    "email": "Gesundheitsamt@ingolstadt.de"
+  },
+  {
+    "id": "ga-1-09-1-62",
+    "name": "Gesundheitsreferat",
+    "landkreis": "München",
+    "landkreis_ags": "09184",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Bayerstraße 28a",
+      "plz": "80335",
+      "ort": "München"
+    },
+    "telefon": "089-233 747809",
+    "email": "meldewesen-infektionsschutz.gsr@muenchen.de"
+  },
+  {
+    "id": "ga-1-09-1-71",
+    "name": "Gesundheits- und Veterinärwesen",
+    "landkreis": "Altötting",
+    "landkreis_ags": "09171",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Südostoberbayern",
+    "adresse": {
+      "strasse": "Vinzenz-von-Paul-Str. 8",
+      "plz": "84503",
+      "ort": "Altötting"
+    },
+    "telefon": "+49 8671 502-900",
+    "email": "Gesundheitsamt.aoe@lra-aoe.de"
+  },
+  {
+    "id": "ga-1-09-1-72",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berchtesgadener Land",
+    "landkreis_ags": "09172",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Südostoberbayern",
+    "adresse": {
+      "strasse": "Salzburger Str. 64",
+      "plz": "83435",
+      "ort": "Bad Reichenhall"
+    },
+    "telefon": "08651 773-821",
+    "email": "gesundheitsamt@lra-bgl.de"
+  },
+  {
+    "id": "ga-1-09-1-73-02",
+    "name": "Landkreis Bad Tölz - Wolfratshausen — Landratsamt",
+    "landkreis": "Bad Tölz-Wolfratshausen",
+    "landkreis_ags": "09173",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberland",
+    "adresse": {
+      "strasse": "Prof.-Max-Lange-Platz 1",
+      "plz": "83646",
+      "ort": "Bad Tölz"
+    },
+    "telefon": "08041 505-483",
+    "email": "G-Amt@lra-toelz.de"
+  },
+  {
+    "id": "ga-1-09-1-74",
+    "name": "Gesundheitsamt",
+    "landkreis": "Dachau",
+    "landkreis_ags": "09174",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Dr.-Hiller-Straße 36",
+      "plz": "85221",
+      "ort": "Dachau"
+    },
+    "telefon": "08131 74-1413",
+    "email": "Gesundheitsamt@lra-dah.bayern.de"
+  },
+  {
+    "id": "ga-1-09-1-75",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ebersberg",
+    "landkreis_ags": "09175",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Eichthalstr. 5",
+      "plz": "85560",
+      "ort": "Ebersberg"
+    },
+    "telefon": "+49 8092 823-383",
+    "email": "Gesundheitsamt@lra-ebe.bayern.de"
+  },
+  {
+    "id": "ga-1-09-1-76",
+    "name": "Gesundheitswesen",
+    "landkreis": "Eichstätt",
+    "landkreis_ags": "09176",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Ingolstadt",
+    "adresse": {
+      "strasse": "Gundekarstr. 3",
+      "plz": "85072",
+      "ort": "Eichstätt"
+    },
+    "telefon": "08421 - 70 2500",
+    "email": "gesundheitswesen@lra-ei.bayern.de"
+  },
+  {
+    "id": "ga-1-09-1-77",
+    "name": "Fachbereich 51 - Gesundheitswesen",
+    "landkreis": "Erding",
+    "landkreis_ags": "09177",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Alois-Schießl-Platz 6",
+      "plz": "85435",
+      "ort": "Erding"
+    },
+    "telefon": "+49 8122 58 1433",
+    "email": "ga-verwaltung@lra-ed.de"
+  },
+  {
+    "id": "ga-1-09-1-78",
+    "name": "Gesundheitsamt Freising",
+    "landkreis": "Freising",
+    "landkreis_ags": "09178",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Johannisstr. 8",
+      "plz": "85354",
+      "ort": "Freising"
+    },
+    "telefon": "08161 600 84300",
+    "email": "gesundheitsamt@kreis-fs.de"
+  },
+  {
+    "id": "ga-1-09-1-79",
+    "name": "Gesundheitsamt",
+    "landkreis": "Fürstenfeldbruck",
+    "landkreis_ags": "09179",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Hans-Sachs-Str. 9",
+      "plz": "82256",
+      "ort": "Fürstenfeldbruck"
+    },
+    "telefon": "08141 519-800",
+    "email": "gesundheitsamt@lra-ffb.de"
+  },
+  {
+    "id": "ga-1-09-1-80",
+    "name": "Gesundheitsamt Garmisch-Partenkirchen",
+    "landkreis": "Garmisch-Partenkirchen",
+    "landkreis_ags": "09180",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberland",
+    "adresse": {
+      "strasse": "Blumenstr. 1",
+      "plz": "82467",
+      "ort": "Garmisch-Partenkirchen"
+    },
+    "telefon": "08821 751-500",
+    "email": "Gesundheitsamt@lra-gap.de"
+  },
+  {
+    "id": "ga-1-09-1-81",
+    "name": "Landkreis Landsberg a.Lech — Landratsamt Landsberg am Lech - Außenstelle 19",
+    "landkreis": "Landsberg am Lech",
+    "landkreis_ags": "09181",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Wiesenring 15",
+      "plz": "86899",
+      "ort": "Landsberg am Lech"
+    },
+    "telefon": "08191 129-1551",
+    "email": "Gesundheitsamt@LRA-LL.bayern.de"
+  },
+  {
+    "id": "ga-1-09-1-82",
+    "name": "Fachbereich 43 Gesundheitsamt",
+    "landkreis": "Miesbach",
+    "landkreis_ags": "09182",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberland",
+    "adresse": {
+      "strasse": "Wendelsteinstraße 1",
+      "plz": "83714",
+      "ort": "Miesbach"
+    },
+    "telefon": "08025 704-4300",
+    "email": null
+  },
+  {
+    "id": "ga-1-09-1-83",
+    "name": "Gesundheitsamt",
+    "landkreis": "Mühldorf a.Inn",
+    "landkreis_ags": "09183",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Südostoberbayern",
+    "adresse": {
+      "strasse": "Töginger Str. 18b",
+      "plz": "84453",
+      "ort": "Mühldorf"
+    },
+    "telefon": "08631 699509",
+    "email": "Gesundheitsamt@lra-mue.de"
+  },
+  {
+    "id": "ga-1-09-1-84",
+    "name": "Abteilung 4 - Öffentliches Gesundheits- und Veterinärwesen",
+    "landkreis": "München",
+    "landkreis_ags": "09184",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Mariahilfplatz 17",
+      "plz": "81541",
+      "ort": "München"
+    },
+    "telefon": "089 6221-1000",
+    "email": "Gesundheitswesen@lra-m.bayern.de"
+  },
+  {
+    "id": "ga-1-09-1-85-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Neuburg-Schrobenhausen",
+    "landkreis_ags": "09185",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Ingolstadt",
+    "adresse": {
+      "strasse": "Müller-Gnadenegg-Weg 1",
+      "plz": "86633",
+      "ort": "Neuburg an der Donau"
+    },
+    "telefon": "08431 57500",
+    "email": "gesundheitsamt@lra-nd-sob.de"
+  },
+  {
+    "id": "ga-1-09-1-86",
+    "name": "Gesundheitsamt",
+    "landkreis": "Pfaffenhofen a.d.Ilm",
+    "landkreis_ags": "09186",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Ingolstadt",
+    "adresse": {
+      "strasse": "Krankenhausstr.70",
+      "plz": "85276",
+      "ort": "Pfaffenhofen a.d. Ilm"
+    },
+    "telefon": "08441 27-1400",
+    "email": "Gesundheitsamt-Verwaltung@Landratsamt-paf.de"
+  },
+  {
+    "id": "ga-1-09-1-87",
+    "name": "Staatliches Gesundheitsamt",
+    "landkreis": "Rosenheim",
+    "landkreis_ags": "09187",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Südostoberbayern",
+    "adresse": {
+      "strasse": "Prinzregentenstr. 19",
+      "plz": "83022",
+      "ort": "Rosenheim"
+    },
+    "telefon": "08031 392-6002",
+    "email": "gesundheitsamt@lra-rosenheim.de"
+  },
+  {
+    "id": "ga-1-09-1-88",
+    "name": "Fachbereich 32 Gesundheitswesen",
+    "landkreis": "Starnberg",
+    "landkreis_ags": "09188",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "München",
+    "adresse": {
+      "strasse": "Dampfschiffstr. 2a",
+      "plz": "82319",
+      "ort": "Starnberg"
+    },
+    "telefon": "08151 148-77900",
+    "email": "gesundheitsamt@lra-starnberg.de"
+  },
+  {
+    "id": "ga-1-09-1-89",
+    "name": "Gesundheitsamt",
+    "landkreis": "Traunstein",
+    "landkreis_ags": "09189",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Südostoberbayern",
+    "adresse": {
+      "strasse": "Herzog-Friedrich-Str. 6",
+      "plz": "83278",
+      "ort": "Traunstein"
+    },
+    "telefon": "0861/58-147",
+    "email": "gesundheitsamt@traunstein.bayern.de"
+  },
+  {
+    "id": "ga-1-09-1-90",
+    "name": "Abteilung 6 - Gesundheitsamt",
+    "landkreis": "Weilheim-Schongau",
+    "landkreis_ags": "09190",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberland",
+    "adresse": {
+      "strasse": "Eisenkramergasse 11",
+      "plz": "82362",
+      "ort": "Weilheim i.OB"
+    },
+    "telefon": "0881 681-1600",
+    "email": "gesundheitsamt@lra-wm.bayern.de"
+  },
+  {
+    "id": "ga-1-09-2-71",
+    "name": "Gesundheitswesen",
+    "landkreis": "Deggendorf",
+    "landkreis_ags": "09271",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Wald",
+    "adresse": {
+      "strasse": "Herrenstraße 18",
+      "plz": "94469",
+      "ort": "Deggendorf"
+    },
+    "telefon": "0991 3100-150",
+    "email": "gesundheitsamt@lra-deg.bayern.de"
+  },
+  {
+    "id": "ga-1-09-2-72",
+    "name": "Gesundheitsamt",
+    "landkreis": "Freyung-Grafenau",
+    "landkreis_ags": "09272",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Wald",
+    "adresse": {
+      "strasse": "Erlenhain 6",
+      "plz": "94065",
+      "ort": "Waldkirchen"
+    },
+    "telefon": "08551 57-4000",
+    "email": "gesundheitsamt@landkreis-frg.de"
+  },
+  {
+    "id": "ga-1-09-2-73",
+    "name": "Gesundheitsabteilung",
+    "landkreis": "Kelheim",
+    "landkreis_ags": "09273",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Regensburg",
+    "adresse": {
+      "strasse": "Hemauerstr. 48 a",
+      "plz": "93309",
+      "ort": "Kelheim"
+    },
+    "telefon": "09441 207-6015",
+    "email": "gesundheitsamt@landkreis-kelheim.de"
+  },
+  {
+    "id": "ga-1-09-2-74",
+    "name": "Gesundheitsamt Landshut",
+    "landkreis": "Landshut",
+    "landkreis_ags": "09274",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Landshut",
+    "adresse": {
+      "strasse": "Achdorfer Weg 7",
+      "plz": "84036",
+      "ort": "Landshut"
+    },
+    "telefon": "08703 9073-7000",
+    "email": "gesundheit@landkreis-landshut.de"
+  },
+  {
+    "id": "ga-1-09-2-75",
+    "name": "Gesundheitsamt",
+    "landkreis": "Passau",
+    "landkreis_ags": "09275",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Wald",
+    "adresse": {
+      "strasse": "Passauer Str. 33",
+      "plz": "94081",
+      "ort": "Fürstenzell"
+    },
+    "telefon": "0851 397 4800",
+    "email": "gesundheitsamt@landkreis-passau.de"
+  },
+  {
+    "id": "ga-1-09-2-76",
+    "name": "Gesundheitsamt",
+    "landkreis": "Regen",
+    "landkreis_ags": "09276",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Wald",
+    "adresse": {
+      "strasse": "Poschetsrieder Straße 16",
+      "plz": "94209",
+      "ort": "Regen"
+    },
+    "telefon": "+49 9921 601-420",
+    "email": "Gesundheitswesen@lra.landkreis-regen.de"
+  },
+  {
+    "id": "ga-1-09-2-77",
+    "name": "Abt. 4 Gesundheits-und Veterinärwesen",
+    "landkreis": "Rottal-Inn",
+    "landkreis_ags": "09277",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Landshut",
+    "adresse": {
+      "strasse": "Ringstr. 4-7",
+      "plz": "84347",
+      "ort": "Pfarrkirchen"
+    },
+    "telefon": "+49 8561 20 419",
+    "email": "gesundheitsamt@rottal-inn.de"
+  },
+  {
+    "id": "ga-1-09-2-78",
+    "name": "Abteilung Gesundheitswesen",
+    "landkreis": "Straubing",
+    "landkreis_ags": "09263",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Wald",
+    "adresse": {
+      "strasse": "Leutnerstraße 15",
+      "plz": "94315",
+      "ort": "Straubing"
+    },
+    "telefon": "09421 973 360",
+    "email": "gesundheitsamt@landkreis-straubing-bogen.de"
+  },
+  {
+    "id": "ga-1-09-2-79",
+    "name": "Gesundheitsamt",
+    "landkreis": "Dingolfing-Landau",
+    "landkreis_ags": "09279",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Landshut",
+    "adresse": {
+      "strasse": "Obere Stadt 1",
+      "plz": "84130",
+      "ort": "Dingolfing"
+    },
+    "telefon": "08731 87 245",
+    "email": "gesundheitsamt@landkreis-dingolfing-landau.de"
+  },
+  {
+    "id": "ga-1-09-3-61-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Amberg",
+    "landkreis_ags": "09361",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberpfalz-Nord",
+    "adresse": {
+      "strasse": "Adalbert-Stifter-Str. 18",
+      "plz": "92224",
+      "ort": "Amberg"
+    },
+    "telefon": "09621 39 7600",
+    "email": "gesundheitsamt@amberg-sulzbach.de"
+  },
+  {
+    "id": "ga-1-09-3-72",
+    "name": "Gesundheitswesen",
+    "landkreis": "Cham",
+    "landkreis_ags": "09372",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Regensburg",
+    "adresse": {
+      "strasse": "Altenstadter Str. 7",
+      "plz": "93413",
+      "ort": "Cham"
+    },
+    "telefon": "09971 78-450",
+    "email": "gesundheitsamt@lra.landkreis-cham.de"
+  },
+  {
+    "id": "ga-1-09-3-73",
+    "name": "Gesundheitsamt",
+    "landkreis": "Neumarkt i.d.OPf.",
+    "landkreis_ags": "09373",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Regensburg",
+    "adresse": {
+      "strasse": "Dr. Grundler -Str. 1",
+      "plz": "92318",
+      "ort": "Neumarkt i.d.OPf."
+    },
+    "telefon": "09181 470-1512",
+    "email": "gesundheitsamt@landkreis-neumarkt.de"
+  },
+  {
+    "id": "ga-1-09-3-74",
+    "name": "Abteilung Gesundheitswesen",
+    "landkreis": "Neustadt a.d.Waldnaab",
+    "landkreis_ags": "09374",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberpfalz-Nord",
+    "adresse": {
+      "strasse": "Maistrasse 7-9",
+      "plz": "92637",
+      "ort": "Weiden i. d. Oberpfalz"
+    },
+    "telefon": "09602 79-6000",
+    "email": "gesundheitsamt@neustadt.de"
+  },
+  {
+    "id": "ga-1-09-3-75",
+    "name": "Gesundheitsamt",
+    "landkreis": "Regensburg",
+    "landkreis_ags": "09375",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Regensburg",
+    "adresse": {
+      "strasse": "Altmühlstraße 3",
+      "plz": "93059",
+      "ort": "Regensburg"
+    },
+    "telefon": "0941 4009-0",
+    "email": "gesundheitsamt@landratsamt-regensburg.de"
+  },
+  {
+    "id": "ga-1-09-3-76-01",
+    "name": "Sgb. 5.0 - Gesundheitsamt",
+    "landkreis": "Schwandorf",
+    "landkreis_ags": "09376",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberpfalz-Nord",
+    "adresse": {
+      "strasse": "Wackersdorfer Str. 78a",
+      "plz": "92421",
+      "ort": "Schwandorf"
+    },
+    "telefon": "09431 471 600",
+    "email": "gesundheitsamt@landkreis-schwandorf.de"
+  },
+  {
+    "id": "ga-1-09-3-77",
+    "name": "Gesundheitsamt",
+    "landkreis": "Tirschenreuth",
+    "landkreis_ags": "09377",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberpfalz-Nord",
+    "adresse": {
+      "strasse": "St.-Peter-Str. 33",
+      "plz": "95643",
+      "ort": "Tirschenreuth"
+    },
+    "telefon": "09631 7076-0",
+    "email": "Gesundheitsamt@tirschenreuth.de"
+  },
+  {
+    "id": "ga-1-09-4-71",
+    "name": "Fachbereich 23 Gesundheitswesen",
+    "landkreis": "Bamberg",
+    "landkreis_ags": "09471",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-West",
+    "adresse": {
+      "strasse": "Ludwigstr. 25",
+      "plz": "96052",
+      "ort": "Bamberg"
+    },
+    "telefon": "0951 85-651",
+    "email": "gesundheitsamt@lra-ba.bayern.de"
+  },
+  {
+    "id": "ga-1-09-4-72",
+    "name": "Abteilung Gesundheitswesen",
+    "landkreis": "Bayreuth",
+    "landkreis_ags": "09472",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-Ost",
+    "adresse": {
+      "strasse": "Markgrafenallee 5",
+      "plz": "95448",
+      "ort": "Bayreuth"
+    },
+    "telefon": "0921 728-227",
+    "email": "Gesundheitsamt-BT@lra-bt.bayern.de"
+  },
+  {
+    "id": "ga-1-09-4-73",
+    "name": "FB 32 Gesundheit",
+    "landkreis": "Coburg, Stadt",
+    "landkreis_ags": "09463",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-West",
+    "adresse": {
+      "strasse": "Lauterer Straße 60",
+      "plz": "96450",
+      "ort": "Coburg"
+    },
+    "telefon": "09561 514-3201",
+    "email": "gesundheitsamt@landkreis-coburg.de"
+  },
+  {
+    "id": "ga-1-09-4-74",
+    "name": "Gesundheitsamt",
+    "landkreis": "Forchheim",
+    "landkreis_ags": "09474",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-West",
+    "adresse": {
+      "strasse": "Am Streckerplatz 3",
+      "plz": "91301",
+      "ort": "Forchheim"
+    },
+    "telefon": "09191-86-3550",
+    "email": "Gesundheitsamt@lra-fo.de"
+  },
+  {
+    "id": "ga-1-09-4-75",
+    "name": "Abt. 7 Gesundheitswesen",
+    "landkreis": "Hof, Stadt",
+    "landkreis_ags": "09464",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-Ost",
+    "adresse": {
+      "strasse": "Theaterstr. 8",
+      "plz": "95028",
+      "ort": "Hof/Saale"
+    },
+    "telefon": "09281 721-0",
+    "email": "gesundheit@landkreis-hof.de"
+  },
+  {
+    "id": "ga-1-09-4-76",
+    "name": "Sachgebiet 42 - Gesundheitsamt",
+    "landkreis": "Kronach",
+    "landkreis_ags": "09476",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-West",
+    "adresse": {
+      "strasse": "Güterstrasse 18",
+      "plz": "96317",
+      "ort": "Kronach"
+    },
+    "telefon": "09261 678-227",
+    "email": "gesundheitsamt@lra-kc.bayern.de"
+  },
+  {
+    "id": "ga-1-09-4-77",
+    "name": "Gesundheitsamt",
+    "landkreis": "Kulmbach",
+    "landkreis_ags": "09477",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-Ost",
+    "adresse": {
+      "strasse": "Konrad-Adenauer-Str. 2",
+      "plz": "95326",
+      "ort": "Kulmbach"
+    },
+    "telefon": "+49 9221 707 600",
+    "email": "hygiene@landkreis-kulmbach.de"
+  },
+  {
+    "id": "ga-1-09-4-78",
+    "name": "Sachgebiet Gesundheit",
+    "landkreis": "Lichtenfels",
+    "landkreis_ags": "09478",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-West",
+    "adresse": {
+      "strasse": "Gabelsbergerstraße 24",
+      "plz": "96215",
+      "ort": "Lichtenfels"
+    },
+    "telefon": "09571 182601",
+    "email": "gesundheitswesen@landkreis-lichtenfels.de"
+  },
+  {
+    "id": "ga-1-09-4-79",
+    "name": "Fachbereich Gesundheitswesen",
+    "landkreis": "Wunsiedel i.Fichtelgebirge",
+    "landkreis_ags": "09479",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Oberfranken-Ost",
+    "adresse": {
+      "strasse": "Jean-Paul-Str. 9",
+      "plz": "95632",
+      "ort": "Wunsiedel"
+    },
+    "telefon": "09232 80107",
+    "email": "gesundheitswesen@landkreis-wunsiedel.de"
+  },
+  {
+    "id": "ga-1-09-5-61",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ansbach, Stadt",
+    "landkreis_ags": "09561",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Westmittelfranken",
+    "adresse": {
+      "strasse": "Crailsheimstraße 64",
+      "plz": "91522",
+      "ort": "Ansbach"
+    },
+    "telefon": "+49 981 468-7003",
+    "email": "Gesundheitsamt@landratsamt-ansbach.de"
+  },
+  {
+    "id": "ga-1-09-5-64",
+    "name": "Gesundheitsamt",
+    "landkreis": "Nürnberg",
+    "landkreis_ags": "09564",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Industrieregion Mittelfranken",
+    "adresse": {
+      "strasse": "Burgstraße 4",
+      "plz": "90403",
+      "ort": "Nürnberg"
+    },
+    "telefon": "+49 911 231-0",
+    "email": "gh-meldewesen@stadt.nuernberg.de"
+  },
+  {
+    "id": "ga-1-09-5-72-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Erlangen-Höchstadt",
+    "landkreis_ags": "09572",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Industrieregion Mittelfranken",
+    "adresse": {
+      "strasse": "Nägelsbachstr. 1",
+      "plz": "91052",
+      "ort": "Erlangen"
+    },
+    "telefon": "+49 9131 803-2200",
+    "email": "gesundheitsamt@erlangen-hoechstadt.de"
+  },
+  {
+    "id": "ga-1-09-5-73",
+    "name": "Gesundheitsamt",
+    "landkreis": "Fürth",
+    "landkreis_ags": "09573",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Industrieregion Mittelfranken",
+    "adresse": {
+      "strasse": "Im Pinderpark 2 (Postadresse) Im Pinderpark 4 (Dienstgebäude)",
+      "plz": "90513",
+      "ort": "Zirndorf"
+    },
+    "telefon": "0911 9773-1833",
+    "email": "gesundheitsamt@lra-fue.bayern.de"
+  },
+  {
+    "id": "ga-1-09-5-74",
+    "name": "Gesundheitsamt",
+    "landkreis": "Nürnberger Land",
+    "landkreis_ags": "09574",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Industrieregion Mittelfranken",
+    "adresse": {
+      "strasse": "Waldluststr. 3",
+      "plz": "91207",
+      "ort": "Lauf a.d. Pegnitz"
+    },
+    "telefon": "09123 950-6550",
+    "email": "Gesundheitsamt@nuernberger-land.de"
+  },
+  {
+    "id": "ga-1-09-5-75",
+    "name": "Gesundheitsamt",
+    "landkreis": "Neustadt a.d.Aisch-Bad Windsheim",
+    "landkreis_ags": "09575",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Westmittelfranken",
+    "adresse": {
+      "strasse": "Konrad-Adenauer-Str. 2",
+      "plz": "91413",
+      "ort": "Neustadt an der Aisch"
+    },
+    "telefon": "09161 92-5305",
+    "email": "Gesundheitsamt@kreis-nea.de"
+  },
+  {
+    "id": "ga-1-09-5-76",
+    "name": "Gesundheitsamt",
+    "landkreis": "Roth",
+    "landkreis_ags": "09576",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Industrieregion Mittelfranken",
+    "adresse": {
+      "strasse": "Westring 36",
+      "plz": "91154",
+      "ort": "Roth"
+    },
+    "telefon": "+49 9171 81-1601",
+    "email": "Gesundheitsamt@Landratsamt-Roth.de"
+  },
+  {
+    "id": "ga-1-09-5-77",
+    "name": "Gesundheitsamt",
+    "landkreis": "Weißenburg-Gunzenhausen",
+    "landkreis_ags": "09577",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Westmittelfranken",
+    "adresse": {
+      "strasse": "Niederhofener Str. 3",
+      "plz": "91781",
+      "ort": "Weißenburg"
+    },
+    "telefon": "09141 902-401",
+    "email": "Gesundheitsamt.Lra@Landkreis-WUG.de"
+  },
+  {
+    "id": "ga-1-09-6-71",
+    "name": "Abteilung 5 - Gesundheitsamt",
+    "landkreis": "Aschaffenburg",
+    "landkreis_ags": "09671",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Bayerischer Untermain",
+    "adresse": {
+      "strasse": "Merlostr.1-3",
+      "plz": "63741",
+      "ort": "Aschaffenburg"
+    },
+    "telefon": "06021 394 100",
+    "email": "gesundheitsamt@lra-ab.bayern.de"
+  },
+  {
+    "id": "ga-1-09-6-72",
+    "name": "Staatliches Gesundheitsamt",
+    "landkreis": "Bad Kissingen",
+    "landkreis_ags": "09672",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Main-Rhön",
+    "adresse": {
+      "strasse": "Mühlgasse 3",
+      "plz": "97688",
+      "ort": "Bad Kissingen"
+    },
+    "telefon": "+49 971 8018 100",
+    "email": "Gesundheitsamt@landkreis-badkissingen.de"
+  },
+  {
+    "id": "ga-1-09-6-73",
+    "name": "SG 3.4 - Gesundheitsamt",
+    "landkreis": "Rhön-Grabfeld",
+    "landkreis_ags": "09673",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Main-Rhön",
+    "adresse": {
+      "strasse": "Spörleinstr. 11",
+      "plz": "97616",
+      "ort": "Bad Neustadt"
+    },
+    "telefon": "09771 94-560",
+    "email": "gesundheitsamt@rhoen-grabfeld.de"
+  },
+  {
+    "id": "ga-1-09-6-74",
+    "name": "Landratsamt Hassberge — Fachabteilung II/A",
+    "landkreis": "Haßberge",
+    "landkreis_ags": "09674",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Main-Rhön",
+    "adresse": {
+      "strasse": "Zwerchmaingasse 14",
+      "plz": "97437",
+      "ort": "Haßfurt"
+    },
+    "telefon": "09521 27-400",
+    "email": "Gesundheitsamt@landratsamt-hassberge.de"
+  },
+  {
+    "id": "ga-1-09-6-75",
+    "name": "Gesundheitsamt",
+    "landkreis": "Kitzingen",
+    "landkreis_ags": "09675",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Würzburg",
+    "adresse": {
+      "strasse": "Kaiserstraße 4",
+      "plz": "97318",
+      "ort": "Kitzingen"
+    },
+    "telefon": "09321 928 3304",
+    "email": "gesundheitsamt@kitzingen.de"
+  },
+  {
+    "id": "ga-1-09-6-76",
+    "name": "Gesundheitsamt",
+    "landkreis": "Miltenberg",
+    "landkreis_ags": "09676",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Bayerischer Untermain",
+    "adresse": {
+      "strasse": "Brückenstr. 2",
+      "plz": "63897",
+      "ort": "Miltenberg"
+    },
+    "telefon": "09371 501-523",
+    "email": "Gesundheitsamt@lra-mil.de"
+  },
+  {
+    "id": "ga-1-09-6-77",
+    "name": "Gesundheitsamt",
+    "landkreis": "Main-Spessart",
+    "landkreis_ags": "09677",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Würzburg",
+    "adresse": {
+      "strasse": "Gemündener Str. 15-17",
+      "plz": "97753",
+      "ort": "Karlstadt"
+    },
+    "telefon": "09353   793-1600",
+    "email": "gesundheitsamt@lramsp.de"
+  },
+  {
+    "id": "ga-1-09-6-78",
+    "name": "Gesundheitsamt",
+    "landkreis": "Schweinfurt",
+    "landkreis_ags": "09678",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Main-Rhön",
+    "adresse": {
+      "strasse": "Schrammstr. 1",
+      "plz": "97421",
+      "ort": "Schweinfurt"
+    },
+    "telefon": "09721 55-745",
+    "email": "ga-anmeldung@lrasw.de"
+  },
+  {
+    "id": "ga-1-09-6-79",
+    "name": "Gesundheitsamt Stadt und Landkreis Würzburg",
+    "landkreis": "Würzburg",
+    "landkreis_ags": "09679",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Würzburg",
+    "adresse": {
+      "strasse": "Zeppelinstraße 15",
+      "plz": "97074",
+      "ort": "Würzburg"
+    },
+    "telefon": "+49 931 8003-0",
+    "email": "Gesundheitsamt@lra-wue.bayern.de"
+  },
+  {
+    "id": "ga-1-09-7-61",
+    "name": "Gesundheitsamt",
+    "landkreis": "Augsburg",
+    "landkreis_ags": "09772",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Augsburg",
+    "adresse": {
+      "strasse": "Hoher Weg 8",
+      "plz": "86152",
+      "ort": "Augsburg"
+    },
+    "telefon": "+49 821 324-2029",
+    "email": "hygiene.gesundheitsamt@augsburg.de"
+  },
+  {
+    "id": "ga-1-09-7-64",
+    "name": "Gesundheitsamt",
+    "landkreis": "Memmingen",
+    "landkreis_ags": "09764",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Iller (BY)",
+    "adresse": {
+      "strasse": "Buxacher Str. 16",
+      "plz": "87700",
+      "ort": "Memmingen"
+    },
+    "telefon": "+49 8331 850-940",
+    "email": "gesundheitsamt@memmingen.de"
+  },
+  {
+    "id": "ga-1-09-7-71",
+    "name": "Landratsamt Aichach-Friedberg — SG 33",
+    "landkreis": "Aichach-Friedberg",
+    "landkreis_ags": "09771",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Augsburg",
+    "adresse": {
+      "strasse": "Krankenhausstraße 9",
+      "plz": "86551",
+      "ort": "Aichach"
+    },
+    "telefon": "+49 8251 92 431",
+    "email": "gesundheitsamt@lra-aic-fdb.de"
+  },
+  {
+    "id": "ga-1-09-7-72",
+    "name": "Gesundheitsamt",
+    "landkreis": "Augsburg, Stadt",
+    "landkreis_ags": "09761",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Augsburg",
+    "adresse": {
+      "strasse": "Prinzregenten Platz 4",
+      "plz": "86150",
+      "ort": "Augsburg"
+    },
+    "telefon": "0821 3102-2101",
+    "email": "Gesundheitsamt@lra-a.bayern.de"
+  },
+  {
+    "id": "ga-1-09-7-73",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Dillingen a.d.Donau",
+    "landkreis_ags": "09773",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Augsburg",
+    "adresse": {
+      "strasse": "Große Allee 24",
+      "plz": "89407",
+      "ort": "Dillingen a. d. Donau"
+    },
+    "telefon": "09071 51 441",
+    "email": "gesundheit@landratsamt.dillingen.de"
+  },
+  {
+    "id": "ga-1-09-7-74",
+    "name": "Gesundheitsamt",
+    "landkreis": "Günzburg",
+    "landkreis_ags": "09774",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Iller (BY)",
+    "adresse": {
+      "strasse": "An der Kapuzinermauer 1",
+      "plz": "89312",
+      "ort": "Günzburg"
+    },
+    "telefon": "+49 8221 95-720",
+    "email": "Gesundheitsamt@landkreis-guenzburg.de"
+  },
+  {
+    "id": "ga-1-09-7-75",
+    "name": "Öffentlicher Gesundheitsdienst",
+    "landkreis": "Neu-Ulm",
+    "landkreis_ags": "09775",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Iller (BY)",
+    "adresse": {
+      "strasse": "Kantstr. 8",
+      "plz": "89231",
+      "ort": "Neu-Ulm"
+    },
+    "telefon": "0731-7040 11180",
+    "email": "gesundheitsdienst@landkreis-nu.de"
+  },
+  {
+    "id": "ga-1-09-7-76",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Lindau (Bodensee)",
+    "landkreis_ags": "09776",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Allgäu",
+    "adresse": {
+      "strasse": "Bregenzer Straße 35",
+      "plz": "88131",
+      "ort": "Lindau"
+    },
+    "telefon": "08382 270-620",
+    "email": "Gesundheitsamt@landkreis-lindau.de"
+  },
+  {
+    "id": "ga-1-09-7-77",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ostallgäu",
+    "landkreis_ags": "09777",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Allgäu",
+    "adresse": {
+      "strasse": "Schwabenstraße 11",
+      "plz": "87616",
+      "ort": "Marktoberdorf"
+    },
+    "telefon": "08342 911-623",
+    "email": "Gesundheitsamt@lra-oal.bayern.de"
+  },
+  {
+    "id": "ga-1-09-7-78",
+    "name": "Gesundheitsamt",
+    "landkreis": "Unterallgäu",
+    "landkreis_ags": "09778",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Donau-Iller (BY)",
+    "adresse": {
+      "strasse": "Maximilianstr. 63",
+      "plz": "87719",
+      "ort": "Mindelheim"
+    },
+    "telefon": "08261 995-678",
+    "email": "gesundheitsamt@lra.unterallgaeu.de"
+  },
+  {
+    "id": "ga-1-09-7-79-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Donau-Ries",
+    "landkreis_ags": "09779",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Augsburg",
+    "adresse": {
+      "strasse": "Pflegstr. 2",
+      "plz": "86609",
+      "ort": "Donauwörth"
+    },
+    "telefon": "0906 74 1313",
+    "email": "gesundheitswesen@lra-donau-ries.de"
+  },
+  {
+    "id": "ga-1-09-7-80",
+    "name": "Gesundheitsamt",
+    "landkreis": "Oberallgäu",
+    "landkreis_ags": "09780",
+    "bundesland": "Bayern",
+    "bundesland_kuerzel": "BY",
+    "raumordnungsregion": "Allgäu",
+    "adresse": {
+      "strasse": "Oberallgäuer Platz 2",
+      "plz": "87527",
+      "ort": "Sonthofen"
+    },
+    "telefon": "08321 612-520",
+    "email": "Gesundheitsamt@lra-oa.bayern.de"
+  },
+  {
+    "id": "ga-1-10-0-41",
+    "name": "Gesundheitsamt",
+    "landkreis": "Regionalverband Saarbrücken",
+    "landkreis_ags": "10041",
+    "bundesland": "Saarland",
+    "bundesland_kuerzel": "SL",
+    "raumordnungsregion": "Saar",
+    "adresse": {
+      "strasse": "Stengelstraße 10-12",
+      "plz": "66117",
+      "ort": "Saarbrücken"
+    },
+    "telefon": "0681 506-5377",
+    "email": "gesundheitsamtsbr@rvsbr.de"
+  },
+  {
+    "id": "ga-1-10-0-42",
+    "name": "Gesundheitsamt",
+    "landkreis": "Merzig-Wadern",
+    "landkreis_ags": "10042",
+    "bundesland": "Saarland",
+    "bundesland_kuerzel": "SL",
+    "raumordnungsregion": "Saar",
+    "adresse": {
+      "strasse": "Hochwaldstr. 44",
+      "plz": "66663",
+      "ort": "Merzig"
+    },
+    "telefon": "06861 80420",
+    "email": "gesundheitsamt@merzig-wadern.de"
+  },
+  {
+    "id": "ga-1-10-0-43",
+    "name": "Gesundheitsamt",
+    "landkreis": "Neunkirchen",
+    "landkreis_ags": "10043",
+    "bundesland": "Saarland",
+    "bundesland_kuerzel": "SL",
+    "raumordnungsregion": "Saar",
+    "adresse": {
+      "strasse": "Lindenallee 13",
+      "plz": "66538",
+      "ort": "Neunkirchen"
+    },
+    "telefon": "06824 906-8830",
+    "email": "gesundheitsamt@landkreis-neunkirchen.de"
+  },
+  {
+    "id": "ga-1-10-0-44",
+    "name": "Gesundheitsamt",
+    "landkreis": "Saarlouis",
+    "landkreis_ags": "10044",
+    "bundesland": "Saarland",
+    "bundesland_kuerzel": "SL",
+    "raumordnungsregion": "Saar",
+    "adresse": {
+      "strasse": "Choisyring 5",
+      "plz": "66740",
+      "ort": "Saarlouis"
+    },
+    "telefon": "06831 444-700",
+    "email": "gesundheitsamt@kreis-saarlouis.de"
+  },
+  {
+    "id": "ga-1-10-0-45",
+    "name": "Gesundheitsamt",
+    "landkreis": "Saarpfalz-Kreis",
+    "landkreis_ags": "10045",
+    "bundesland": "Saarland",
+    "bundesland_kuerzel": "SL",
+    "raumordnungsregion": "Saar",
+    "adresse": {
+      "strasse": "Am Forum 1",
+      "plz": "66424",
+      "ort": "Homburg"
+    },
+    "telefon": "06841 104 7170",
+    "email": "gesundheitsamt@saarpfalz-kreis.de"
+  },
+  {
+    "id": "ga-1-10-0-46",
+    "name": "Gesundheitsamt",
+    "landkreis": "St. Wendel",
+    "landkreis_ags": "10046",
+    "bundesland": "Saarland",
+    "bundesland_kuerzel": "SL",
+    "raumordnungsregion": "Saar",
+    "adresse": {
+      "strasse": "Werschweilerstr 40",
+      "plz": "66606",
+      "ort": "St. Wendel"
+    },
+    "telefon": "06851 801-5300",
+    "email": "gesundheitsamt@lkwnd.de"
+  },
+  {
+    "id": "ga-1-11-0-01-01",
+    "name": "Abt. Stadtentwicklung, Soziales und Gesundheit",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Kapweg 3",
+      "plz": "13405",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 9018-33208",
+    "email": "hygiene-umwelt@ba-mitte.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-02-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Urbanstr. 24",
+      "plz": "10967",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 90298-8328",
+    "email": "hygiene@ba-fk.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-03-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Grunowstraße 8-11",
+      "plz": "13187",
+      "ort": "Berlin"
+    },
+    "telefon": "030 90295-2944",
+    "email": "geshum@ba-pankow.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-04-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Hohenzollerndamm 174-177",
+      "plz": "10713",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 9029 16047",
+    "email": "Hygiene@charlottenburg-wilmersdorf.de"
+  },
+  {
+    "id": "ga-1-11-0-05-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Carl-Schurz-Str. 2-6",
+      "plz": "13597",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 90279-4031",
+    "email": "Ges2@ba-spandau.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-06-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Robert-Lück-Straße 5",
+      "plz": "12169",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 90299-3634",
+    "email": "hygiene@ba-sz.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-07-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Rathausstr. 27",
+      "plz": "12105",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 90277-7351",
+    "email": "hygiene@ba-ts.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-08-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Blaschkoallee 32",
+      "plz": "12359",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 90239-2254",
+    "email": "geshyg@bezirksamt-neukoelln.de"
+  },
+  {
+    "id": "ga-1-11-0-09-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Hans-Schmidt-Str. 16",
+      "plz": "12414",
+      "ort": "Berlin"
+    },
+    "telefon": "030 90297-4750",
+    "email": "geshum@ba-tk.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-10-01",
+    "name": "Abteilung Gesundheit und Soziales",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Janusz-Korczak-Str.32",
+      "plz": "12627",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 90293-3639",
+    "email": "Hygiene-MH@ba-mh.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-11-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Alfred-Kowalke-Straße 24",
+      "plz": "10360",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 90 296-7552",
+    "email": "hygiene@lichtenberg.berlin.de"
+  },
+  {
+    "id": "ga-1-11-0-11-09",
+    "name": "Gesundheitsamt Lichtenberg",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Deutschmeisterstr.",
+      "plz": "10367",
+      "ort": "Berlin"
+    },
+    "telefon": "030 5504-2433",
+    "email": null
+  },
+  {
+    "id": "ga-1-11-0-12-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Berlin, Stadt",
+    "landkreis_ags": "11000",
+    "bundesland": "Berlin",
+    "bundesland_kuerzel": "BE",
+    "raumordnungsregion": "Berlin",
+    "adresse": {
+      "strasse": "Teichstr. 65",
+      "plz": "13407",
+      "ort": "Berlin"
+    },
+    "telefon": "+49 30 90294-5068",
+    "email": "gesundheitsamt@reinickendorf.berlin.de"
+  },
+  {
+    "id": "ga-1-12-0-51",
+    "name": "Gesundheits-, Veterinär- und Lebensmittelüberwachungsamt",
+    "landkreis": "Brandenburg an der Havel, Stadt",
+    "landkreis_ags": "12051",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Havelland-Fläming",
+    "adresse": {
+      "strasse": "Klosterstrasse 14",
+      "plz": "14770",
+      "ort": "Brandenburg a. d. Havel"
+    },
+    "telefon": "03381 58-5301/-5300",
+    "email": "Gesundheitsamt@Stadt-Brandenburg.de"
+  },
+  {
+    "id": "ga-1-12-0-52",
+    "name": "Fachbereich 53 Gesundheit",
+    "landkreis": "Cottbus, Stadt",
+    "landkreis_ags": "12052",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Lausitz-Spreewald",
+    "adresse": {
+      "strasse": "Puschkinpromenade 25 (Spreegalerie)",
+      "plz": "03044",
+      "ort": "Cottbus"
+    },
+    "telefon": "0355 612 3210",
+    "email": "gesundheitsamt@cottbus.de"
+  },
+  {
+    "id": "ga-1-12-0-53",
+    "name": "Gesundheitsamt",
+    "landkreis": "Frankfurt (Oder), Stadt",
+    "landkreis_ags": "12053",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Oderland-Spree",
+    "adresse": {
+      "strasse": "Logenstraße 6",
+      "plz": "15203",
+      "ort": "Frankfurt/Oder"
+    },
+    "telefon": null,
+    "email": "infektionsschutz@frankfurt-oder.de"
+  },
+  {
+    "id": "ga-1-12-0-54",
+    "name": "Gesundheitsamt",
+    "landkreis": "Potsdam, Stadt",
+    "landkreis_ags": "12054",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Havelland-Fläming",
+    "adresse": {
+      "strasse": "Berliner Straße 150a",
+      "plz": "14469",
+      "ort": "Potsdam"
+    },
+    "telefon": "0331/289-2357",
+    "email": "oegd.Infektionsschutz@rathaus.potsdam.de"
+  },
+  {
+    "id": "ga-1-12-0-60",
+    "name": "Landkreis Barnim — Dienstleistungs- und Verwaltungszentrum/ Paul Wunderlich Haus",
+    "landkreis": "Barnim",
+    "landkreis_ags": "12060",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Uckermark-Barnim",
+    "adresse": {
+      "strasse": "Am Markt 1",
+      "plz": "16225",
+      "ort": "Eberswalde"
+    },
+    "telefon": "03334 214-1601",
+    "email": "gesundheitsamt@kvbarnim.de"
+  },
+  {
+    "id": "ga-1-12-0-61",
+    "name": "Gesundheitsamt",
+    "landkreis": "Dahme-Spreewald",
+    "landkreis_ags": "12061",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Lausitz-Spreewald",
+    "adresse": {
+      "strasse": "Schulweg 1B",
+      "plz": "15711",
+      "ort": "Königs Wusterhausen"
+    },
+    "telefon": "03375 26-2145",
+    "email": "Gesundheitsamt@dahme-spreewald.de"
+  },
+  {
+    "id": "ga-1-12-0-62",
+    "name": "Gesundheitsamt",
+    "landkreis": "Elbe-Elster",
+    "landkreis_ags": "12062",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Lausitz-Spreewald",
+    "adresse": {
+      "strasse": "Grochwitzer Str. 20",
+      "plz": "04916",
+      "ort": "Herzberg/Elster"
+    },
+    "telefon": "03535 463101",
+    "email": "gesundheitsamt@lkee.de"
+  },
+  {
+    "id": "ga-1-12-0-63",
+    "name": "Gesundheitsamt",
+    "landkreis": "Havelland",
+    "landkreis_ags": "12063",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Havelland-Fläming",
+    "adresse": {
+      "strasse": "Forststraße 45 a",
+      "plz": "14712",
+      "ort": "Rathenow"
+    },
+    "telefon": "03385 551-7101",
+    "email": "infektionsschutz@havelland.de"
+  },
+  {
+    "id": "ga-1-12-0-64",
+    "name": "Gesundheitsamt FB II",
+    "landkreis": "Märkisch-Oderland",
+    "landkreis_ags": "12064",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Oderland-Spree",
+    "adresse": {
+      "strasse": "Puschkinplatz 12",
+      "plz": "15306",
+      "ort": "Seelow"
+    },
+    "telefon": "03346 850-6701",
+    "email": "gesundheitsamt@landkreismol.de"
+  },
+  {
+    "id": "ga-1-12-0-65",
+    "name": "Gesundheitsamt",
+    "landkreis": "Oberhavel",
+    "landkreis_ags": "12065",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Prignitz-Oberhavel",
+    "adresse": {
+      "strasse": "Havelstr. 29",
+      "plz": "16515",
+      "ort": "Oranienburg"
+    },
+    "telefon": "03301 6013751",
+    "email": "Infektionsschutz@oberhavel.de"
+  },
+  {
+    "id": "ga-1-12-0-66",
+    "name": "Gesundheitsamt",
+    "landkreis": "Oberspreewald-Lausitz",
+    "landkreis_ags": "12066",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Lausitz-Spreewald",
+    "adresse": {
+      "strasse": "Großenhainer Str. 62",
+      "plz": "01968",
+      "ort": "Senftenberg"
+    },
+    "telefon": "+49 3573 87043-01",
+    "email": "gesundheitsamt@osl-online.de"
+  },
+  {
+    "id": "ga-1-12-0-67",
+    "name": "Gesundheitsamt",
+    "landkreis": "Oder-Spree",
+    "landkreis_ags": "12067",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Oderland-Spree",
+    "adresse": {
+      "strasse": "Breitscheidstraße 7",
+      "plz": "15848",
+      "ort": "Beeskow"
+    },
+    "telefon": "03366 35-2201",
+    "email": "hygiene@l-os.de"
+  },
+  {
+    "id": "ga-1-12-0-68",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ostprignitz-Ruppin",
+    "landkreis_ags": "12068",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Prignitz-Oberhavel",
+    "adresse": {
+      "strasse": "Neustädter Str. 13",
+      "plz": "16816",
+      "ort": "Neuruppin"
+    },
+    "telefon": "03391 688-5300",
+    "email": "gesundheitsamt@opr.de"
+  },
+  {
+    "id": "ga-1-12-0-69",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Potsdam-Mittelmark",
+    "landkreis_ags": "12069",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Havelland-Fläming",
+    "adresse": {
+      "strasse": "Niemöllerstraße 1",
+      "plz": "14806",
+      "ort": "Bad Belzig"
+    },
+    "telefon": "0049 33841 91-297",
+    "email": "gesundheitsamt@potsdam-mittelmark.de"
+  },
+  {
+    "id": "ga-1-12-0-70",
+    "name": "Gesundheitsamt",
+    "landkreis": "Prignitz",
+    "landkreis_ags": "12070",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Prignitz-Oberhavel",
+    "adresse": {
+      "strasse": "Bergstraße 49",
+      "plz": "19348",
+      "ort": "Perleberg"
+    },
+    "telefon": "03876-713 500",
+    "email": "gsa@lkprignitz.de"
+  },
+  {
+    "id": "ga-1-12-0-71",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Spree-Neiße",
+    "landkreis_ags": "12071",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Lausitz-Spreewald",
+    "adresse": {
+      "strasse": "Heinrich- Heine- Str.1",
+      "plz": "03149",
+      "ort": "Forst (Lausitz)"
+    },
+    "telefon": "03562 986-0/-15301",
+    "email": "gesundheitsamt@lkspn.de"
+  },
+  {
+    "id": "ga-1-12-0-72",
+    "name": "Dezernat II Gesundheitsamt",
+    "landkreis": "Teltow-Fläming",
+    "landkreis_ags": "12072",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Havelland-Fläming",
+    "adresse": {
+      "strasse": "Am Nuthefließ 2",
+      "plz": "14943",
+      "ort": "Luckenwalde"
+    },
+    "telefon": "03371 608-3800",
+    "email": "gesundheitsamt@teltow-flaeming.de"
+  },
+  {
+    "id": "ga-1-12-0-73",
+    "name": "Gesundheits- und Veterinäramt",
+    "landkreis": "Uckermark",
+    "landkreis_ags": "12073",
+    "bundesland": "Brandenburg",
+    "bundesland_kuerzel": "BB",
+    "raumordnungsregion": "Uckermark-Barnim",
+    "adresse": {
+      "strasse": "Karl-Marx-Str.1",
+      "plz": "17291",
+      "ort": "Prenzlau"
+    },
+    "telefon": "03984 70 1153",
+    "email": "infektionsschutz@uckermark.de"
+  },
+  {
+    "id": "ga-1-13-0-03",
+    "name": "Gesundheitsamt",
+    "landkreis": "Rostock",
+    "landkreis_ags": "13003",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "bundesland_kuerzel": "MV",
+    "raumordnungsregion": "Mittleres Mecklenburg/Rostock",
+    "adresse": {
+      "strasse": "Paulstraße 22",
+      "plz": "18055",
+      "ort": "Rostock"
+    },
+    "telefon": "0381 381-5301",
+    "email": "ga.infektionsschutz@rostock.de"
+  },
+  {
+    "id": "ga-1-13-0-04",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Schwerin",
+    "landkreis_ags": "13004",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "bundesland_kuerzel": "MV",
+    "raumordnungsregion": "Westmecklenburg",
+    "adresse": {
+      "strasse": "Am Packhof 2-6",
+      "plz": "19053",
+      "ort": "Schwerin"
+    },
+    "telefon": "0385 545-2820",
+    "email": "infektionsschutz@schwerin.de"
+  },
+  {
+    "id": "ga-1-13-0-71",
+    "name": "Gesundheitsamt",
+    "landkreis": "Mecklenburgische Seenplatte",
+    "landkreis_ags": "13071",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "bundesland_kuerzel": "MV",
+    "raumordnungsregion": "Mecklenburgische Seenplatte",
+    "adresse": {
+      "strasse": "Platanenstraße 43",
+      "plz": "17033",
+      "ort": "Neubrandenburg"
+    },
+    "telefon": "+49 395 57087 3147",
+    "email": "gesundheitsamt@lk-seenplatte.de"
+  },
+  {
+    "id": "ga-1-13-0-72",
+    "name": "Landkreis Rostock — der Landrat",
+    "landkreis": "Landkreis Rostock",
+    "landkreis_ags": "13072",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "bundesland_kuerzel": "MV",
+    "raumordnungsregion": "Mittleres Mecklenburg/Rostock",
+    "adresse": {
+      "strasse": "Am Wall 3 - 5",
+      "plz": "18273",
+      "ort": "Güstrow"
+    },
+    "telefon": "03843 755 53999",
+    "email": "infektionsschutz@lkros.de"
+  },
+  {
+    "id": "ga-1-13-0-73",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Vorpommern-Rügen",
+    "landkreis_ags": "13073",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "bundesland_kuerzel": "MV",
+    "raumordnungsregion": "Vorpommern",
+    "adresse": {
+      "strasse": "Carl-Heydemann-Ring 67",
+      "plz": "18437",
+      "ort": "Stralsund"
+    },
+    "telefon": "0049 3831 357 2301",
+    "email": "FD33@lk-vr.de"
+  },
+  {
+    "id": "ga-1-13-0-74",
+    "name": "Fachdienst Öffentlicher Gesundheitsdienst",
+    "landkreis": "Nordwestmecklenburg",
+    "landkreis_ags": "13074",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "bundesland_kuerzel": "MV",
+    "raumordnungsregion": "Westmecklenburg",
+    "adresse": {
+      "strasse": "Rostocker Straße 76",
+      "plz": "23970",
+      "ort": "Wismar"
+    },
+    "telefon": "03841 3040-5301",
+    "email": "ga@nordwestmecklenburg.de"
+  },
+  {
+    "id": "ga-1-13-0-75",
+    "name": "53 Gesundheitsamt",
+    "landkreis": "Vorpommern-Greifswald",
+    "landkreis_ags": "13075",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "bundesland_kuerzel": "MV",
+    "raumordnungsregion": "Vorpommern",
+    "adresse": {
+      "strasse": "Feldstraße 85a",
+      "plz": "17489",
+      "ort": "Greifswald"
+    },
+    "telefon": "03834 8760 2422",
+    "email": "gesundheitsamt@kreis-vg.de"
+  },
+  {
+    "id": "ga-1-13-0-76",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Ludwigslust-Parchim",
+    "landkreis_ags": "13076",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "bundesland_kuerzel": "MV",
+    "raumordnungsregion": "Westmecklenburg",
+    "adresse": {
+      "strasse": "",
+      "plz": "19362",
+      "ort": "Parchim"
+    },
+    "telefon": "03871 722-5300",
+    "email": "fd53@kreis-lup.de"
+  },
+  {
+    "id": "ga-1-14-5-11",
+    "name": "Gesundheitsamt",
+    "landkreis": "Chemnitz, Stadt",
+    "landkreis_ags": "14511",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Südsachsen",
+    "adresse": {
+      "strasse": "Am Rathaus 8",
+      "plz": "09111",
+      "ort": "Chemnitz"
+    },
+    "telefon": "0371 488-5301",
+    "email": "infektionsschutz@stadt-chemnitz.de"
+  },
+  {
+    "id": "ga-1-14-5-21-02",
+    "name": "Gesundheitsamt",
+    "landkreis": "Erzgebirgskreis",
+    "landkreis_ags": "14521",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Südsachsen",
+    "adresse": {
+      "strasse": "Klosterstraße 7",
+      "plz": "09456",
+      "ort": "Annaberg-Buchholz"
+    },
+    "telefon": "+49 3733 831-3008",
+    "email": "gsa.ifs@kreis-erz.de"
+  },
+  {
+    "id": "ga-1-14-5-22-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Mittelsachsen",
+    "landkreis_ags": "14522",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Südsachsen",
+    "adresse": {
+      "strasse": "Frauensteiner Straße 43",
+      "plz": "09599",
+      "ort": "Freiberg"
+    },
+    "telefon": "+49 3731 799-6249",
+    "email": "gesundheit@landkreis-mittelsachsen.de"
+  },
+  {
+    "id": "ga-1-14-5-23-02",
+    "name": "Landratsamt - Gesundheitsamt",
+    "landkreis": "Vogtlandkreis",
+    "landkreis_ags": "14523",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Südsachsen",
+    "adresse": {
+      "strasse": "Postplatz 5",
+      "plz": "08523",
+      "ort": "Plauen"
+    },
+    "telefon": "03741 300 3501",
+    "email": "gesundheitsamt@vogtlandkreis.de"
+  },
+  {
+    "id": "ga-1-14-5-24-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Zwickau",
+    "landkreis_ags": "14524",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Südsachsen",
+    "adresse": {
+      "strasse": "Werdauer Str. 62",
+      "plz": "08056",
+      "ort": "Zwickau"
+    },
+    "telefon": "0375 4402-22401",
+    "email": "gesundheitsamt@landkreis-zwickau.de"
+  },
+  {
+    "id": "ga-1-14-6-12",
+    "name": "Gesundheitsamt",
+    "landkreis": "Dresden, Stadt",
+    "landkreis_ags": "14612",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Oberes Elbtal/Osterzgebirge",
+    "adresse": {
+      "strasse": "Ostra-Allee 9",
+      "plz": "01067",
+      "ort": "Dresden"
+    },
+    "telefon": "0351 4885301",
+    "email": "gesundheitsamt-infektionsschutz@dresden.de"
+  },
+  {
+    "id": "ga-1-14-6-25-03",
+    "name": "Gesundheitsamt",
+    "landkreis": "Bautzen",
+    "landkreis_ags": "14625",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Oberlausitz-Niederschlesien",
+    "adresse": {
+      "strasse": "Bahnhofstr. 9",
+      "plz": "02625",
+      "ort": "Bautzen"
+    },
+    "telefon": "03591 5251-53213",
+    "email": "gesundheitsamt@lra-bautzen.de"
+  },
+  {
+    "id": "ga-1-14-6-26-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Görlitz",
+    "landkreis_ags": "14626",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Oberlausitz-Niederschlesien",
+    "adresse": {
+      "strasse": "Reichertstr.112",
+      "plz": "02826",
+      "ort": "Görlitz"
+    },
+    "telefon": "03581 663 2601",
+    "email": "gesundheitsamt@kreis-gr.de"
+  },
+  {
+    "id": "ga-1-14-6-27-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Meißen",
+    "landkreis_ags": "14627",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Oberes Elbtal/Osterzgebirge",
+    "adresse": {
+      "strasse": "Dresdner Str. 25",
+      "plz": "01662",
+      "ort": "Meißen"
+    },
+    "telefon": "+49 3521  725 3455",
+    "email": "ga.infektionsschutz@kreis-meissen.de"
+  },
+  {
+    "id": "ga-1-14-6-28-01",
+    "name": "Abteilung Gesundheit",
+    "landkreis": "Sächsische Schweiz-Osterzgebirge",
+    "landkreis_ags": "14628",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Oberes Elbtal/Osterzgebirge",
+    "adresse": {
+      "strasse": "Schloßhof 2/4",
+      "plz": "01796",
+      "ort": "Pirna"
+    },
+    "telefon": "03501  515 2318",
+    "email": "infektionsschutz@landratsamt-pirna.de"
+  },
+  {
+    "id": "ga-1-14-7-13",
+    "name": "Gesundheitsamt",
+    "landkreis": "Leipzig",
+    "landkreis_ags": "14729",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Westsachsen",
+    "adresse": {
+      "strasse": "Rohrteichstraße 16-20",
+      "plz": "04347",
+      "ort": "Leipzig"
+    },
+    "telefon": "0341 123-6809",
+    "email": "gesundheitsamt@leipzig.de"
+  },
+  {
+    "id": "ga-1-14-7-29-01",
+    "name": "Gesundheitsamt (Hauptsitz)",
+    "landkreis": "Leipzig",
+    "landkreis_ags": "14729",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Westsachsen",
+    "adresse": {
+      "strasse": "Stauffenbergstraße 4",
+      "plz": "04552",
+      "ort": "Borna"
+    },
+    "telefon": "+49 3433 241-2401",
+    "email": "gesundheitsamt@lk-l.de"
+  },
+  {
+    "id": "ga-1-14-7-30-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Nordsachsen",
+    "landkreis_ags": "14730",
+    "bundesland": "Sachsen",
+    "bundesland_kuerzel": "SN",
+    "raumordnungsregion": "Westsachsen",
+    "adresse": {
+      "strasse": "Schlosstraße 27",
+      "plz": "04860",
+      "ort": "Torgau"
+    },
+    "telefon": "03421 758-6301",
+    "email": "Infektionsmeldungen@lra-nordsachsen.de"
+  },
+  {
+    "id": "ga-1-15-0-01",
+    "name": "Gesundheitsamt/Veterinärwesen und Verbaucherschutz",
+    "landkreis": "Dessau-Roßlau, Stadt",
+    "landkreis_ags": "15001",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Anhalt-Bitterfeld-Wittenberg",
+    "adresse": {
+      "strasse": "Gustav-Bergt-Straße 3",
+      "plz": "06862",
+      "ort": "Dessau-Roßlau"
+    },
+    "telefon": "0340 204-2053",
+    "email": "gesundheitsamt@dessau-rosslau.de"
+  },
+  {
+    "id": "ga-1-15-0-02",
+    "name": "Fachbereich Gesundheit",
+    "landkreis": "Halle (Saale), Stadt",
+    "landkreis_ags": "15002",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Halle/S.",
+    "adresse": {
+      "strasse": "Niemeyerstr. 1/2",
+      "plz": "06110",
+      "ort": "Halle"
+    },
+    "telefon": "0345 221-3220",
+    "email": "gesundheitsamt@halle.de"
+  },
+  {
+    "id": "ga-1-15-0-03",
+    "name": "Landeshauptstadt Magdeburg — - Die Oberbürgermeisterin",
+    "landkreis": "Magdeburg, Landeshauptstadt",
+    "landkreis_ags": "15003",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Magdeburg",
+    "adresse": {
+      "strasse": "Lübecker Str. 32",
+      "plz": "39124",
+      "ort": "Magdeburg"
+    },
+    "telefon": "0391 540-6001",
+    "email": "Betina.Klement@ga.magdeburg.de"
+  },
+  {
+    "id": "ga-1-15-0-81",
+    "name": "Gesundheitsamt",
+    "landkreis": "Altmarkkreis Salzwedel",
+    "landkreis_ags": "15081",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Altmark",
+    "adresse": {
+      "strasse": "Karl-Marx-Str. 32",
+      "plz": "29410",
+      "ort": "Salzwedel"
+    },
+    "telefon": "03901 840 570",
+    "email": "Gesundheitsamt@altmarkkreis-salzwedel.de"
+  },
+  {
+    "id": "ga-1-15-0-82-02",
+    "name": "Gesundheitsamt - Köthen (Anhalt)",
+    "landkreis": "Anhalt-Bitterfeld",
+    "landkreis_ags": "15082",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Anhalt-Bitterfeld-Wittenberg",
+    "adresse": {
+      "strasse": "Am Flugplatz 1",
+      "plz": "06366",
+      "ort": "Köthen"
+    },
+    "telefon": "034 96  60 17 51",
+    "email": "gesundheitsamt@anhalt-bitterfeld.de"
+  },
+  {
+    "id": "ga-1-15-0-83-01",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Börde",
+    "landkreis_ags": "15083",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Magdeburg",
+    "adresse": {
+      "strasse": "Bornsche Straße 2",
+      "plz": "39340",
+      "ort": "Haldensleben"
+    },
+    "telefon": "03904 7240-2551",
+    "email": "gesundheit@landkreis-boerde.de"
+  },
+  {
+    "id": "ga-1-15-0-84-02",
+    "name": "Gesundheitsamt",
+    "landkreis": "Burgenlandkreis",
+    "landkreis_ags": "15084",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Halle/S.",
+    "adresse": {
+      "strasse": "Schönburger Str.41",
+      "plz": "06618",
+      "ort": "Naumburg"
+    },
+    "telefon": "03445 731673",
+    "email": "gesundheitsamt@blk.de"
+  },
+  {
+    "id": "ga-1-15-0-85-03",
+    "name": "Gesundheitsamt",
+    "landkreis": "Harz",
+    "landkreis_ags": "15085",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Magdeburg",
+    "adresse": {
+      "strasse": "Friedrich-Ebert-Str. 42",
+      "plz": "38820",
+      "ort": "Halberstadt"
+    },
+    "telefon": "03941 5970 2302",
+    "email": "gesundheitsamt@kreis-hz.de"
+  },
+  {
+    "id": "ga-1-15-0-86",
+    "name": "Gesundheitsamt",
+    "landkreis": "Jerichower Land",
+    "landkreis_ags": "15086",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Magdeburg",
+    "adresse": {
+      "strasse": "Brandenburger Str. 100",
+      "plz": "39307",
+      "ort": "Genthin"
+    },
+    "telefon": "03921 949-5300",
+    "email": "gesundheitsamt@lkjl.de"
+  },
+  {
+    "id": "ga-1-15-0-87-02",
+    "name": "Gesundheitsamt",
+    "landkreis": "Mansfeld-Südharz",
+    "landkreis_ags": "15087",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Halle/S.",
+    "adresse": {
+      "strasse": "Rudolf-Breitscheid-Str. 20-22",
+      "plz": "06526",
+      "ort": "Sangerhausen"
+    },
+    "telefon": "03464 535-4400",
+    "email": "gesundheitsamt@lkmsh.de"
+  },
+  {
+    "id": "ga-1-15-0-88-02",
+    "name": "Gesundheitsamt SG Hygiene",
+    "landkreis": "Saalekreis",
+    "landkreis_ags": "15088",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Halle/S.",
+    "adresse": {
+      "strasse": "Oberaltenburg 4b",
+      "plz": "06217",
+      "ort": "Merseburg"
+    },
+    "telefon": "03461 40 1700",
+    "email": "Gesundheitsamt@saalekreis.de"
+  },
+  {
+    "id": "ga-1-15-0-89-01",
+    "name": "34 Fachdienst Gesundheit",
+    "landkreis": "Salzlandkreis",
+    "landkreis_ags": "15089",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Magdeburg",
+    "adresse": {
+      "strasse": "",
+      "plz": "06400",
+      "ort": "Bernburg ( Saale)"
+    },
+    "telefon": "03471 684 2690",
+    "email": "infektionsschutz@kreis-slk.de"
+  },
+  {
+    "id": "ga-1-15-0-90",
+    "name": "Gesundheitsamt",
+    "landkreis": "Stendal",
+    "landkreis_ags": "15090",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Altmark",
+    "adresse": {
+      "strasse": "Wendstraße 30",
+      "plz": "39576",
+      "ort": "Stendal, Hansestadt"
+    },
+    "telefon": "03931 607-900",
+    "email": "Gesundheitsamt@landkreis-stendal.de"
+  },
+  {
+    "id": "ga-1-15-0-91",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Wittenberg",
+    "landkreis_ags": "15091",
+    "bundesland": "Sachsen-Anhalt",
+    "bundesland_kuerzel": "ST",
+    "raumordnungsregion": "Anhalt-Bitterfeld-Wittenberg",
+    "adresse": {
+      "strasse": "Breitscheidstraße 4",
+      "plz": "06886",
+      "ort": "Luth. Wittenberg"
+    },
+    "telefon": "03491 806-2504",
+    "email": "gesundheitsamt@landkreis-wittenberg.de"
+  },
+  {
+    "id": "ga-1-16-0-51",
+    "name": "Gesundheitsamt",
+    "landkreis": "Erfurt, Stadt",
+    "landkreis_ags": "16051",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Mittelthüringen",
+    "adresse": {
+      "strasse": "Juri-Gagarin-Ring 150",
+      "plz": "99084",
+      "ort": "Erfurt"
+    },
+    "telefon": "0361 655-4201",
+    "email": "infektionsschutz@erfurt.de"
+  },
+  {
+    "id": "ga-1-16-0-52",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Gera, Stadt",
+    "landkreis_ags": "16052",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Ostthüringen",
+    "adresse": {
+      "strasse": "Gagarinstraße 68",
+      "plz": "07545",
+      "ort": "Gera"
+    },
+    "telefon": "0365 838 3501",
+    "email": "gesundheit@gera.de"
+  },
+  {
+    "id": "ga-1-16-0-53",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Jena, Stadt",
+    "landkreis_ags": "16053",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Ostthüringen",
+    "adresse": {
+      "strasse": "Lutherplatz 3",
+      "plz": "07743",
+      "ort": "Jena"
+    },
+    "telefon": "03641 493-136",
+    "email": "gesundheitsamt@jena.de"
+  },
+  {
+    "id": "ga-1-16-0-54",
+    "name": "Gesundheitsamt",
+    "landkreis": "Suhl, Stadt",
+    "landkreis_ags": "16054",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Südthüringen",
+    "adresse": {
+      "strasse": "Friedrich-König-Str. 5",
+      "plz": "98527",
+      "ort": "Suhl"
+    },
+    "telefon": "03681 742-815",
+    "email": "gesundheitsamt@stadtsuhl.de"
+  },
+  {
+    "id": "ga-1-16-0-55",
+    "name": "Gesundheitsamt",
+    "landkreis": "Weimar, Stadt",
+    "landkreis_ags": "16055",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Mittelthüringen",
+    "adresse": {
+      "strasse": "Markt 13/14",
+      "plz": "99423",
+      "ort": "Weimar"
+    },
+    "telefon": "03643 762-752",
+    "email": "gesundheitsamt@stadtweimar.de"
+  },
+  {
+    "id": "ga-1-16-0-61",
+    "name": "Gesundheitsamt",
+    "landkreis": "Eichsfeld",
+    "landkreis_ags": "16061",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Nordthüringen",
+    "adresse": {
+      "strasse": "Aegidienstr. 24",
+      "plz": "37308",
+      "ort": "Heilbad Heiligenstadt"
+    },
+    "telefon": "03606 650-5300",
+    "email": "gesundheitsamt@kreis-eic.de"
+  },
+  {
+    "id": "ga-1-16-0-62",
+    "name": "Gesundheitsamt",
+    "landkreis": "Nordhausen",
+    "landkreis_ags": "16062",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Nordthüringen",
+    "adresse": {
+      "strasse": "Behringstr. 3",
+      "plz": "99734",
+      "ort": "Nordhausen"
+    },
+    "telefon": "03631 911 5400",
+    "email": "gesundheitswesen@LRANDH.THUERINGEN.de"
+  },
+  {
+    "id": "ga-1-16-0-63",
+    "name": "Gesundheitsamt",
+    "landkreis": "Wartburgkreis",
+    "landkreis_ags": "16063",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Südthüringen",
+    "adresse": {
+      "strasse": "Erzberger Allee 14",
+      "plz": "36433",
+      "ort": "Bad Salzungen"
+    },
+    "telefon": "03695 617410",
+    "email": "gesundheitsamt@wartburgkreis.de"
+  },
+  {
+    "id": "ga-1-16-0-64-01",
+    "name": "FD Gesundheit",
+    "landkreis": "Unstrut-Hainich-Kreis",
+    "landkreis_ags": "16064",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Nordthüringen",
+    "adresse": {
+      "strasse": "Lindenhof 1",
+      "plz": "99974",
+      "ort": "Mühlhausen"
+    },
+    "telefon": "03601 802-382",
+    "email": "gesundheitsamt@uh-kreis.de"
+  },
+  {
+    "id": "ga-1-16-0-65-01",
+    "name": "Gesundheitsamt",
+    "landkreis": "Kyffhäuserkreis",
+    "landkreis_ags": "16065",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Nordthüringen",
+    "adresse": {
+      "strasse": "Edmund-König-Platz 7",
+      "plz": "99706",
+      "ort": "Sondershausen"
+    },
+    "telefon": "03632 741-471",
+    "email": "gsa@kyffhaeuser.de"
+  },
+  {
+    "id": "ga-1-16-0-66",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Schmalkalden-Meiningen",
+    "landkreis_ags": "16066",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Südthüringen",
+    "adresse": {
+      "strasse": "Obertshäuser Platz 1",
+      "plz": "98617",
+      "ort": "Meiningen"
+    },
+    "telefon": "+49 3693 485 4000",
+    "email": "hygiene@lra-sm.de"
+  },
+  {
+    "id": "ga-1-16-0-67",
+    "name": "Gesundheitsamt",
+    "landkreis": "Gotha",
+    "landkreis_ags": "16067",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Mittelthüringen",
+    "adresse": {
+      "strasse": "Schützenallee 31",
+      "plz": "99867",
+      "ort": "Gotha"
+    },
+    "telefon": "03621 214-634",
+    "email": "Gesundheit@kreis-gth.de"
+  },
+  {
+    "id": "ga-1-16-0-68",
+    "name": "Gesundheitsamt",
+    "landkreis": "Sömmerda",
+    "landkreis_ags": "16068",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Mittelthüringen",
+    "adresse": {
+      "strasse": "Wielandstr. 4",
+      "plz": "99610",
+      "ort": "Sömmerda"
+    },
+    "telefon": "03634 354-781",
+    "email": "gesundheitsamt@lra-soemmerda.de"
+  },
+  {
+    "id": "ga-1-16-0-69",
+    "name": "Landratsamt Hildburghausen — 03685 7818-5398",
+    "landkreis": "Hildburghausen",
+    "landkreis_ags": "16069",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Südthüringen",
+    "adresse": {
+      "strasse": "Wiesenstr. 18",
+      "plz": "98646",
+      "ort": "Hildburghausen"
+    },
+    "telefon": "03685 7818-5311",
+    "email": "Gesundheitsamt@lrahbn.thueringen.de"
+  },
+  {
+    "id": "ga-1-16-0-70-02",
+    "name": "Gesundheitsamt",
+    "landkreis": "Ilm-Kreis",
+    "landkreis_ags": "16070",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Mittelthüringen",
+    "adresse": {
+      "strasse": "Ritterstr. 14",
+      "plz": "99310",
+      "ort": "Arnstadt"
+    },
+    "telefon": "03628 738-501",
+    "email": "ges@ilm-kreis.de"
+  },
+  {
+    "id": "ga-1-16-0-71",
+    "name": "Gesundheitsamt",
+    "landkreis": "Weimarer Land",
+    "landkreis_ags": "16071",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Mittelthüringen",
+    "adresse": {
+      "strasse": "Bahnhofstr. 28",
+      "plz": "99510",
+      "ort": "Apolda"
+    },
+    "telefon": "03644 540-580",
+    "email": "post.gesundheitsamt@wl.thueringen.de"
+  },
+  {
+    "id": "ga-1-16-0-72",
+    "name": "Gesundheitsamt",
+    "landkreis": "Sonneberg",
+    "landkreis_ags": "16072",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Südthüringen",
+    "adresse": {
+      "strasse": "Bahnhofstr. 66",
+      "plz": "96515",
+      "ort": "Sonneberg"
+    },
+    "telefon": "03675 871 247",
+    "email": "gesundheitsamt@lkson.de"
+  },
+  {
+    "id": "ga-1-16-0-73-02",
+    "name": "Gesundheitsamt",
+    "landkreis": "Saalfeld-Rudolstadt",
+    "landkreis_ags": "16073",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Ostthüringen",
+    "adresse": {
+      "strasse": "Rainweg 81",
+      "plz": "07318",
+      "ort": "Saalfeld"
+    },
+    "telefon": "03671 823-674",
+    "email": "gesundheitsamt@kreis-slf.de"
+  },
+  {
+    "id": "ga-1-16-0-74",
+    "name": "Gesundheitsamt",
+    "landkreis": "Saale-Holzland-Kreis",
+    "landkreis_ags": "16074",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Ostthüringen",
+    "adresse": {
+      "strasse": "Postfach 13 10",
+      "plz": "07602",
+      "ort": "Eisenberg"
+    },
+    "telefon": "036691 70-833",
+    "email": "ga@lrashk.thueringen.de"
+  },
+  {
+    "id": "ga-1-16-0-75-03",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Saale-Orla-Kreis",
+    "landkreis_ags": "16075",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Ostthüringen",
+    "adresse": {
+      "strasse": "Oschitzer Str. 4",
+      "plz": "07907",
+      "ort": "Schleiz"
+    },
+    "telefon": "03663 488 607",
+    "email": "gesundheit@lrasok.thueringen.de"
+  },
+  {
+    "id": "ga-1-16-0-76",
+    "name": "Gesundheitsamt",
+    "landkreis": "Greiz",
+    "landkreis_ags": "16076",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Ostthüringen",
+    "adresse": {
+      "strasse": "Dr.-Rathenau-Platz 11",
+      "plz": "07973",
+      "ort": "Greiz"
+    },
+    "telefon": "+49 3661 876-502",
+    "email": "gesundheitsamt@landkreis-greiz.de"
+  },
+  {
+    "id": "ga-1-16-0-77",
+    "name": "Fachdienst Gesundheit",
+    "landkreis": "Altenburger Land",
+    "landkreis_ags": "16077",
+    "bundesland": "Thüringen",
+    "bundesland_kuerzel": "TH",
+    "raumordnungsregion": "Ostthüringen",
+    "adresse": {
+      "strasse": "Lindenaustr. 31",
+      "plz": "04600",
+      "ort": "Altenburg"
+    },
+    "telefon": "+49 3447 586-822",
+    "email": "gesundheit@altenburgerland.de"
+  }
+]

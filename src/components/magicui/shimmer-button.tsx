@@ -1,5 +1,3 @@
-"use client";
-
 import React, { type CSSProperties, type ComponentPropsWithoutRef } from "react";
 import { cn } from "@/lib/utils";
 
