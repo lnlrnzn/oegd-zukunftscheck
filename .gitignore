@@ -55,3 +55,8 @@ gbe-snapshot.md
 data/raw/
 
 .vercel
+
+# playwright test artifacts
+/.playwright-mcp/
+/test-results/
+map-*.png

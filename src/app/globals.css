@@ -299,3 +299,14 @@ h1, h2, h3 {
 .chat-content > div {
   gap: 0.5rem;
 }
+
+/* Heatmap: CSS-only dim effect via :has() — avoids per-polygon React re-renders */
+.heatmap-svg path[data-ags] {
+  transition: opacity 220ms ease-out, fill 260ms ease-out;
+}
+.heatmap-svg:has(path[data-ags]:hover) path[data-ags]:not(:hover) {
+  opacity: 0.5;
+}
+.heatmap-svg:has(path[data-ags]:focus-visible) path[data-ags]:not(:focus-visible) {
+  opacity: 0.5;
+}

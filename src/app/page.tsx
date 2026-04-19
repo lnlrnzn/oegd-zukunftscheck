@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { HeroSection } from "@/components/landing/hero-section";
+import { MapSection } from "@/components/landing/map-section";
 import { BentoSection } from "@/components/landing/bento-section";
 import { ChatWidget } from "@/components/ai-agent/chat-widget";
 import {
@@ -43,6 +44,7 @@ export default function LandingPage() {
       </nav>
 
       <HeroSection />
+      <MapSection />
       <BentoSection />
       <ChatWidget />
 
