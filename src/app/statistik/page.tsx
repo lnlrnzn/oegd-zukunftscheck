@@ -1,8 +1,6 @@
-import Link from "next/link";
-import { Shield, ArrowLeft } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import { getGroupedRegions, getDeutschland } from "@/lib/regions";
 import { StatistikPageClient } from "@/components/statistik/statistik-page-client";
+import { SiteNav } from "@/components/site-nav";
 
 export const metadata = {
   title: "ÖGD Statistiken — Zukunftscheck",
@@ -15,29 +13,7 @@ export default function StatistikPage() {
 
   return (
     <main className="min-h-screen bg-background">
-      {/* Nav */}
-      <nav className="fixed top-0 w-full z-50 glass-header border-b">
-        <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
-          <div className="flex items-center gap-2.5">
-            <Link href="/" className="flex items-center gap-2.5 hover:opacity-80 transition-opacity">
-              <div className="w-8 h-8 rounded-lg bg-oegd-blue flex items-center justify-center">
-                <Shield className="h-4 w-4 text-white" />
-              </div>
-              <span className="font-semibold text-sm tracking-tight text-oegd-navy">
-                ÖGD Zukunftscheck
-              </span>
-            </Link>
-          </div>
-          <div className="flex items-center gap-2">
-            <Button asChild size="sm" variant="ghost" className="text-sm">
-              <Link href="/">
-                <ArrowLeft className="h-3.5 w-3.5 mr-1" />
-                Zurück
-              </Link>
-            </Button>
-          </div>
-        </div>
-      </nav>
+      <SiteNav />
 
       {/* Content */}
       <div className="pt-20 pb-16 max-w-6xl mx-auto px-6">

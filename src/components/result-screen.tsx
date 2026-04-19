@@ -25,6 +25,7 @@ import { NumberTicker } from "@/components/magicui/number-ticker";
 import { BorderBeam } from "@/components/magicui/border-beam";
 import { ROICalculator } from "@/components/roi-calculator";
 import { BenchmarkingCard } from "@/components/benchmarking-card";
+import { ExpertsSection } from "@/components/experts-section";
 
 interface ResultScreenProps {
   answers: Record<number, number>;
@@ -386,6 +387,16 @@ export function ResultScreen({ answers, regionName }: ResultScreenProps) {
           )}
         </CardContent>
       </Card>
+
+      <div className="animate-fade-in delay-3">
+        <ExpertsSection
+          variant="compact"
+          eyebrow="Ihre Ansprechpartner"
+          title="Persönlich für Ihr Amt — das Kienbaum-Team"
+          subtitle="Vier Beraterinnen und Berater mit tiefer ÖGD-, Digitalisierungs- und Personalexpertise begleiten Sie bei der Umsetzung."
+          className="-mx-4 md:-mx-6 px-0 rounded-[1.5rem] border border-slate-200 shadow-sm bg-white"
+        />
+      </div>
     </div>
   );
 }

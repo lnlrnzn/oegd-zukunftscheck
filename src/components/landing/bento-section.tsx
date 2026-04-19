@@ -2,18 +2,16 @@ import Link from "next/link";
 import {
   Users,
   Clock,
-  TrendingUp,
   MapPin,
   ClipboardCheck,
   BarChart3,
   ArrowRight,
   AlertTriangle,
   Cpu,
-  Building2,
 } from "lucide-react";
 import { BlurFade } from "@/components/magicui/blur-fade";
 import { NumberTicker } from "@/components/magicui/number-ticker";
-import { BentoGrid, BentoCard } from "@/components/magicui/bento-grid";
+import { BentoCard } from "@/components/magicui/bento-grid";
 import { ShimmerButton } from "@/components/magicui/shimmer-button";
 import { AnimatedGridPattern } from "@/components/ui/animated-grid-pattern";
 
@@ -63,9 +61,9 @@ export function BentoSection() {
         </BlurFade>
 
         <BlurFade delay={0.15} inView>
-          <BentoGrid className="auto-rows-[10rem] md:auto-rows-[13rem]">
-            {/* Card 1: VZÄ Count - spans 2 cols */}
-            <BentoCard className="md:col-span-2 md:row-span-1 bento-gradient-blue">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {/* Card 1: VZÄ Count */}
+            <BentoCard className="bento-gradient-blue min-h-[180px]">
               <div className="flex flex-col justify-between h-full">
                 <div className="flex items-center gap-2">
                   <div className="w-8 h-8 rounded-lg bg-oegd-blue/10 flex items-center justify-center">
@@ -87,13 +85,13 @@ export function BentoSection() {
             </BentoCard>
 
             {/* Card 2: Retirement wave */}
-            <BentoCard className="bento-gradient-red">
+            <BentoCard className="bento-gradient-red min-h-[180px]">
               <div className="flex flex-col justify-between h-full">
                 <div className="flex items-center gap-2">
                   <div className="w-8 h-8 rounded-lg bg-oegd-red/10 flex items-center justify-center">
                     <Clock className="h-4 w-4 text-oegd-red" />
                   </div>
-                  <span className="text-[10px] font-semibold text-oegd-red uppercase tracking-wider">
+                  <span className="text-xs font-semibold text-oegd-red uppercase tracking-wider">
                     Rentenwelle
                   </span>
                 </div>
@@ -110,13 +108,13 @@ export function BentoSection() {
             </BentoCard>
 
             {/* Card 3: Pakt ÖGD */}
-            <BentoCard className="bento-gradient-yellow">
+            <BentoCard className="bento-gradient-yellow min-h-[180px]">
               <div className="flex flex-col justify-between h-full">
                 <div className="flex items-center gap-2">
                   <div className="w-8 h-8 rounded-lg bg-oegd-yellow/10 flex items-center justify-center">
                     <AlertTriangle className="h-4 w-4 text-oegd-yellow" />
                   </div>
-                  <span className="text-[10px] font-semibold text-oegd-yellow uppercase tracking-wider">
+                  <span className="text-xs font-semibold text-oegd-yellow uppercase tracking-wider">
                     Pakt ÖGD
                   </span>
                 </div>
@@ -132,13 +130,13 @@ export function BentoSection() {
             </BentoCard>
 
             {/* Card 4: Digitalization status */}
-            <BentoCard className="bento-gradient-navy">
+            <BentoCard className="bento-gradient-navy min-h-[180px]">
               <div className="flex flex-col justify-between h-full">
                 <div className="flex items-center gap-2">
                   <div className="w-8 h-8 rounded-lg bg-white/10 flex items-center justify-center">
                     <Cpu className="h-4 w-4 text-white/90" />
                   </div>
-                  <span className="text-[10px] font-semibold text-white/70 uppercase tracking-wider">
+                  <span className="text-xs font-semibold text-white/85 uppercase tracking-wider">
                     EvalDiGe 2024
                   </span>
                 </div>
@@ -153,44 +151,58 @@ export function BentoSection() {
                 </div>
               </div>
             </BentoCard>
+          </div>
+        </BlurFade>
 
-            {/* Card 5: How it works - spans 2 cols */}
-            <BentoCard className="md:col-span-2 bg-muted/30">
-              <div className="flex flex-col justify-between h-full">
-                <p className="text-xs font-semibold text-oegd-blue uppercase tracking-[0.15em] mb-3">
-                  So funktioniert&apos;s
-                </p>
-                <div className="flex items-start gap-6">
-                  {steps.map((s, i) => (
-                    <div key={s.num} className="flex-1 relative">
-                      <div className="flex items-center gap-2 mb-2">
-                        <div className="w-7 h-7 rounded-lg bg-oegd-blue/10 flex items-center justify-center">
-                          <s.icon className="h-3.5 w-3.5 text-oegd-blue" />
-                        </div>
-                        <span className="text-[10px] font-bold text-oegd-blue tabular-nums">
-                          {s.num}
-                        </span>
-                      </div>
-                      <p className="text-sm font-semibold text-oegd-navy">
-                        {s.title}
-                      </p>
-                      <p className="text-xs text-muted-foreground mt-0.5 leading-relaxed">
-                        {s.desc}
-                      </p>
-                      {i < steps.length - 1 && (
-                        <ArrowRight className="absolute right-0 top-2.5 h-3 w-3 text-oegd-blue/30 hidden md:block" />
-                      )}
-                    </div>
-                  ))}
+        {/* So funktioniert's — eigene Sektion, damit die 3 Schritte klar lesbar sind */}
+        <BlurFade delay={0.25} inView>
+          <div className="mt-10 md:mt-14 rounded-[1rem] border border-oegd-blue/10 bg-gradient-to-br from-white to-oegd-blue-light/60 p-5 md:p-8 shadow-sm">
+            <div className="flex flex-col gap-2 md:flex-row md:items-end md:justify-between md:gap-6 mb-6">
+              <div>
+                <div className="flex items-center gap-2 mb-2">
+                  <span className="h-1 w-6 rounded-full bg-oegd-blue" aria-hidden />
+                  <span className="text-[11px] font-semibold uppercase tracking-[0.18em] text-oegd-blue">
+                    In 3 Schritten
+                  </span>
                 </div>
+                <h3 className="text-2xl md:text-3xl font-bold text-oegd-navy tracking-tight">
+                  So funktioniert&apos;s
+                </h3>
+                <p className="text-sm text-slate-600 mt-1">
+                  Vom Start bis zum Ergebnis in 5 Minuten — kostenlos und ohne Registrierung.
+                </p>
               </div>
-            </BentoCard>
-          </BentoGrid>
+            </div>
+            <ol className="grid grid-cols-1 sm:grid-cols-3 gap-4 md:gap-5">
+              {steps.map((s, i) => (
+                <li key={s.num} className="relative">
+                  <div className="h-full rounded-[0.75rem] border border-slate-200 bg-white p-4 md:p-5">
+                    <div className="flex items-center gap-2.5 mb-3">
+                      <div className="w-9 h-9 rounded-lg bg-oegd-blue flex items-center justify-center text-white shadow-sm shadow-oegd-blue/30">
+                        <s.icon className="h-4 w-4" />
+                      </div>
+                      <span className="text-xs font-bold text-oegd-blue tabular-nums">
+                        {s.num}
+                      </span>
+                    </div>
+                    <p className="text-base font-semibold text-oegd-navy">{s.title}</p>
+                    <p className="text-sm text-slate-600 mt-1 leading-relaxed">{s.desc}</p>
+                  </div>
+                  {i < steps.length - 1 && (
+                    <ArrowRight
+                      className="absolute -right-3 top-1/2 -translate-y-1/2 h-4 w-4 text-oegd-blue/40 hidden sm:block"
+                      aria-hidden
+                    />
+                  )}
+                </li>
+              ))}
+            </ol>
+          </div>
         </BlurFade>
 
         {/* CTA */}
         <BlurFade delay={0.4} inView>
-          <div className="text-center mt-14">
+          <div className="text-center mt-10 md:mt-14">
             <Link href="/assessment">
               <ShimmerButton className="h-13 px-10 text-base font-medium shadow-xl shadow-oegd-blue/20">
                 <span className="flex items-center gap-2">

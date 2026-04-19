@@ -60,3 +60,4 @@ data/raw/
 /.playwright-mcp/
 /test-results/
 map-*.png
+profiles.txt
